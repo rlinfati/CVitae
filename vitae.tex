@@ -7,10 +7,11 @@
 \moderncvstyle{classic}
 \moderncvcolor{blue}
 
-\newcites{bibjcrscopus}{Journal Articles - WOS/JCR - SCOPUS}
-\newcites{bibscielo}{Journal Articles - WOS/ESCI - SCIELO}
-\newcites{bibbookchap}{Conference Articles - Book Chapter}
-\newcites{bibreport}{Technical Reports}
+\newcites{bibjcr}{Journal Articles - WOS/JCR}
+\newcites{bibsjr}{Journal Articles - WOS/ESCI \& SCOPUS}
+\newcites{bibcon}{Conference Articles - Book Chapter}
+\newcites{bibart}{Journal Articles - Peer Reviewed}
+%\newcites{bibpre}{Journal Articles - PrePrint}
 
 \newcites{bibphdthesis}{Doctoral Thesis Supervised}
 \newcites{bibmscthesis}{Master Thesis Supervised}
@@ -51,25 +52,30 @@
 
 \input{40-research-project.tex}
 
-\bibliographystylebibjcrscopus{unsrtnat}
-\bibliographybibjcrscopus{bib-paper-1-jcr-scopus}
-\nocitebibjcrscopus{*}
+\bibliographystylebibjcr{unsrtnat}
+\bibliographybibjcr{bib-paper-1-jcr}
+\nocitebibjcr{*}
 \clearpage
 
-\bibliographystylebibscielo{unsrtnat}
-\bibliographybibscielo{bib-paper-2-scielo}
-\nocitebibscielo{*}
+\bibliographystylebibsjr{unsrtnat}
+\bibliographybibsjr{bib-paper-2-wos-scopus}
+\nocitebibsjr{*}
 \clearpage
 
-\bibliographystylebibbookchap{unsrtnat}
-\bibliographybibbookchap{bib-paper-3-bookconf}
-\nocitebibbookchap{*}
+\bibliographystylebibcon{unsrtnat}
+\bibliographybibcon{bib-paper-3-bookconf}
+\nocitebibcon{*}
 \clearpage
 
-\bibliographystylebibreport{unsrtnat}
-\bibliographybibreport{bib-paper-4-report}
-\nocitebibreport{*}
+\bibliographystylebibart{unsrtnat}
+\bibliographybibart{bib-paper-4-peerreviewed}
+\nocitebibart{*}
 \clearpage
+
+% \bibliographystylebibpre{unsrtnat}
+% \bibliographybibpre{bib-paper-5-preprint}
+% \nocitebibpre{*}
+% \clearpage
 
 \bibliographystylebibphdthesis{unsrtnat}
 \bibliographybibphdthesis{bib-phd-thesis}
