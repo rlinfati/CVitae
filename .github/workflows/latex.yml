@@ -1,0 +1,18 @@
+name: LatexMK
+on:
+  workflow_dispatch:
+  push:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: xu-cheng/latex-action@v3
+        with:
+          root_file: vitae.tex
+      - uses: actions/upload-artifact@v4
+        with:
+          path: vitae.pdf
+      - uses: xu-cheng/latex-action@v3
+        with:
+          root_file: vitaePAPER.tex
