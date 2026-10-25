@@ -1,6 +1,9 @@
 ---
 title: "CV Linfati"
+date: today
 lang: en
+language:
+  title-block-published: Last update
 format:
   typst:
     output-file: CV-Linfati-en.pdf

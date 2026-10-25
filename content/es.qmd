@@ -1,0 +1,154 @@
+## Sobre mí
+
+Rodrigo Linfati es actualmente Profesor Titular (desde 2026) del Departamento de Ingeniería Industrial de la Universidad del Bío-Bío en Concepción (Chile), donde se incorporó en 2012. El Dr. Linfati obtuvo su Ph.D. en Investigación Operativa en la Universidad de Bologna (Italia). También obtuvo un Magíster en Ciencias de la Ingeniería Industrial, el título profesional de Ingeniero Industrial y una Licenciatura en Ciencias de la Ingeniería en la Universidad de Concepción (Chile).
+
+- **Áreas de investigación:** investigación de operaciones, optimización combinatoria, metaheurísticas y gestión de operaciones.
+- **Intereses de investigación:** algoritmos heurísticos y metaheurísticos (TS, SA, VNS, GA, ACO); modelamiento matemático y formulaciones de programación entera mixta; matheurísticas y técnicas de optimización híbridas; aprendizaje automático para optimización, incluido el aprendizaje por refuerzo; optimización cuántica e inspirada en la cuántica (metaheurísticas, QUBO, recocido cuántico, QAOA).
+- **Áreas de aplicación:** ruteo de vehículos y logística de última milla; gestión de la cadena de suministro (forestal, aserraderos, minería); problemas de corte (aserraderos, forestal); programación de tareas, localización y salud.
+
+## Resumen de investigación
+
+- Publicaciones: XX (WoS: XX; SCOPUS: XX)
+- Índice h: XX (SCOPUS) · XX (Google Scholar)
+- Citas: XXXX (Google Scholar)
+- Proyectos como PI: XX · Tesis dirigidas: XX (doctorado: XX; magíster: XX)
+
+## Contacto e identificadores
+
+{{< include content/0200-contact.qmd >}}
+
+## Cargos y liderazgo
+
+### Cargos académicos
+
+{{< include content/0301-appointments.qmd >}}
+
+### Cargos administrativos y de gestión
+
+{{< include content/0302-leadership.qmd >}}
+
+## Formación académica
+
+{{< include content/0400-education.qmd >}}
+
+## Premios y distinciones
+
+{{< include content/0500-honors.qmd >}}
+
+## Proyectos de investigación
+
+PI: investigador/a responsable · Co-PI: co-investigador/a.
+
+### Financiamiento concursable
+
+{{< include content/0601-projects-competitive.qmd >}}
+
+### Financiamiento universitario
+
+{{< include content/0602-projects-university.qmd >}}
+
+### Transferencia tecnológica y colaboración con la industria
+
+{{< include content/0603-projects-transfer.qmd >}}
+
+## Publicaciones
+
+\* coautor/a estudiante · † autor/a de correspondencia.
+
+### Artículos en revistas - WoS (SCIE, SSCI, AHCI)
+
+{{< include content/0701-pub-wos.qmd >}}
+
+### Artículos en revistas - WoS/ESCI y SCOPUS
+
+{{< include content/0702-pub-scopus.qmd >}}
+
+### Artículos en revistas - SciELO y otras
+
+{{< include content/0703-pub-peer.qmd >}}
+
+### Artículos en conferencias y capítulos de libro
+
+{{< include content/0704-pub-conf.qmd >}}
+
+### Artículos en revistas - preprints
+
+{{< include content/0705-pub-preprint.qmd >}}
+
+## Tesis dirigidas
+
+A: director/a · CA: codirector/a · ✓: finalizada · …: en curso.
+
+### Tesis de doctorado
+
+{{< include content/0801-theses-phd.qmd >}}
+
+### Tesis de magíster
+
+{{< include content/0802-theses-msc.qmd >}}
+
+### Proyectos de pregrado - UBB
+
+{{< include content/0803-theses-bsc.qmd >}}
+
+## Experiencia docente
+
+{{< include content/0900-teaching.qmd >}}
+
+## Software y material docente
+
+{{< include content/1000-software.qmd >}}
+
+## Servicio académico
+
+### Roles editoriales
+
+{{< include content/1101-service-editorial.qmd >}}
+
+### Revisión - Revistas
+
+{{< include content/1102-service-journals.qmd >}}
+
+### Revisión - Jerarquización académica
+
+{{< include content/1103-service-ranks.qmd >}}
+
+### Revisión - Proyectos
+
+{{< include content/1104-service-projects.qmd >}}
+
+### Revisión - Becas
+
+{{< include content/1105-service-scholarships.qmd >}}
+
+### Comisiones de tesis de magíster
+
+{{< include content/1106-service-msc.qmd >}}
+
+### Comisiones de tesis de doctorado
+
+{{< include content/1107-service-phd.qmd >}}
+
+### Organización y comités de conferencias
+
+{{< include content/1108-service-conf.qmd >}}
+
+## Charlas y presentaciones
+
+### Conferencias plenarias e invitadas
+
+{{< include content/1201-talks-keynote.qmd >}}
+
+### Presentaciones en conferencias
+
+{{< include content/1202-talks-conf.qmd >}}
+
+## Otros
+
+### Membresía en sociedades profesionales
+
+{{< include content/1301-societies.qmd >}}
+
+### Idiomas
+
+{{< include content/1302-languages.qmd >}}

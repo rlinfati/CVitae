@@ -1,6 +1,9 @@
 ---
 title: "CV Linfati"
+date: today
 lang: es
+language:
+  title-block-published: Última actualización
 format:
   typst:
     output-file: CV-Linfati-es.pdf
@@ -8,8 +11,4 @@ format:
     output-file: CV-Linfati-es.docx
 ---
 
-Hola mundo, CV Linfati.
-
-## Publicaciones
-
-{{< include content/papers.qmd >}}
+{{< include content/es.qmd >}}

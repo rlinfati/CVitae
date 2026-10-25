@@ -1,7 +1,9 @@
 ---
 title: "CV Linfati"
+date: today
 lang: en
 language:
+  title-block-published: Last update
   other-links-title: Other Formats
 format:
   html:

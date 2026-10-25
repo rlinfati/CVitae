@@ -1,5 +1,154 @@
-Hello world, CV Linfati.
+## About Me
+
+Rodrigo Linfati is currently a Full Professor (since 2026) in the Department of Industrial Engineering at the University of Bío-Bío in Concepción (Chile), where he joined in 2012. Dr. Linfati earned his Ph.D. in Operational Research from the University of Bologna (Italy). He also earned a Master of Science in Industrial Engineering, a professional degree in Industrial Engineering, and a Bachelor of Science in Engineering from the University of Concepción (Chile).
+
+- **Research Areas:** operations research, combinatorial optimization, metaheuristics, and operations management.
+- **Research Interests:** heuristic and metaheuristic algorithms (TS, SA, VNS, GA, ACO); mathematical modeling and mixed-integer programming formulations; matheuristics and hybrid optimization techniques; machine learning for optimization, including reinforcement learning; quantum and quantum-inspired optimization (metaheuristics, QUBO, quantum annealing, QAOA).
+- **Application Areas:** vehicle routing and last-mile logistics; supply chain management (forestry, sawmill, mining); cutting stock (sawmill, forestry); scheduling, location, and healthcare.
+
+## Research Summary
+
+- Publications: XX (WoS: XX; SCOPUS: XX)
+- h-index: XX (SCOPUS) · XX (Google Scholar)
+- Citations: XXXX (Google Scholar)
+- Grants as PI: XX · Theses supervised: XX (PhD: XX; MSc: XX)
+
+## Contact and Identifiers
+
+{{< include content/0200-contact.qmd >}}
+
+## Appointments and Leadership
+
+### Academic Appointments
+
+{{< include content/0301-appointments.qmd >}}
+
+### Administrative and Leadership Roles
+
+{{< include content/0302-leadership.qmd >}}
+
+## Education
+
+{{< include content/0400-education.qmd >}}
+
+## Honors and Awards
+
+{{< include content/0500-honors.qmd >}}
+
+## Research Projects
+
+PI: principal investigator · Co-PI: co-investigator.
+
+### Competitive Funding
+
+{{< include content/0601-projects-competitive.qmd >}}
+
+### University Funding
+
+{{< include content/0602-projects-university.qmd >}}
+
+### Technology Transfer and Industry Collaboration
+
+{{< include content/0603-projects-transfer.qmd >}}
 
 ## Publications
 
-{{< include content/papers.qmd >}}
+\* student co-author · † corresponding author.
+
+### Journal Articles - WoS (SCIE, SSCI, AHCI)
+
+{{< include content/0701-pub-wos.qmd >}}
+
+### Journal Articles - WoS/ESCI & SCOPUS
+
+{{< include content/0702-pub-scopus.qmd >}}
+
+### Journal Articles - SciELO and Others
+
+{{< include content/0703-pub-peer.qmd >}}
+
+### Conference Articles and Book Chapters
+
+{{< include content/0704-pub-conf.qmd >}}
+
+### Journal Articles - PrePrint
+
+{{< include content/0705-pub-preprint.qmd >}}
+
+## Supervised Theses
+
+A: advisor · CA: co-advisor · ✓: completed · …: in progress.
+
+### Doctoral Theses
+
+{{< include content/0801-theses-phd.qmd >}}
+
+### Master Theses
+
+{{< include content/0802-theses-msc.qmd >}}
+
+### Undergraduate Projects - UBB
+
+{{< include content/0803-theses-bsc.qmd >}}
+
+## Teaching Experience
+
+{{< include content/0900-teaching.qmd >}}
+
+## Software and Teaching Materials
+
+{{< include content/1000-software.qmd >}}
+
+## Academic Service
+
+### Editorial Roles
+
+{{< include content/1101-service-editorial.qmd >}}
+
+### Reviewing - Journals
+
+{{< include content/1102-service-journals.qmd >}}
+
+### Reviewing - Academic Ranks
+
+{{< include content/1103-service-ranks.qmd >}}
+
+### Reviewing - Projects
+
+{{< include content/1104-service-projects.qmd >}}
+
+### Reviewing - Scholarships
+
+{{< include content/1105-service-scholarships.qmd >}}
+
+### Master Theses Committees
+
+{{< include content/1106-service-msc.qmd >}}
+
+### Doctoral Theses Committees
+
+{{< include content/1107-service-phd.qmd >}}
+
+### Conference Organization and Committees
+
+{{< include content/1108-service-conf.qmd >}}
+
+## Talks
+
+### Plenary and Keynote Talks
+
+{{< include content/1201-talks-keynote.qmd >}}
+
+### Conference Talks
+
+{{< include content/1202-talks-conf.qmd >}}
+
+## Other
+
+### Membership in Professional Societies
+
+{{< include content/1301-societies.qmd >}}
+
+### Languages
+
+{{< include content/1302-languages.qmd >}}
