@@ -1,0 +1,10 @@
+---
+title: "CV Linfati"
+format:
+  html:
+    format-links: [typst, docx]
+  typst: default
+  docx: default
+---
+
+Hola mundo, CV Linfati.
