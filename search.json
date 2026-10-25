@@ -1,23 +1,16 @@
 [
   {
-    "objectID": "CV-Linfati-es.html",
-    "href": "CV-Linfati-es.html",
+    "objectID": "index-es.html",
+    "href": "index-es.html",
     "title": "CV Linfati",
     "section": "",
-    "text": "Hola mundo, CV Linfati.\nPDF DOCX English"
+    "text": "PDF DOCX English\nHola mundo, CV Linfati."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CV Linfati",
     "section": "",
-    "text": "CV (English)\nCV (Español)"
-  },
-  {
-    "objectID": "CV-Linfati-en.html",
-    "href": "CV-Linfati-en.html",
-    "title": "CV Linfati",
-    "section": "",
-    "text": "Hello world, CV Linfati.\nPDF DOCX Español"
+    "text": "PDF DOCX Español\nHello world, CV Linfati."
   }
 ]
