@@ -1,17 +1,22 @@
 name: quarto
+
 on:
   push:
-    branches: 
-      - master
+    branches: [master]
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-slim
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@v4
       - uses: quarto-dev/quarto-actions/setup@v2
-      - uses: quarto-dev/quarto-actions/publish@v2
+      - run: quarto render
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          target: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs
+          publish_branch: gh-pages

@@ -1,14 +1,6 @@
 project:
-  type: website
+  type: default
   output-dir: docs
   render:
     - index.qmd
     - index-es.qmd
-
-format:
-  html:
-    theme: none
-    css: assets/style.css
-    include-in-header: includes/head.html
-    include-before-body: includes/header.html
-    include-after-body: includes/footer.html

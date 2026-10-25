@@ -1,3 +1,0 @@
-/* nav: keep the name on one line and let the links wrap on narrow screens */
-header nav { flex-wrap: wrap; }
-header nav ul:first-child li { white-space: nowrap; }

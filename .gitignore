@@ -1,8 +1,7 @@
 # .gitignore
-.quarto/
-docs/
-#
-demo-quarto/
-
 /.quarto/
+/docs/
+#
+/demo-quarto/
+#
 **/*.quarto_ipynb
