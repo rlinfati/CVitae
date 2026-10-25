@@ -8,7 +8,7 @@ permissions:
   issues: write
 jobs:
   renovate:
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-26.04
     steps:
       - uses: renovatebot/github-action@v46.3.9
         with:

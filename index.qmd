@@ -1,10 +1,6 @@
 ---
 title: "CV Linfati"
-format:
-  html:
-    format-links: [typst, docx]
-  typst: default
-  docx: default
 ---
 
-Hola mundo, CV Linfati.
+- [CV (English)](CV-Linfati-en.html)
+- [CV (Español)](CV-Linfati-es.html)
