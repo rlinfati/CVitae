@@ -3,8 +3,7 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    - CV-Linfati-en.qmd
-    - CV-Linfati-es.qmd
+    - index-es.qmd
 
 format:
   html:

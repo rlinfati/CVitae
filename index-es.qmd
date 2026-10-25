@@ -1,0 +1,16 @@
+---
+title: "CV Linfati"
+lang: es
+format:
+  html: default
+  typst:
+    output-file: CV-Linfati-es.pdf
+  docx:
+    output-file: CV-Linfati-es.docx
+---
+
+::: {.content-visible when-format="html"}
+[PDF](CV-Linfati-es.pdf){role="button"} [DOCX](CV-Linfati-es.docx){role="button"} [English](index.html){role="button" .outline}
+:::
+
+Hola mundo, CV Linfati.
