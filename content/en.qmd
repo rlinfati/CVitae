@@ -1,3 +1,5 @@
+**Full Professor** · Department of Industrial Engineering · Universidad del Bío-Bío
+
 ## About Me
 
 Rodrigo Linfati is currently a Full Professor (since 2026) in the Department of Industrial Engineering at the University of Bío-Bío in Concepción (Chile), where he joined in 2012. Dr. Linfati earned his Ph.D. in Operational Research from the University of Bologna (Italy). He also earned a Master of Science in Industrial Engineering, a professional degree in Industrial Engineering, and a Bachelor of Science in Engineering from the University of Concepción (Chile).
@@ -15,6 +17,9 @@ Rodrigo Linfati is currently a Full Professor (since 2026) in the Department of 
 
 ## Contact and Identifiers
 
+- Full name: XX
+- Citizenship: XX
+
 {{< include content/0200-contact.qmd >}}
 
 ## Appointments and Leadership
@@ -23,9 +28,13 @@ Rodrigo Linfati is currently a Full Professor (since 2026) in the Department of 
 
 {{< include content/0301-appointments.qmd >}}
 
+### Graduate Program Memberships
+
+{{< include content/0302-graduate-programs.qmd >}}
+
 ### Administrative and Leadership Roles
 
-{{< include content/0302-leadership.qmd >}}
+{{< include content/0303-leadership.qmd >}}
 
 ## Education
 
@@ -37,7 +46,7 @@ Rodrigo Linfati is currently a Full Professor (since 2026) in the Department of 
 
 ## Research Projects
 
-PI: principal investigator · Co-PI: co-investigator.
+PI: principal investigator · Co-I: co-investigator · YR: young researcher.
 
 ### Competitive Funding
 
@@ -47,9 +56,13 @@ PI: principal investigator · Co-PI: co-investigator.
 
 {{< include content/0602-projects-university.qmd >}}
 
+### Research Groups
+
+{{< include content/0603-projects-groups.qmd >}}
+
 ### Technology Transfer and Industry Collaboration
 
-{{< include content/0603-projects-transfer.qmd >}}
+{{< include content/0604-projects-transfer.qmd >}}
 
 ## Publications
 
@@ -87,13 +100,23 @@ A: advisor · CA: co-advisor · ✓: completed · …: in progress.
 
 {{< include content/0802-theses-msc.qmd >}}
 
-### Undergraduate Projects - UBB
+### Undergraduate Projects - Research
 
-{{< include content/0803-theses-bsc.qmd >}}
+{{< include content/0803-theses-bsc-research.qmd >}}
 
-## Teaching Experience
+### Undergraduate Projects - Industry
 
-{{< include content/0900-teaching.qmd >}}
+{{< include content/0804-theses-bsc-industry.qmd >}}
+
+## Teaching
+
+### Courses Taught
+
+{{< include content/0901-teaching.qmd >}}
+
+### Teaching Training and Professional Development
+
+{{< include content/0902-teaching-training.qmd >}}
 
 ## Software and Teaching Materials
 

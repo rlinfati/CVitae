@@ -1,3 +1,4 @@
-- **2023–2026.** Lorem ipsum dolor sit amet, consectetur — *PI* — ANID, Chile
-- **2016–2018.** Sed do eiusmod tempor incididunt — *Co-PI* — CORFO, Chile
-- **2012–2015.** Ut labore et dolore magna — *PI* — ANID, Chile
+- **2023–2026.** Lorem ipsum dolor sit amet, consectetur — FONDECYT Regular 0000000 — *PI* — ANID, Chile
+- **2017–2019.** Sed do eiusmod tempor incididunt — FONDEF 00M0000000 — *YR* — ANID, Chile
+- **2016–2018.** Ut labore et dolore magna — INNOVA 00.00-IN.IIP — *Co-I* — CORFO, Chile
+- **2014–2016.** Quis nostrud exercitation — ECOS 0000 — *Co-I* — ANID, France–Chile

@@ -1,3 +1,2 @@
-- **2025–2026.** Lorem ipsum dolor sit amet — *PI* — UBB, Chile
-- **2022–2024.** Consectetur adipiscing elit — *PI* — UBB, Chile
-- **2018–2019.** Sed do eiusmod tempor — *Co-PI* — UBB, Chile
+- **2025–2026.** Lorem ipsum dolor sit amet — RE0000000 — *Co-I* — UBB, Chile
+- **2022–2024.** Consectetur adipiscing elit — RE0000000 — *PI* — UBB, Chile

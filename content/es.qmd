@@ -1,3 +1,5 @@
+**Profesor Titular** · Departamento de Ingeniería Industrial · Universidad del Bío-Bío
+
 ## Sobre mí
 
 Rodrigo Linfati es actualmente Profesor Titular (desde 2026) del Departamento de Ingeniería Industrial de la Universidad del Bío-Bío en Concepción (Chile), donde se incorporó en 2012. El Dr. Linfati obtuvo su Ph.D. en Investigación Operativa en la Universidad de Bologna (Italia). También obtuvo un Magíster en Ciencias de la Ingeniería Industrial, el título profesional de Ingeniero Industrial y una Licenciatura en Ciencias de la Ingeniería en la Universidad de Concepción (Chile).
@@ -15,6 +17,9 @@ Rodrigo Linfati es actualmente Profesor Titular (desde 2026) del Departamento de
 
 ## Contacto e identificadores
 
+- Nombre completo: XX
+- Nacionalidad: XX
+
 {{< include content/0200-contact.qmd >}}
 
 ## Cargos y liderazgo
@@ -23,9 +28,13 @@ Rodrigo Linfati es actualmente Profesor Titular (desde 2026) del Departamento de
 
 {{< include content/0301-appointments.qmd >}}
 
+### Pertenencia a programas de postgrado
+
+{{< include content/0302-graduate-programs.qmd >}}
+
 ### Cargos administrativos y de gestión
 
-{{< include content/0302-leadership.qmd >}}
+{{< include content/0303-leadership.qmd >}}
 
 ## Formación académica
 
@@ -37,7 +46,7 @@ Rodrigo Linfati es actualmente Profesor Titular (desde 2026) del Departamento de
 
 ## Proyectos de investigación
 
-PI: investigador/a responsable · Co-PI: co-investigador/a.
+PI: investigador/a principal · Co-I: co-investigador/a · YR: investigador/a joven.
 
 ### Financiamiento concursable
 
@@ -47,9 +56,13 @@ PI: investigador/a responsable · Co-PI: co-investigador/a.
 
 {{< include content/0602-projects-university.qmd >}}
 
+### Grupos de investigación
+
+{{< include content/0603-projects-groups.qmd >}}
+
 ### Transferencia tecnológica y colaboración con la industria
 
-{{< include content/0603-projects-transfer.qmd >}}
+{{< include content/0604-projects-transfer.qmd >}}
 
 ## Publicaciones
 
@@ -87,13 +100,23 @@ A: director/a · CA: codirector/a · ✓: finalizada · …: en curso.
 
 {{< include content/0802-theses-msc.qmd >}}
 
-### Proyectos de pregrado - UBB
+### Proyectos de pregrado - investigación
 
-{{< include content/0803-theses-bsc.qmd >}}
+{{< include content/0803-theses-bsc-research.qmd >}}
 
-## Experiencia docente
+### Proyectos de pregrado - con empresas
 
-{{< include content/0900-teaching.qmd >}}
+{{< include content/0804-theses-bsc-industry.qmd >}}
+
+## Docencia
+
+### Cursos dictados
+
+{{< include content/0901-teaching.qmd >}}
+
+### Capacitación y perfeccionamiento docente
+
+{{< include content/0902-teaching-training.qmd >}}
 
 ## Software y material docente
 

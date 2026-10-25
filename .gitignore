@@ -5,3 +5,4 @@
 /demo-quarto/
 #
 **/*.quarto_ipynb
+assets/reference.docx

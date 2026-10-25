@@ -1,5 +1,7 @@
 ---
-title: "CV Linfati"
+title: "Dr. Rodrigo Linfati"
+subtitle: "Currículum Vitae"
+pagetitle: "Dr. Rodrigo Linfati - Currículum Vitae"
 date: today
 lang: es
 language:
@@ -8,6 +10,7 @@ format:
   typst:
     output-file: CV-Linfati-es.pdf
   docx:
+    reference-doc: assets/reference.docx
     output-file: CV-Linfati-es.docx
 ---
 

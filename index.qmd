@@ -1,5 +1,7 @@
 ---
-title: "CV Linfati"
+title: "Rodrigo Linfati, PhD"
+subtitle: "Curriculum Vitae"
+pagetitle: "Rodrigo Linfati, PhD - Curriculum Vitae"
 date: today
 lang: en
 language:
@@ -7,6 +9,9 @@ language:
   other-links-title: Other Formats
 format:
   html:
+    include-in-header:
+      - text: |
+          <style>p, li { text-align: justify; }</style>
     other-links:
       - text: PDF (English)
         href: CV-Linfati-en.pdf

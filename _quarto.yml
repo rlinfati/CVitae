@@ -1,6 +1,7 @@
 project:
   type: default
   output-dir: docs
+  pre-render: scripts/make-reference-docx.py
   render:
     - index.qmd
     - index-en.qmd
