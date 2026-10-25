@@ -3,4 +3,5 @@ project:
   output-dir: docs
   render:
     - index.qmd
+    - index-en.qmd
     - index-es.qmd

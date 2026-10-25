@@ -1,0 +1,11 @@
+---
+title: "CV Linfati"
+lang: en
+format:
+  typst:
+    output-file: CV-Linfati-en.pdf
+  docx:
+    output-file: CV-Linfati-en.docx
+---
+
+{{< include content/en.qmd >}}

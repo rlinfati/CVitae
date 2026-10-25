@@ -1,0 +1,5 @@
+Hello world, CV Linfati.
+
+## Publications
+
+{{< include content/papers.qmd >}}

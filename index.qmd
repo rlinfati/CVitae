@@ -1,27 +1,25 @@
 ---
 title: "CV Linfati"
 lang: en
+language:
+  other-links-title: Other Formats
 format:
   html:
-    format-links:
+    other-links:
+      - text: PDF (English)
+        href: CV-Linfati-en.pdf
+        icon: file-pdf
+      - text: DOCX (English)
+        href: CV-Linfati-en.docx
+        icon: file-word
       - text: PDF (Español)
         href: CV-Linfati-es.pdf
         icon: file-pdf
       - text: DOCX (Español)
         href: CV-Linfati-es.docx
         icon: file-word
-  typst:
-    output-file: CV-Linfati-en.pdf
-  docx:
-    output-file: CV-Linfati-en.docx
 ---
 
-::: {.content-visible when-format="html"}
 <a href="/">← rlinfati.github.io</a>
-:::
 
-Hello world, CV Linfati.
-
-## Publications
-
-{{< include content/papers.qmd >}}
+{{< include content/en.qmd >}}
