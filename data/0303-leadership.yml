@@ -1,0 +1,27 @@
+items:
+  - start: 2025
+    end: 2027
+    title:
+      en: "Academic Representative to the [University Council](https://consejouniversitario.ubiobio.cl/)"
+      es: "Representante académico ante el [Consejo Universitario](https://consejouniversitario.ubiobio.cl/)"
+    web: 1
+  - start: 2023
+    end: 2025
+    title:
+      en: "Academic Representative to the [Faculty of Engineering Council](https://fi.ubiobio.cl/)"
+      es: "Representante académico ante el [Consejo de la Facultad de Ingeniería](https://fi.ubiobio.cl/)"
+  - start: 2021
+    end: 2023
+    title:
+      en: "Academic Representative to the [Faculty of Engineering Council](https://fi.ubiobio.cl/)"
+      es: "Representante académico ante el [Consejo de la Facultad de Ingeniería](https://fi.ubiobio.cl/)"
+  - start: 2021
+    end: 2024
+    title:
+      en: "Director, Master's in Industrial Engineering"
+      es: "Director del Magíster en Ingeniería Industrial"
+  - start: 2019
+    end: 2023
+    title:
+      en: "Faculty Academic Evaluation Committee (CEAF), Faculty of Engineering - Alternate member"
+      es: "Comisión de Evaluación Académica de Facultad (CEAF), Facultad de Ingeniería - Subrogante"

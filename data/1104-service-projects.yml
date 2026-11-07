@@ -1,0 +1,50 @@
+items:
+  - start: 2018
+    title: "ANID - CONICYT"
+    items:
+      - name:
+          en: "Fondecyt Exploratory"
+          es: "Fondecyt Exploratorio"
+        reviews: [{year: 2022}]
+      - name:
+          en: "Fondecyt Initiation"
+          es: "Fondecyt Iniciación"
+        reviews: [{year: 2025}, {year: 2024}, {year: 2023, n: 2}, {year: 2022}, {year: 2020}, {year: 2019}, {year: 2018, n: 2}]
+      - name: "Fondecyt Regular"
+        reviews: [{year: 2023, n: 2}]
+      - name: "FONDEF IDEA I+D"
+        reviews: [{year: 2026, n: 3}, {year: 2024}, {year: 2022}]
+      - name: "FONDEF IDEA I+T"
+        reviews: [{year: 2026}]
+  - start: 2015
+    end: 2021
+    title:
+      en: "Universities in Latin America"
+      es: "Universidades en Latinoamérica"
+    items:
+      - name: "Universidad de Santiago de Chile (Chile)"
+        reviews: [{year: 2021}]
+      - name: "Universidad Pontificia Bolivariana (Colombia)"
+        reviews: [{year: 2021}]
+      - name: "Universidad de los Andes (Colombia)"
+        reviews: [{year: 2018}]
+      - name: "PUJ Cali y Universidad de los Andes (Colombia)"
+        reviews: [{year: 2017}]
+      - name: "Pontificia Universidad Javeriana Cali (Colombia)"
+        reviews: [{year: 2015}]
+  - start: 2026
+    end: 2026
+    title:
+      en: "Foreign research funding agencies"
+      es: "Agencias extranjeras de financiamiento a la investigación"
+    items:
+      - name: "Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
+        reviews: [{year: 2026}]
+  - start: 2021
+    end: 2021
+    title:
+      en: "Academic ranks - Universities in Latin America"
+      es: "Jerarquización académica - Universidades en Latinoamérica"
+    items:
+      - name: "Universidad del Valle (Colombia)"
+        reviews: [{year: 2021}]

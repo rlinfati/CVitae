@@ -1,0 +1,21 @@
+items:
+  - key: raul2026phd
+    entry: mastersthesis
+    authors:
+      - "R. Soto-Concha"
+    title: "El Problema de Entrega de Productos con Distintos Tiempos de Liberacion en Logistica de Ultima Milla: Modelacion Matematica y Enfoque de Resolucion con Datos Reales"
+    school: "Universidad del Bío-Bío"
+    year: "2025-2"
+    degree: "Doctorado en Ingeniería"
+  - key: jorge2025phd
+    entry: mastersthesis
+    authors:
+      - "J.F. Mena-Reyes"
+    title: "Optimización en la cadena de suministro del bosque a la madera sólida y problemas de corte con un enfoque sostenible"
+    school: "Universidad del Bío-Bío"
+    year: "2025-1"
+    degree: "Doctorado en Ingeniería de Materiales y Procesos Sustentables"
+    ubb-WERKEN-id: "72230"
+    ubb-WERKEN-call: "T(E) 620.11 M52 2025"
+    ubb-WERKEN-author: "Mena Reyes, Jorge Félix"
+    ubb-WERKEN-title: "Optimización en la cadena de suministro del bosque a la madera sólida y problemas de corte con un enfoque sostenible [recurso electrónico]"

@@ -1,0 +1,43 @@
+items:
+  - institution: "Universidad de Concepción - Chile"
+    degrees:
+      - name:
+          en: "PhD in Industrial Engineering"
+          es: "Doctorado en Ingeniería Industrial"
+        reviews: [{year: 2026}, {year: 2025}, {year: 2022, candidate: true}, {year: 2019, candidate: true}]
+  - institution: "Universidad de Talca - Chile"
+    degrees:
+      - name:
+          en: "PhD in Engineering"
+          es: "Doctorado en Ingeniería"
+        reviews: [{year: 2023, candidate: true}]
+  - institution: "Universidad de los Andes - Colombia"
+    degrees:
+      - name:
+          en: "PhD in Engineering"
+          es: "Doctorado en Ingeniería"
+        reviews: [{year: 2023, candidate: true}]
+  - institution: "Universidad del Valle - Colombia"
+    degrees:
+      - name:
+          en: "PhD in Engineering"
+          es: "Doctorado en Ingeniería"
+        reviews: [{year: 2025, n: 2}, {year: 2024, candidate: true}, {year: 2023, candidate: true}, {year: 2021, candidate: true}, {year: 2020}]
+  - institution: "Universidad EAFIT - Colombia"
+    degrees:
+      - name:
+          en: "PhD in Mathematical Engineering"
+          es: "Doctorado en Ingeniería Matemática"
+        reviews: [{year: 2025}]
+  - institution: "Universidad Nacional de Colombia - Colombia"
+    degrees:
+      - name:
+          en: "PhD in Engineering - Industry and Organizations"
+          es: "Doctorado en Ingeniería - Industria y Organizaciones"
+        reviews: [{year: 2016}]
+  - institution: "Universidad Tecnológica de Pereira - Colombia"
+    degrees:
+      - name:
+          en: "PhD in Engineering"
+          es: "Doctorado en Ingeniería"
+        reviews: [{year: 2016}]

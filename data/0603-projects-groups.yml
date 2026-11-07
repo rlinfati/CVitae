@@ -1,0 +1,64 @@
+items:
+  - start: 2023
+    end: 2026
+    title:
+      en: "Operations Management, Sustainability, and Data Science Research Group"
+      es: "Grupo de investigación en Gestión de Operaciones, Sustentabilidad, y Data Science"
+    role: PI
+    web: 3
+    web-mark: true
+    code: "UBioBio-GI-2380142"
+    program:
+      en: "Research group"
+      es: "Grupo de investigación"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "R. Linfati"
+      - "V. Ortiz-Araya"
+      - "F. Troncoso-Espinosa"
+      - "G. Latorre-Núñez"
+      - "C. Rozas"
+    id-ubb-vrip: "2023-163"
+  - start: 2021
+    end: 2023
+    title:
+      en: "Operations Management, Sustainability, and Data Science Research Group"
+      es: "Grupo de investigación en Gestión de Operaciones, Sustentabilidad, y Data Science"
+    role: PI
+    web: 4
+    code: "UBioBio-GI-2160277 GI/EF"
+    program:
+      en: "Research group"
+      es: "Grupo de investigación"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "R. Linfati"
+      - "V. Ortiz-Araya"
+      - "F. Troncoso-Espinosa"
+      - "G. Latorre-Núñez"
+      - "C. Rozas"
+    id-ubb-vrip: "2021-161"
+  - start: 2017
+    end: 2019
+    title:
+      en: "Logistics and Transportation Research Group"
+      es: "Grupo de investigación en logística y transporte"
+    role: PI
+    web: 5
+    code: "UBioBio-GI-171411 GI/EF"
+    program:
+      en: "Research group"
+      es: "Grupo de investigación"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "R. Linfati"
+      - "I. Santelices"
+      - "F. Núñez-Cerda"
+      - "C. Obreque"
+      - "F. Muñoz"
+      - "F. Ramis"
+      - "P. Álvarez"
+    id-ubb-vrip: "2017-77"

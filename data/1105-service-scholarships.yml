@@ -1,0 +1,24 @@
+items:
+  - start: 2018
+    title:
+      en: "ANID - Scholarships"
+      es: "ANID - Becas"
+    items:
+      - name: "Beca de Magíster Nacional para Funcionarios/as del Sector Público"
+        reviews: [{year: 2026, n: 2}, {year: 2020, n: 2}, {year: 2018, n: 2}]
+      - name: "Becas de Doctorado en el Extranjero Becas Chile"
+        reviews: [{year: 2022, n: 2}, {year: 2020}, {year: 2019, n: 4}]
+      - name: "Becas de Doctorado Nacional"
+        reviews: [{year: 2025, n: 6}, {year: 2024, n: 4}, {year: 2023, n: 6}, {year: 2022, n: 2}, {year: 2021, n: 3}, {year: 2020}, {year: 2019, n: 6}]
+      - name: "Becas de Magíster en el Extranjero Becas Chile"
+        reviews: [{year: 2024}, {year: 2023, n: 3}, {year: 2018, n: 5}]
+      - name: "Becas de Magíster Nacional"
+        reviews: [{year: 2025}, {year: 2024, n: 9}, {year: 2023, n: 9}, {year: 2022, n: 6}, {year: 2021, n: 3}, {year: 2020, n: 6}, {year: 2018, n: 3}]
+      - name: "Beneficio Complementario - Extensión de Beca para Redacción de Tesis Doctoral"
+        reviews: [{year: 2024, n: 2}, {year: 2023}, {year: 2022}, {year: 2021, n: 3}]
+      - name: "Beneficio Complementario - Gastos Operacionales del Proyecto de Tesis Doctoral"
+        reviews: [{year: 2024}, {year: 2023, n: 2}, {year: 2021, n: 2}, {year: 2020, n: 2}]
+      - name: "Beneficio Complementario - Pasantías Doctorales en el Extranjero"
+        reviews: [{year: 2024}, {year: 2020, n: 2}, {year: 2019}]
+      - name: "Subvención a la Instalación en la Academia"
+        reviews: [{year: 2025}, {year: 2024, n: 2}]

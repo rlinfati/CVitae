@@ -1,0 +1,177 @@
+---
+title: "Dr. Rodrigo Linfati"
+subtitle: "Currículum Vitae"
+pagetitle: "Dr. Rodrigo Linfati - Currículum Vitae"
+date: today
+lang: es
+language:
+  title-block-published: Última actualización
+format:
+  typst:
+    date-format: "[Última actualización:] D [de] MMMM [de] YYYY"
+    output-file: CV-Linfati-es.pdf
+  docx:
+    date-format: "[Última actualización:] D [de] MMMM [de] YYYY"
+    reference-doc: assets/reference.docx
+    output-file: CV-Linfati-es.docx
+---
+
+{{< cv text data/0000-about.yml >}}
+
+{{< cv text data/0100-summary.yml >}}
+
+{{< cv scholar >}}
+
+{{< cv summary >}}
+
+## Contacto e identificadores
+
+{{< cv text data/0200-contact.yml >}}
+
+## Cargos y liderazgo
+
+### Cargos académicos
+
+{{< cv appointments data/0301-appointments.yml >}}
+
+### Pertenencia a programas de postgrado
+
+{{< cv programs data/0302-postgraduate.yml >}}
+
+### Cargos administrativos y de gestión
+
+{{< cv entries data/0303-leadership.yml >}}
+
+## Formación académica
+
+{{< cv education data/0400-education.yml >}}
+
+## Proyectos de investigación
+
+{{< cv text data/0600-projects-notes.yml >}}
+
+### Financiamiento externo
+
+{{< cv projects data/0601-projects-external.yml >}}
+
+### Financiamiento UBB
+
+{{< cv projects data/0602-projects-ubiobio.yml >}}
+
+### Grupos de investigación
+
+{{< cv projects data/0603-projects-groups.yml >}}
+
+## Publicaciones
+
+### Artículos en revistas - WoS (SCIE, SSCI, AHCI)
+
+{{< cv bib data/0701-pub-wos.yml style=article >}}
+
+### Artículos en revistas - WoS/ESCI y Scopus
+
+{{< cv bib data/0702-pub-scopus.yml style=article >}}
+
+### Artículos en revistas - SciELO y otras
+
+{{< cv bib data/0703-pub-peer.yml style=article >}}
+
+### Artículos en conferencias y capítulos de libro
+
+{{< cv bib data/0704-pub-conf.yml style=conference >}}
+
+### Artículos en revistas - preprints
+
+{{< cv bib data/0705-pub-preprint.yml style=report >}}
+
+## Tesis dirigidas
+
+### Tesis de doctorado - UBB
+
+{{< cv bib data/0801-theses-phd-ubb.yml style=thesis >}}
+
+### Tesis de magíster - UBB
+
+{{< cv bib data/0802-theses-msc-ubb.yml style=thesis >}}
+
+### Tesis de magíster - Otras universidades
+
+{{< cv bib data/0803-theses-msc-other.yml style=thesis >}}
+
+### Proyectos de pregrado - UBB
+
+{{< cv bib data/0804-theses-bsc-ubb.yml style=thesis >}}
+
+## Docencia
+
+### Cursos dictados
+
+v: vespertino · e: electivo (solo pregrado) · m: curso de magíster ofrecido en pregrado.
+
+{{< cv teaching data/0901-teaching.yml >}}
+
+### Capacitación y perfeccionamiento docente
+
+{{< cv training data/0902-teaching-training.yml >}}
+
+## Servicio académico
+
+### Par evaluador de acreditación
+
+{{< cv entries data/1101-service-accreditation.yml >}}
+
+### Revisión - Revistas
+
+{{< cv journals data/1102-service-journals.yml >}}
+
+### Revisión - Proyectos y jerarquización académica
+
+{{< cv groups data/1104-service-projects.yml >}}
+
+### Revisión - Becas
+
+{{< cv groups data/1105-service-scholarships.yml >}}
+
+### Comisiones de tesis de magíster
+
+{{< cv committees data/1106-service-msc.yml >}}
+
+### Comisiones de tesis de doctorado
+
+(C): candidatura.
+
+{{< cv committees data/1107-service-phd.yml >}}
+
+### Organización de conferencias
+
+{{< cv conferences data/1108-service-conf-organizer.yml >}}
+
+### Comités de conferencias
+
+{{< cv conferences data/1109-service-conf-committee.yml >}}
+
+## Charlas y presentaciones
+
+Presentador/a en negrita.
+
+### Conferencias plenarias e invitadas
+
+{{< cv bib data/1201-talks-keynote.yml style=talk >}}
+
+### Presentaciones en conferencias
+
+{{< cv bib data/1202-talks-conf.yml style=talk >}}
+
+### Extensión y difusión
+
+{{< cv entries data/1203-talks-outreach.yml >}}
+
+## Otros
+
+### Membresía en sociedades profesionales
+
+{{< cv entries data/1301-societies.yml >}}
+
+### Idiomas
+
+{{< cv pairs data/1302-languages.yml >}}

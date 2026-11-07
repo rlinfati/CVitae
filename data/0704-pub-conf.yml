@@ -1,0 +1,311 @@
+items:
+  - key: gsphfc2027
+    entry: inproceedings
+    authors:
+      - "M. Gómez-Navarro"
+      - "R. Linfati"
+      - "J.C. Figueroa-García"
+      - "C.A. Franco"
+      - "D. Morillo-Torres"
+      - "J.R. Coronado-Hernández"
+      - "G. Gatica"
+    title: "GSPH-FC: A Geometric Space Partitioning Heuristic with Frontier Connectivity for the Euclidean TSP"
+    booktitle: "Applied Computer Sciences in Engineering"
+    year: 2027
+    volume: 3182
+    number: ""
+    pages: "459-469"
+    doi: "10.1007/978-3-032-41324-6_38"
+    id-google-scholar: "hMsQuOkrut0C"
+    id-scopus: "2-s2.0-105054877279"
+    isbn-print: "978-3-032-41323-9"
+    isbn-online: "978-3-032-41324-6"
+    id-orcid: "232546006"
+    issn-series-print: "1865-0929"
+    issn-series-online: "1865-0937"
+  - key: artiis2025
+    entry: inproceedings
+    authors:
+      - "J.F. Mena-Reyes"
+      - "R. Soto-Concha"
+      - "M. Díaz-Palma"
+      - "R. Linfati"
+    title: "Optimization of Bucking Rules in the Forestry Industry Considering Taper Functions"
+    booktitle: "Advanced Research in Technologies, Information, Innovation and Sustainability"
+    year: 2025
+    volume: 2345
+    number: ""
+    pages: "58-73"
+    doi: "10.1007/978-3-031-83207-9_5"
+    id-google-scholar: "vDijr-p_gm4C"
+    id-wos: "WOS:001472382700005"
+    id-scopus: "2-s2.0-105001431149"
+    isbn-print: "978-3-031-83206-2"
+    isbn-online: "978-3-031-83207-9"
+    id-orcid: "232545986"
+    id-ubb-vrip: "7471"
+    issn-series-print: "1865-0929"
+    issn-series-online: "1865-0937"
+  - key: ortiz2025sochedi
+    entry: inproceedings
+    authors:
+      - "V. Ortiz-Araya"
+      - "R. Linfati"
+    title: "Metodología de desarrollo temprana a través de semillero de investigación: una experiencia desde el grupo en vías de consolidación GeOSDSc-UBB"
+    booktitle: "SOCHEDI 2025"
+    year: 2025
+    id-google-scholar: "L7CI7m0gUJcC"
+  - key: linfati2024fuel
+    entry: inproceedings
+    authors:
+      - "R. Linfati"
+      - "F. Troncoso-Espinosa"
+      - "G. Latorre-Núñez"
+      - "K. García-Vásquez"
+    title: "A Metaheuristic for the Traveling Salesman Problem Considering Fuel Consumption"
+    booktitle: "Asia Pacific Conference on Industrial Engineering and Operations Management - IEOM"
+    year: 2024
+    doi: "10.46254/AP05.20240025"
+    id-google-scholar: "ILKRHgRFtOwC"
+    id-orcid: "232546931"
+  - key: icpr2023
+    entry: inproceedings
+    authors:
+      - "V. Ortiz-Araya"
+      - "A. Pagès-Bernaus"
+      - "R. Linfati"
+      - "C. Rozas"
+    title: "Gestión sustentable del proceso productivo para una cadena de suministro agrícola"
+    booktitle: "Anais do International Conference on Production Research Americas"
+    year: 2023
+    volume: ""
+    number: ""
+    pages: "1-8"
+    doi: "10.29327/foreigners_subscription_icpr_americas22.664689"
+    isbn-print: "x"
+    isbn-online: "978-85-5722-913-6"
+    id-orcid: "232546940"
+    id-ubb-vrip: "7250"
+  - key: novidente2022
+    entry: inproceedings
+    authors:
+      - "Y. He-Astudillo"
+      - "M. Reyes-Rogget"
+      - "F. López"
+      - "I. López-Martínez"
+      - "R. Linfati"
+      - "D. Morillo-Torres"
+      - "G. Gatica"
+    title: "Design of a Wearable Assistive System for Visually Impaired People"
+    booktitle: "Computer Information Systems and Industrial Management 2022 - Lecture Notes in Computer Science"
+    year: 2022
+    volume: 13293
+    number: ""
+    pages: "123-135"
+    doi: "10.1007/978-3-031-10539-5_9"
+    id-google-scholar: "Fu2w8maKXqMC"
+    id-wos: "WOS:000893684100009"
+    id-scopus: "2-s2.0-85135070310"
+    isbn-print: "978-3-031-10538-8"
+    isbn-online: "978-3-031-10539-5"
+    id-orcid: "232545999"
+    id-ubb-vrip: "5500"
+    issn-series-print: "0302-9743"
+    issn-series-online: "1611-3349"
+  - key: older2022
+    entry: inproceedings
+    authors:
+      - "B. Farías-Barraza"
+      - "M. Reyes-Rogget"
+      - "F. López"
+      - "I. López-Martínez"
+      - "C. Contreras-Bolton"
+      - "R. Linfati"
+      - "G. Gatica"
+    title: "Low-Cost Voice Assistant Design and Testing for Older Adults"
+    booktitle: "Computer Information Systems and Industrial Management 2022 - Lecture Notes in Computer Science"
+    year: 2022
+    volume: 13293
+    number: ""
+    pages: "107-122"
+    doi: "10.1007/978-3-031-10539-5_8"
+    id-google-scholar: "W5xh706n7nkC"
+    id-wos: "WOS:000893684100008"
+    id-scopus: "2-s2.0-85135064827"
+    isbn-print: "978-3-031-10538-8"
+    isbn-online: "978-3-031-10539-5"
+    id-orcid: "232545991"
+    id-ubb-vrip: "5499"
+    issn-series-print: "0302-9743"
+    issn-series-online: "1611-3349"
+  - key: FLORESCARRASCO2021787
+    entry: inproceedings
+    authors:
+      - "J. Flores-Carrasco"
+      - "D. Morillo-Torres"
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "G. Gatica"
+    title: "The Periodic Location-Routing with Selective Recycling Problem: Two Solution Approaches"
+    booktitle: "IFAC-PapersOnLine - 17th IFAC Symposium - INCOM 2021"
+    year: 2021
+    volume: 54
+    number: 1
+    pages: "787-792"
+    doi: "10.1016/j.ifacol.2021.08.092"
+    id-google-scholar: "dQ2og3OwTAUC"
+    id-wos: "WOS:000716937600130"
+    id-scopus: "2-s2.0-85120673077"
+    issn-print: "-"
+    issn-online: "2405-8963"
+    id-orcid: "232546015"
+    id-ubb-vrip: "4786"
+  - key: osores2020design
+    entry: inproceedings
+    authors:
+      - "F. Osores"
+      - "G. Cabrera"
+      - "R. Linfati"
+      - "S. Umaña"
+      - "J.R. Coronado-Hernández"
+      - "G. Gatica"
+    title: "Design of an Information System for optimizing the Programming of nursing work shifts"
+    booktitle: "IOP Conference Series: Materials Science and Engineering - 844 - 012044"
+    year: 2020
+    pages: "1-9"
+    doi: "10.1088/1757-899x/844/1/012044"
+    id-google-scholar: "9vf0nzSNQJEC"
+    id-scopus: "2-s2.0-85088096188"
+    issn-print: "1757-8981"
+    issn-online: "1757-899X"
+    id-orcid: "232545994"
+    id-ubb-vrip: "4227"
+  - key: quila2020new
+    entry: inproceedings
+    authors:
+      - "D. Quila"
+      - "D. Morillo-Torres"
+      - "G. Cabrera"
+      - "R. Linfati"
+      - "G. Gatica"
+    title: "A New Mathematical Model for the Vehicle Routing Problem with Backhauls and Time Windows"
+    booktitle: "Information Technology and Systems: Proceedings of ICITS 2020 - AISC 1137"
+    year: 2020
+    pages: "46-53"
+    doi: "10.1007/978-3-030-40690-5_5"
+    id-google-scholar: "dTyEYWd-f8wC"
+    id-wos: "WOS:000659660600005"
+    id-scopus: "2-s2.0-85080892028"
+    isbn-print: "978-3-030-40689-9"
+    isbn-online: "978-3-030-40690-5"
+    id-orcid: "232546016"
+    id-ubb-vrip: "4251"
+    issn-series-print: "2194-5357"
+    issn-series-online: "2194-5365"
+  - key: toth2019
+    entry: inproceedings
+    authors:
+      - "P. Toth"
+      - "V. Cacchiani"
+      - "C. Contreras-Bolton"
+      - "J.W. Escobar"
+      - "L.M. Escobar-Falcon"
+      - "R. Linfati"
+    title: "Models and metaheuristics for the Pollution Traveling Salesman Problem"
+    booktitle: "International Conference on Industrial Engineering and Operations Management"
+    year: 2019
+    pages: "3327-3328"
+    doi: "10.46254/AN09.20190760"
+    id-scopus: "2-s2.0-85067239849"
+    isbn: "978-1-5323-5948-4"
+    issn-series: "2169-8767"
+    id-orcid: "232545967"
+    id-ubb-vrip: "5691"
+  - key: cacchiani2018
+    entry: inproceedings
+    authors:
+      - "V. Cacchiani"
+      - "C. Contreras-Bolton"
+      - "J.W. Escobar"
+      - "L.M. Escobar-Falcon"
+      - "R. Linfati"
+      - "P. Toth"
+    title: "An Iterated Local Search Algorithm for the Pollution Traveling Salesman Problem"
+    booktitle: "New Trends in Emerging Complex Real Life Problems"
+    year: 2018
+    pages: "83-91"
+    doi: "10.1007/978-3-030-00473-6_10"
+    id-google-scholar: "HE397vMXCloC"
+    id-scopus: "2-s2.0-85105492770"
+    isbn-print: "978-3-030-00472-9"
+    isbn-online: "978-3-030-00473-6"
+    id-orcid: "232545974"
+    id-ubb-vrip: "4281"
+    issn-series-print: "2523-7047"
+    issn-series-online: "2523-7055"
+  - key: diaz2018
+    entry: inproceedings
+    authors:
+      - "N. Díaz"
+      - "M. Riquelme"
+      - "R. Linfati"
+      - "S. Gutiérrez"
+      - "G. Gatica"
+    title: "Web information system for the consignment and routing of vehicles"
+    booktitle: "JIISIC 2018 - Jornadas Iberoamericanas de Ingenieria de Software e Ingenieria del Conocimiento"
+    year: 2018
+    pages: "109-124"
+    doi: ""
+    id-google-scholar: "tkaPQYYpVKoC"
+    id-scopus: "2-s2.0-85050110380"
+    isbn: "978-1-5108-6325-5"
+    id-orcid: "232545968"
+    id-ubb-vrip: "6426"
+  - key: bernal2018conf
+    entry: inproceedings
+    authors:
+      - "J. Bernal-Moyano"
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "A granular tabu search algorithm for a real case study of a vehicle routing problem with a heterogeneous fleet and time windows"
+    booktitle: "European International Conference on Industrial Engineering and Operations Management - IEOM"
+    year: 2018
+    pages: "277-278"
+    doi: ""
+    id-scopus: "2-s2.0-85066921920"
+    issn-series: "2169-8767"
+    isbn: "978-1-5323-5945-3"
+    id-ubb-vrip: "5692"
+  - key: pradenas2015ewgord
+    entry: inproceedings
+    authors:
+      - "L. Pradenas-Rojas"
+      - "G. Bravo"
+      - "R. Linfati"
+      - "V. Parada"
+      - "C. Artigues"
+      - "P. López"
+    title: "A mathematical model and solution for remanufacturing in a sawmill"
+    booktitle: "Workshop on OR for Development (EWG-ORD)"
+    year: 2015
+    id-google-scholar: "g3aElNc5_aQC"
+  - key: escobar2015c
+    entry: inproceedings
+    authors:
+      - "L.M. Escobar-Falcon"
+      - "D. Álvarez"
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "M. Granada"
+    title: "A hybrid metaheuristic approach for the capacitated vehicle routing problem with container loading constraints"
+    booktitle: "2015 International Conference on Industrial Engineering and Systems Management, IEEE IESM 2015"
+    year: 2015
+    pages: "1374-1382"
+    doi: "10.1109/IESM.2015.7380331"
+    id-google-scholar: "uWQEDVKXjbEC"
+    id-wos: "WOS:000380454700169"
+    id-scopus: "2-s2.0-84971657500"
+    isbn-electronic: "978-2-9600-5326-5"
+    isbn-usb: "978-2-9600-5325-8"
+    id-orcid: "232546012"
+    id-ubb-vrip: "47"

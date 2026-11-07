@@ -1,0 +1,263 @@
+items:
+  - start: 2021
+    program:
+      en: "PhD in Engineering"
+      es: "Doctorado en Ingeniería"
+    institution: "Universidad del Bío-Bío"
+    country: "Chile"
+    courses:
+      - name:
+          en: "Applied Research Project in Industry"
+          es: "Proyecto de Investigación Aplicada en la Industria"
+        terms: ["2023-2"]
+        codes: ["393512"]
+      - name:
+          en: "Qualifying Examination"
+          es: "Examen de Calificación"
+        terms: ["2023-2"]
+        codes: ["393513"]
+      - name:
+          en: "Thesis I"
+          es: "Tesis I"
+        terms: ["2024-1"]
+        codes: ["393514"]
+      - name:
+          en: "Thesis II"
+          es: "Tesis II"
+        terms: ["2024-2"]
+        codes: ["393515"]
+      - name:
+          en: "Thesis III"
+          es: "Tesis III"
+        terms: ["2025-1"]
+        codes: ["393516"]
+      - name:
+          en: "Thesis IV"
+          es: "Tesis IV"
+        terms: ["2025-2"]
+        codes: ["393517"]
+      - name:
+          en: "Final Degree Examination"
+          es: "Examen de Grado"
+        terms: ["2025-2"]
+        codes: ["393518"]
+      - name:
+          en: "Advanced Optimization"
+          es: "Optimización Avanzada"
+        terms: ["2025-2", "2023-2"]
+        codes: ["393534"]
+      - name:
+          en: "Models Applied to Logistics Management"
+          es: "Modelos Aplicados a la Gestión Logística"
+        terms: ["2022-2", "2021-2"]
+        codes: ["430520"]
+      - name:
+          en: "Applied Science for Engineering"
+          es: "Ciencia Aplicada a Ingeniería"
+        terms: ["2022-1", "2021-1"]
+        codes: ["393502"]
+      - name:
+          en: "Industry Internship II"
+          es: "Pasantía en la Industria II"
+        terms: ["2026-1"]
+        codes: ["393510"]
+  - start: 2021
+    end: 2025
+    program:
+      en: "PhD in Materials Engineering and Sustainable Processes"
+      es: "Doctorado en Ingeniería de Materiales y Procesos Sustentables"
+    institution: "Universidad del Bío-Bío"
+    country: "Chile"
+    courses:
+      - name:
+          en: "Thesis Project"
+          es: "Proyecto de Tesis"
+        terms: ["2022-2", "2021-2"]
+        codes: ["393061"]
+      - name:
+          en: "Thesis I"
+          es: "Tesis I"
+        terms: ["2023-1"]
+        codes: ["393065"]
+      - name:
+          en: "Thesis II"
+          es: "Tesis II"
+        terms: ["2023-2"]
+        codes: ["393066"]
+      - name:
+          en: "Thesis III"
+          es: "Tesis III"
+        terms: ["2024-1", "2023-2"]
+        codes: ["393067"]
+      - name:
+          en: "Thesis IV"
+          es: "Tesis IV"
+        terms: ["2024-2"]
+        codes: ["393068", "393265"]
+      - name:
+          en: "Thesis V"
+          es: "Tesis V"
+        terms: ["2025-1"]
+        codes: ["393069"]
+      - name:
+          en: "Optimization Techniques for Combinatorial Problems"
+          es: "Técnicas de Optimización de Problemas Combinatorios"
+        terms: ["2023-1", "2022-2"]
+        codes: ["393213"]
+      - name:
+          en: "Modeling of Combinatorial Problems"
+          es: "Modelamiento de Problemas Combinatorios"
+        terms: ["2021-2"]
+        codes: ["393210"]
+  - start: 2014
+    end: 2024
+    program:
+      en: "Master's in Industrial Engineering"
+      es: "Magíster en Ingeniería Industrial"
+    institution: "Universidad del Bío-Bío"
+    country: "Chile"
+    courses:
+      - name:
+          en: "Heuristics and Metaheuristics"
+          es: "Heurísticas y Metaheurísticas"
+        terms: ["2024-1", "2023-1", "2022-1", "2021-1", "2020-1", "2019-1"]
+        codes: ["430814"]
+      - name:
+          en: "Graduation Activity"
+          es: "Actividad de Graduación"
+        terms: ["2024-1", "2023-2", "2023-1", "2022-2", "2022-1", "2021-2"]
+        codes: ["430810"]
+      - name:
+          en: "Graduation Thesis"
+          es: "Tesis de Grado"
+        terms: ["2023-1", "2022-2"]
+        codes: ["430326"]
+      - name:
+          en: "Graduation Seminar"
+          es: "Seminario de Grado"
+        terms: ["2024-2", "2024-1", "2023-2", "2023-1", "2022-2"]
+        codes: ["430809"]
+      - name:
+          en: "Artificial Intelligence"
+          es: "Inteligencia Artificial"
+        terms: ["2017-2", "2017-1"]
+        codes: ["430320"]
+      - name:
+          en: "Combinatorial Optimization"
+          es: "Optimización Combinatoria"
+        terms: ["2014-2"]
+        codes: ["430352"]
+  - start: 2013
+    end: 2015
+    program:
+      en: "Engineering in Logistics"
+      es: "Ingeniería Civil en Logística"
+    institution: "Universidad Católica de la Santísima Concepción"
+    country: "Chile"
+    courses:
+      - name:
+          en: "Inventory Control"
+          es: "Control de Inventarios"
+        terms: ["2013"]
+      - name:
+          en: "Optimization II"
+          es: "Optimización II"
+        terms: ["2014-2", "2014-1"]
+      - name:
+          en: "Location"
+          es: "Localización"
+        terms: ["2015"]
+  - start: 2012
+    program:
+      en: "Industrial Engineering"
+      es: "Ingeniería Civil Industrial"
+    institution: "Universidad del Bío-Bío"
+    country: "Chile"
+    courses:
+      - name:
+          en: "Linear Programming"
+          es: "Optimización Lineal"
+        terms: ["2026-1", "2025-2", "2025-1", "2024-2", "2024-1", "2023-2", "2023-1", "2022-2", "2022-1", "2021-2", "2021-1", "2020-2", "2020-1", "2019-2", "2019-1", "2018-2", "2018-1", "2017-2", "2017-1", "2016-2"]
+        codes: ["430260"]
+      - name:
+          en: "Operations Research I"
+          es: "Investigación de Operaciones I"
+        terms: ["2016-1", "2015-1", "2015-1v", "2014-1", "2014-1v", "2012-2", "2012-2v"]
+        codes: ["430098", "430142"]
+      - name:
+          en: "Operations Research II"
+          es: "Investigación de Operaciones II"
+        terms: ["2013-1v"]
+        codes: ["430145"]
+      - name:
+          en: "Integrated Logistics"
+          es: "Logística Integral"
+        terms: ["2025-1", "2020-2", "2019-2", "2019-1", "2018-2"]
+        codes: ["430277"]
+      - name:
+          en: "Artificial Intelligence"
+          es: "Inteligencia Artificial"
+        terms: ["2017-1m"]
+        codes: ["430215"]
+      - name:
+          en: "Combinatorial Optimization"
+          es: "Optimización Combinatoria"
+        terms: ["2015-2m", "2014-2m", "2013-2e"]
+        codes: ["430238", "430241"]
+      - name:
+          en: "Project Evaluation"
+          es: "Evaluación de Proyectos"
+        terms: ["2025-2v", "2024-2v", "2023-2v", "2022-2v", "2021-2v", "2020-2v", "2019-2v", "2018-2v", "2017-2v", "2017-1v"]
+        codes: ["430372"]
+      - name:
+          en: "Engineering Economics"
+          es: "Ingeniería Económica"
+        terms: ["2020-1v", "2018-2v", "2018-1", "2017-2", "2017-2v", "2017-1", "2016-2", "2016-2v", "2016-1v", "2015-2", "2015-2v", "2014-2", "2014-1v", "2013-2", "2013-1", "2012-2"]
+        codes: ["430109", "430153", "430390"]
+      - name:
+          en: "Project Formulation and Evaluation"
+          es: "Formulación y Evaluación de Proyectos"
+        terms: ["2020-2v"]
+        codes: ["430113"]
+      - name:
+          en: "Introduction to Industrial Engineering"
+          es: "Introducción a la Ingeniería Industrial"
+        terms: ["2016-1", "2015-1", "2014-1", "2014-1v", "2013-1", "2013-1v"]
+        codes: ["430094", "430138", "430248"]
+      - name:
+          en: "Production Management"
+          es: "Administración de la Producción"
+        terms: ["2026-1v", "2025-1v", "2024-1v", "2023-1v", "2022-1v", "2021-1v", "2020-1v", "2019-1v"]
+        codes: ["430404"]
+      - name:
+          en: "Accounting and Costs"
+          es: "Contabilidad y Costos"
+        terms: ["2016-1v", "2015-1v"]
+        codes: ["430361"]
+      - name:
+          en: "Accounting"
+          es: "Contabilidad"
+        terms: ["2015-1v"]
+        codes: ["430105"]
+      - name:
+          en: "Microcomputer Programming"
+          es: "Programación de Microcomputadores"
+        terms: ["2014-2v", "2013-2v"]
+        codes: ["430108"]
+      - name:
+          en: "Forecasting Methods"
+          es: "Métodos de Predicción"
+        terms: ["2013-1v"]
+        codes: ["430143"]
+  - start: 2010
+    end: 2010
+    program:
+      en: "Master's in Industrial Engineering"
+      es: "Maestría en Ingeniería Industrial"
+    institution: "Pontificia Universidad Javeriana Cali"
+    country: "Colombia"
+    courses:
+      - name:
+          en: "Combinatorial Optimization"
+          es: "Optimización Combinatoria"
+        terms: ["2010-2 2010-1"]

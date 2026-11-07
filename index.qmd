@@ -1,0 +1,68 @@
+---
+title: "Rodrigo Linfati, PhD"
+subtitle: "Curriculum Vitae"
+pagetitle: "Rodrigo Linfati, PhD - Curriculum Vitae"
+date: today
+lang: en
+language:
+  title-block-published: Last update
+  other-links-title: Other Formats
+format:
+  html:
+    format-links: false
+    include-in-header:
+      - text: |
+          <style>p, li { text-align: justify; }</style>
+    other-links:
+      - text: rlinfati.github.io
+        href: /
+        icon: arrow-left
+      - text: PDF (English)
+        href: CV-Linfati-en.pdf
+        icon: file-pdf
+      - text: DOCX (English)
+        href: CV-Linfati-en.docx
+        icon: file-word
+      - text: PDF (Español)
+        href: CV-Linfati-es.pdf
+        icon: file-pdf
+      - text: DOCX (Español)
+        href: CV-Linfati-es.docx
+        icon: file-word
+      - text: PDF (English, short)
+        href: CV-Linfati-short-en.pdf
+        icon: file-pdf
+      - text: DOCX (English, short)
+        href: CV-Linfati-short-en.docx
+        icon: file-word
+      - text: PDF (Español, resumido)
+        href: CV-Linfati-short-es.pdf
+        icon: file-pdf
+      - text: DOCX (Español, resumido)
+        href: CV-Linfati-short-es.docx
+        icon: file-word
+---
+
+{{< cv text data/0000-about.yml >}}
+
+{{< cv text data/0100-summary.yml >}}
+
+{{< cv scholar >}}
+
+{{< cv summary >}}
+
+## Profiles
+
+{{< cv text data/0200-contact.yml short=true >}}
+
+## Academic Appointments
+
+{{< cv appointments data/0301-appointments.yml web=true >}}
+
+## Education
+
+{{< cv education data/0400-education.yml web=true >}}
+
+## External Funding
+
+{{< cv projects data/0601-projects-external.yml role=PI >}}

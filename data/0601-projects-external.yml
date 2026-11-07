@@ -1,0 +1,193 @@
+items:
+  - start: 2026
+    end: 2027
+    title:
+      en: "Consolidation of scientific capacities in resilient logistics and supply chain viability under climate change"
+      es: "Consolidación de capacidades científicas en logística resiliente y viabilidad de cadenas de suministro ante el cambio climático"
+    role: PI
+    web: 1
+    web-mark: true
+    code: "ANID-REC-FOVI-250059"
+    program:
+      en: "International Collaboration for Research Institutions"
+      es: "Fomento a la Vinculación Internacional para Instituciones de Investigación"
+    country: "Chile"
+    mandante: "ANID"
+    team:
+      - "R. Linfati (UBIOBIO)"
+      - "V. Ortiz (UBIOBIO)"
+      - "C. Rey (UBIOBIO)"
+      - "C. Contreras-Bolton (UDEC)"
+      - "D. Cifuentes (UCSC)"
+      - "R. Soto (ULAGOS)"
+      - "A. Ávila (UFRO)"
+      - "M. González (UFRO)"
+      - "A. Osorio-Mora (RPTU, DE)"
+      - "D. Morillo-Torres (PUJ, CO)"
+      - "J.W. Escobar (UNIVALLE, CO)"
+      - "J.J. Salazar (ULL, ES)"
+    id-ubb-vrip: "2025-215"
+  - start: 2023
+    end: 2027
+    title:
+      en: "Trajectory-based metaheuristic algorithms for new variants of the VRP"
+      es: "Algoritmos metaheurísticos basados en trayectoria para nuevas variantes del VRP"
+    role: PI
+    web: 2
+    web-mark: true
+    code: "ANID-FONDECYT-Regular-1230125"
+    program: "Fondecyt Regular"
+    country: "Chile"
+    mandante: "ANID"
+    team:
+      - "R. Linfati (UBIOBIO)"
+      - "C. Contreras-Bolton (UDEC)"
+      - "C. Rey (UBIOBIO)"
+    id-ubb-vrip: "2023-19"
+  - start: 2017
+    end: 2019
+    title:
+      en: "Development of optimization models for medium- and short-term mine planning."
+      es: "Desarrollo de modelos de optimización para la planificación minera de mediano y corto plazo."
+    role: YR
+    web: 6
+    code: "ANID-FONDEF-IT-Minería-IT16M100019"
+    program:
+      en: "FONDEF IT Mining"
+      es: "FONDEF IT Minería"
+    country: "Chile"
+    mandante: "ANID"
+    team:
+      - "R. Epstein (UCHILE)"
+      - "A. Weintraub (UCHILE)"
+      - "E. Álvarez (UTALCA)"
+      - "R. Linfati (UBIOBIO)"
+      - "M. Guajardo"
+      - "S. Maldonado (UANDES)"
+      - "R. Medina (UDEC)"
+      - "J. Yarmuch"
+    id-ubb-vrip: "2017-265"
+  - start: 2017
+    end: 2019
+    title:
+      en: "Design and Implementation of a Technology Package for the Location and Evaluation of Multimodal Centers for Export Logistics Chains in the Maule - Los Lagos Meso-Region"
+      es: "Diseño e Implementación de un Paquete Tecnológico Orientado a la Localización y Evaluación de Centros Multimodales para las Cadenas Logísticas de Exportación de la Meso Región Maule - Los Lagos"
+    role: Co-I
+    code: "CORFO-MOP-17BPE-73730"
+    program:
+      en: "Public Goods for Competitiveness"
+      es: "Bienes Públicos para la Competitividad"
+    country: "Chile"
+    mandante: "CORFO"
+    team:
+      - "F. Núñez (UBIOBIO)"
+      - "R. Linfati (UBIOBIO)"
+      - "..."
+    id-ubb-vrip: "2017-144"
+  - start: 2016
+    end: 2018
+    title:
+      en: "ED Performance Predictor: Innovation for the Standardization of Patient Care Processes in Emergency Departments"
+      es: "ED Performance Predictor: Innovación para la Estandarización de los Procesos de Atención a los Pacientes de Unidades de Emergencia"
+    role: Co-I
+    code: "CORFO-INNOVA-15.69-IN.IIP"
+    program: "INNOVA BIOBIO"
+    country: "Chile"
+    mandante: "CORFO"
+    team:
+      - "F. Ramis (UBIOBIO)"
+      - "P. Backhouse (UBIOBIO)"
+      - "R. Linfati (UBIOBIO)"
+      - "..."
+    id-ubb-vrip: "2016-71"
+  - start: 2016
+    end: 2018
+    title:
+      en: "Heuristics for Electric Multi-Depot Vehicle Routing Problems and 3D Loading Constraint Problems"
+      es: "Heurísticas para problemas de ruteo de vehículos eléctricos con múltiples depósitos y problemas con restricciones de carga 3D"
+    role: PI
+    web: 7
+    web-mark: true
+    code:
+      en: "ANID-FONDECYT-Initiation-11150370"
+      es: "ANID-FONDECYT-Iniciación-11150370"
+    program:
+      en: "Fondecyt Initiation in Research"
+      es: "Fondecyt de Iniciación en Investigación"
+    country: "Chile"
+    mandante: "ANID"
+    team:
+      - "R. Linfati (UBIOBIO)"
+    id-ubb-vrip: "2015-86"
+  - start: 2014
+    end: 2016
+    title:
+      en: "Energy-Efficient and Robust Approaches for the Scheduling of Production, Services, and Urban Transport"
+      es: "Enfoques robustos y energéticamente eficientes para la programación de la producción, los servicios y el transporte urbano"
+    role: Co-I
+    web: 8
+    code: "ANID-REC-ECOS-C13E04"
+    program:
+      en: "International Cooperation Program"
+      es: "Programa de Cooperación Internacional"
+    country:
+      en: "France, Chile"
+      es: "Francia, Chile"
+    mandante: "ANID"
+    team:
+      - "P. López (LAAS, FR)"
+      - "C. Artigues (LAAS, FR)"
+      - "M. Nattaf (LAAS, FR)"
+      - "V. Parada (USACH)"
+      - "L. Pradenas-Rojas (UDEC)"
+      - "R. Medina (UDEC)"
+      - "R. Linfati (UBIOBIO)"
+    id-ubb-vrip: "2014-321"
+  - start: 2013
+    end: 2015
+    title:
+      en: "Solving Combinatorial Optimization Problems with Stable Sets Constraints"
+      es: "Resolución de problemas de optimización combinatoria con restricciones de conjuntos estables"
+    role: Co-I
+    web: 9
+    code: "ANID-REC-STIC-AmSud-13STIC-05"
+    program:
+      en: "International Cooperation Program"
+      es: "Programa de Cooperación Internacional"
+    country:
+      en: "France, Brazil, Argentina, Chile"
+      es: "Francia, Brasil, Argentina, Chile"
+    mandante: "ANID"
+    team:
+      - "M. Campelo (UFC, BR)"
+      - "C. Linhares Sales (UFC, BR)"
+      - "R. Sampaio (UFC, BR)"
+      - "R. Corrêa (UFC, BR)"
+      - "A. Silva (UFC, BR)"
+      - "C. Rodrigues (UFC, BR)"
+      - "V. Campos (UFC, BR)"
+      - "P. Michelon (UAPV, FR)"
+      - "S. Gueye (UAPV, FR)"
+      - "B. Detienne (UAPV, FR)"
+      - "T. Mautor (UVSQ, FR)"
+      - "B. Le Cun (UVSQ, FR)"
+      - "J. Marenco (UNGS, AR)"
+      - "M. Mydlarz (UNGS, AR)"
+      - "V. Parada (USACH)"
+      - "L. Pradenas-Rojas (UDEC)"
+      - "R. Medina (UDEC)"
+      - "R. Linfati (UBIOBIO)"
+    id-ubb-vrip: "2013-271"
+  - start: 2012
+    end: 2015
+    title:
+      en: "On a Class of Robust Combinatorial Optimization Problems"
+      es: "Sobre una clase de problemas robustos de optimización combinatoria"
+    role: TS
+    code: "ANID-FONDECYT-Regular-1121095"
+    program: "Fondecyt Regular"
+    country: "Chile"
+    mandante: "ANID"
+    team:
+      - "A. Candia (UTALCA)"
+      - "..."

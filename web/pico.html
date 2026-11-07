@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="$lang$">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>$title$</title>
+    <meta name="description" content="$description$">
+    <meta name="color-scheme" content="light dark">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <header class="container">
+      <nav>
+        <ul>
+          <li><a href="index.html" class="contrast"><strong>Rodrigo Linfati</strong></a></li>
+        </ul>
+        <ul>
+          <li><a href="index.html"$if(nav-index)$ aria-current="page"$endif$>Home</a></li>
+          <li><a href="education.html"$if(nav-education)$ aria-current="page"$endif$>Education</a></li>
+          <li><a href="work.html"$if(nav-work)$ aria-current="page"$endif$>Work</a></li>
+          <li><a href="research.html"$if(nav-research)$ aria-current="page"$endif$>Research</a></li>
+          <li><a href="CVitae/">CVitae</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main" class="container">
+      $body$
+    </main>
+
+    <footer class="container">
+    <small>
+        © $date$ Rodrigo Linfati · Licensed under
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+    </small>
+    </footer>
+
+  </body>
+</html>

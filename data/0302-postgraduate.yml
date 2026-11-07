@@ -1,0 +1,51 @@
+items:
+  - role:
+      en: "Academic Faculty"
+      es: "Núcleo académico"
+    program:
+      en: "Master's in Industrial Engineering"
+      es: "Magíster en Ingeniería Industrial"
+    web: 3
+    web-courses:
+      - en: "Heuristics and Metaheuristics"
+        es: "Heurísticas y Metaheurísticas"
+      - en: "Artificial Intelligence"
+        es: "Inteligencia Artificial"
+      - en: "Combinatorial Optimization"
+        es: "Optimización Combinatoria"
+  - role:
+      en: "Academic Faculty"
+      es: "Claustro académico"
+    program:
+      en: "PhD in Engineering"
+      es: "Doctorado en Ingeniería"
+    url: "https://doctoradoeningenieria.cl/"
+    web: 4
+    web-courses:
+      - en: "Applied Science for Engineering"
+        es: "Ciencia Aplicada a Ingeniería"
+      - en: "Advanced Optimization"
+        es: "Optimización Avanzada"
+      - en: "Models Applied to Logistics Management"
+        es: "Modelos Aplicados a la Gestión Logística"
+  - role:
+      en: "Academic Faculty"
+      es: "Claustro académico"
+    program:
+      en: "PhD in Materials Engineering and Sustainable Processes"
+      es: "Doctorado en Ingeniería de Materiales y Procesos Sustentables"
+    url: "https://postgradossustentables.ubiobio.cl/"
+    web: 5
+    web-courses:
+      - en: "Modeling of Combinatorial Problems"
+        es: "Modelamiento de Problemas Combinatorios"
+      - en: "Optimization Techniques for Combinatorial Problems"
+        es: "Técnicas de Optimización de Problemas Combinatorios"
+  - role:
+      en: "Academic Faculty"
+      es: "Claustro académico"
+    program:
+      en: "PhD in Artificial Intelligence"
+      es: "Doctorado en Inteligencia Artificial"
+    url: "https://doctoradoia.cl/"
+    web: 6

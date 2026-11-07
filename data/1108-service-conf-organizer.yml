@@ -1,0 +1,10 @@
+items:
+  - acronym: "ARTIIS"
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation, and Sustainability"
+    editions: [{year: 2024}]
+  - acronym: "OPTIMA"
+    name: "Congreso Chileno de Investigación Operativa"
+    editions: [{year: 2013, edition: "X"}]
+  - acronym: "SIII"
+    name: "Simposio Internacional de Ingeniería Industrial"
+    editions: [{year: 2015, edition: "VIII"}]

@@ -1,0 +1,72 @@
+items:
+  - start: 2009
+    end: 2011
+    web: true
+    title:
+      en: "PhD in Automatic Control System and Operational Research"
+      es: "Doctorado en Sistemas de Control Automático e Investigación de Operaciones"
+    original: "Dottore di Ricerca in Automatica e Ricerca Operativa"
+    institution: "Alma Mater Studiorum - Università di Bologna"
+    place:
+      en: "Bologna, Italy"
+      es: "Bologna, Italia"
+    thesis:
+      en: "Referee Assignment Problem - Case: Italian Volleyball Championships."
+      es: "Problema de asignación de árbitros - Caso: campeonatos italianos de voleibol."
+    advisor: "Paolo Toth, PhD"
+    scholarship: "Erasmus Mundus Chile ECW Lote 17"
+  - start: 2006
+    end: 2008
+    web: true
+    title:
+      en: "Master of Science in Industrial Engineering"
+      es: "Magíster en Ingeniería Industrial"
+    institution: "Universidad de Concepción"
+    place: "Concepción, Chile"
+    thesis:
+      en: "An integrated optimization system to support tactical planning decision-making between forest harvesting and sawmills."
+      es: "Un sistema de optimización integrado para apoyar la toma de decisiones de planificación táctica entre cosecha forestal y aserraderos."
+    advisor: "Lorena Pradenas, PhD"
+    scholarship:
+      en: "Research Scholarship"
+      es: "Beca de investigación"
+  - start: 2002
+    end: 2007
+    web: true
+    title:
+      en: "Industrial Engineering Degree (6 years)"
+      es: "Ingeniero Civil Industrial (6 años)"
+    institution: "Universidad de Concepción"
+    place: "Concepción, Chile"
+    thesis:
+      en: "Conceptualization and proposed solution for the tactical planning problem applied to forest exploitation."
+      es: "Conceptualización y propuesta de solución para el problema de planificación táctica aplicado a la explotación forestal."
+    advisor: "Lorena Pradenas, PhD"
+    award:
+      en: "Faculty of Engineering, Top Ten Graduates"
+      es: "Facultad de Ingeniería, Diez Mejores Egresados"
+  - start: 2002
+    end: 2005
+    web: true
+    title:
+      en: "Bachelor of Science in Engineering"
+      es: "Licenciado en Ciencias de la Ingeniería"
+    institution: "Universidad de Concepción"
+    place: "Concepción, Chile"
+  - start: 1998
+    end: 2001
+    title:
+      en: "Secondary school"
+      es: "Enseñanza media"
+    institution: "Liceo Enrique Ballacey Cottereau"
+    place: "Angol, Chile"
+    award:
+      en: "Dillman Bullock Little, Best High School Student"
+      es: "Dillman Bullock Little, Mejor Estudiante de Enseñanza Media"
+  - start: 1990
+    end: 1997
+    title:
+      en: "Primary School"
+      es: "Enseñanza básica"
+    institution: "Colegio San Francisco de Asís, ex Colegio Santa Ana"
+    place: "Angol, Chile"

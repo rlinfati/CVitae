@@ -1,0 +1,901 @@
+items:
+  - key: jorge2025cutgen
+    entry: article
+    authors:
+      - "J.F. Mena-Reyes"
+      - "R. Soto-Concha"
+      - "G. Gatica"
+      - "R. Linfati"
+    title: "Dynamic Generation of Cutting Patterns in Sawmills for Sustainable Planning"
+    journal: "Mathematics"
+    year: 2026
+    volume: 14
+    number: 1
+    article-number: "10"
+    pages: "1-33"
+    issn-online: "2227-7390"
+    doi: "10.3390/math14010010"
+    id-google-scholar: "BwyfMAYsbu0C"
+    id-wos: "WOS:001657543200001"
+    id-scopus: "2-s2.0-105027959383"
+    id-orcid: "232546073"
+    id-ubb-vrip: "8139"
+  - key: raul2025model
+    entry: article
+    authors:
+      - "R. Soto-Concha"
+      - "D. Morillo-Torres"
+      - "J.W. Escobar"
+      - "J.F. Mena-Reyes"
+      - "R. Linfati"
+    title: "Mixed-Integer Linear Programming Models for the Vehicle Routing Problem with Release Times and Reloading at Mobile Satellites"
+    journal: "Mathematics"
+    year: 2025
+    volume: 13
+    number: 22
+    pages: "1-31"
+    article-number: "3638"
+    issn-online: "2227-7390"
+    doi: "10.3390/math13223638"
+    id-google-scholar: "4MWp96NkSFoC"
+    id-wos: "WOS:001624224500001"
+    id-scopus: "2-s2.0-105023211449"
+    id-orcid: "232546083"
+    id-ubb-vrip: "7837"
+  - key: jorge2025conf
+    entry: article
+    authors:
+      - "J.F. Mena-Reyes"
+      - "R. Soto-Concha"
+      - "F. Vergara"
+      - "V. Ortiz-Araya"
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "Integrating Social Conflicts into Sustainable Decision-Making of the Forest-to-Lumber Supply Chain"
+    journal: "Forests"
+    year: 2025
+    volume: 16
+    number: 11
+    pages: "1-26"
+    article-number: "1644"
+    issn-online: "1999-4907"
+    doi: "10.3390/f16111644"
+    id-google-scholar: "ML0RJ9NH7IQC"
+    id-wos: "WOS:001624444600001"
+    id-scopus: "2-s2.0-105023094591"
+    id-orcid: "232546000"
+    id-ubb-vrip: "7661"
+  - key: santana2025convrp
+    entry: article
+    authors:
+      - "E. Santana"
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "A heuristic approach for the last mile delivery with consistent considerations and minimum service for a supply chain"
+    journal: "Mathematics"
+    year: 2025
+    volume: 13
+    number: 10
+    pages: "1-31"
+    article-number: "1553"
+    issn-online: "2227-7390"
+    doi: "10.3390/math13101553"
+    id-google-scholar: "uWiczbcajpAC"
+    id-wos: "WOS:001496446200001"
+    id-scopus: "2-s2.0-105006611903"
+    id-orcid: "232545992"
+    id-ubb-vrip: "7474"
+  - key: survey2025satelite
+    entry: article
+    authors:
+      - "R. Soto-Concha"
+      - "J.W. Escobar"
+      - "D. Morillo-Torres"
+      - "R. Linfati"
+    title: "The Vehicle-Routing Problem with Satellites Utilization: A Systematic Review of the Literature"
+    journal: "Mathematics"
+    year: 2025
+    volume: 13
+    number: 7
+    pages: "1-28"
+    article-number: "1092"
+    issn-online: "2227-7390"
+    doi: "10.3390/math13071092"
+    id-google-scholar: "zLWjf1WUPmwC"
+    id-wos: "WOS:001463827200001"
+    id-scopus: "2-s2.0-105002238710"
+    id-orcid: "232546069"
+    id-ubb-vrip: "7473"
+  - key: foods2025storage
+    entry: article
+    authors:
+      - "F.J. Olier"
+      - "C.A. Porto"
+      - "G. Herrera-Vidal"
+      - "W. Adarme-Jaimes"
+      - "R. Linfati"
+      - "G. Gatica"
+      - "J.R. Coronado-Hernández"
+    title: "Allocation of Strategic Positions for Storage of Meat Products Requiring Cold Chain"
+    journal: "Foods"
+    year: 2025
+    volume: 14
+    number: 6
+    pages: "1-19"
+    article-number: "1010"
+    issn-online: "2304-8158"
+    doi: "10.3390/foods14061010"
+    id-google-scholar: "epqYDVWIO7EC"
+    id-wos: "WOS:001452270300001"
+    id-scopus: "2-s2.0-105000997119"
+    id-orcid: "232546082"
+    id-ubb-vrip: "7472"
+  - key: unab2024ovrp
+    entry: article
+    authors:
+      - "D. Gasset"
+      - "F. Paillalef"
+      - "S. Payacán"
+      - "G. Gatica"
+      - "G. Herrera-Vidal"
+      - "R. Linfati"
+      - "J.R. Coronado-Hernández"
+    title: "Route Optimization for Open Vehicle Routing Problem (OVRP): A Mathematical and Solution Approach"
+    journal: "Applied Sciences"
+    year: 2024
+    volume: 14
+    number: 16
+    pages: "1-12"
+    article-number: "6931"
+    issn-online: "2076-3417"
+    doi: "10.3390/app14166931"
+    id-google-scholar: "ipzZ9siozwsC"
+    id-wos: "WOS:001304954100001"
+    id-scopus: "2-s2.0-85202430294"
+    id-orcid: "232546086"
+    id-ubb-vrip: "7147"
+  - key: carlos2024forest
+    entry: article
+    authors:
+      - "F. Muñoz"
+      - "R. Linfati"
+    title: "Bounding the Price of Anarchy of Weighted Shortest Processing Time Policy on Uniform Parallel Machines"
+    journal: "Mathematics"
+    year: 2024
+    volume: 12
+    number: 14
+    pages: "1-12"
+    article-number: "2223"
+    issn-online: "2227-7390"
+    doi: "10.3390/math12142223"
+    id-google-scholar: "uc_IGeMz5qoC"
+    id-wos: "WOS:001277059900001"
+    id-scopus: "2-s2.0-85199896964"
+    id-orcid: "232545989"
+    id-ubb-vrip: "7038"
+  - key: felipe2024math
+    entry: article
+    authors:
+      - "C. Rozas"
+      - "O. Erazo"
+      - "V. Ortiz-Araya"
+      - "R. Linfati"
+      - "C. Montero"
+    title: "Experimental and Statistical Determination of Convective Heat and Mass Transfer Coefficients for Eucalyptus nitens Sawn Wood Drying"
+    journal: "Forests"
+    year: 2024
+    volume: 15
+    number: 8
+    pages: "1-12"
+    article-number: "1287"
+    issn-online: "1999-4907"
+    doi: "10.3390/f15081287"
+    id-google-scholar: "0KyAp5RtaNEC"
+    id-wos: "WOS:001306884000001"
+    id-scopus: "2-s2.0-85202692630"
+    id-orcid: "232545984"
+    id-ubb-vrip: "7197"
+  - key: karen2024ptsp
+    entry: article
+    authors:
+      - "K. García-Vásquez"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "A three-phase algorithm for the pollution traveling Salesman problem"
+    journal: "Heliyon"
+    year: 2024
+    volume: 10
+    number: 9
+    pages: "1-18"
+    issn-online: "2405-8440"
+    doi: "10.1016/j.heliyon.2024.e29958"
+    id-google-scholar: "9Nmd_mFXekcC"
+    id-wos: "WOS:001284688900001"
+    id-scopus: "2-s2.0-85190861748"
+    id-orcid: "232545978"
+    id-ubb-vrip: "6830"
+  - key: jorge2024review
+    entry: article
+    authors:
+      - "J.F. Mena-Reyes"
+      - "F. Vergara"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Quantitative Techniques for Sustainable Decision Making in Forest-to-Lumber Supply Chain: A Systematic Review"
+    journal: "Forests"
+    year: 2024
+    volume: 15
+    number: 2
+    article-number: "297"
+    pages: "1-32"
+    issn-online: "1999-4907"
+    doi: "10.3390/f15020297"
+    id-google-scholar: "XD-gHx7UXLsC"
+    id-wos: "WOS:001172130500001"
+    id-scopus: "2-s2.0-85185844704"
+    id-orcid: "232545977"
+    id-ubb-vrip: "6474"
+  - key: yamilici2024
+    entry: article
+    authors:
+      - "Y. Chandía-Rodríguez"
+      - "R. Linfati"
+      - "G. Murillo-Vargas"
+      - "J.W. Escobar"
+    title: "Valuation of Active Chilean Employment Support Policies Seeking Economic Sustainability through Market Flows"
+    journal: "Sustainability"
+    year: 2024
+    volume: 16
+    number: 2
+    article-number: "627"
+    pages: "1-20"
+    issn-online: "2071-1050"
+    doi: "10.3390/su16020627"
+    id-google-scholar: "t7zJ5fGR-2UC"
+    id-wos: "WOS:001151361100001"
+    id-scopus: "2-s2.0-85183411311"
+    id-orcid: "232546070"
+    id-ubb-vrip: "6454"
+  - key: cataldoMSC2023
+    entry: article
+    authors:
+      - "C. Cataldo-Díaz"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Mathematical models for the electric vehicle routing problem with time windows considering different aspects of the charging process"
+    journal: "Operational Research"
+    year: 2024
+    volume: 24
+    number: 1
+    pages: "1-35"
+    issn-print: "1109-2858"
+    issn-online: "1866-1505"
+    doi: "10.1007/s12351-023-00806-5"
+    id-google-scholar: "z_wVstp3MssC"
+    id-wos: "WOS:001117684000001"
+    id-scopus: "2-s2.0-85178929168"
+    id-orcid: "232545987"
+    id-ubb-vrip: "6636"
+  - key: matias2023scm
+    entry: article
+    authors:
+      - "M. Núñez-Muñoz"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Two-stage optimization scheme of routing scheduling from a single distribution center to multiple customers"
+    journal: "Operational Research"
+    year: 2023
+    volume: 23
+    number: 2
+    article-number: "25"
+    pages: "1-29"
+    issn-print: "1109-2858"
+    issn-online: "1866-1505"
+    doi: "10.1007/s12351-023-00747-z"
+    id-google-scholar: "35r97b3x0nAC"
+    id-wos: "WOS:000953756400001"
+    id-scopus: "2-s2.0-85150863794"
+    id-orcid: "232545993"
+    id-ubb-vrip: "6092"
+  - key: fcm2023Heliyon
+    entry: article
+    authors:
+      - "F. Corral"
+      - "E. Forcael"
+      - "R. Linfati"
+    title: "Workforce Scheduling Efficiency Assessment in Construction Projects Through a Multi-Objective Optimization Model in the Covid-19 Context"
+    journal: "Heliyon"
+    year: 2023
+    volume: 9
+    number: 6
+    pages: "1-16"
+    issn-online: "2405-8440"
+    doi: "10.1016/j.heliyon.2023.e16745"
+    id-google-scholar: "j8SEvjWlNXcC"
+    id-wos: "WOS:001045804300001"
+    id-scopus: "2-s2.0-85160827042"
+    id-orcid: "232545996"
+    id-ubb-vrip: "6038"
+    preprint-doi: "10.2139/ssrn.4366212"
+    preprint-id-scopus: "2-s2.0-85149412070"
+  - key: aburto2023portafolio
+    entry: article
+    authors:
+      - "L. Aburto"
+      - "R. Romero-Romero"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "An Approach for a Multi-Period Portfolio Selection Problem by considering Transaction Costs and Prediction on the Stock Market"
+    journal: "Complexity"
+    year: 2023
+    volume: 2023
+    article-number: "3056411"
+    pages: "1-15"
+    issn-print: "1076-2787"
+    issn-online: "1099-0526"
+    doi: "10.1155/2023/3056411"
+    id-google-scholar: "evX43VCCuoAC"
+    id-wos: "WOS:000915244800001"
+    id-scopus: "2-s2.0-85146546463"
+    id-orcid: "232545972"
+    id-ubb-vrip: "5694"
+  - key: rojas2023bike
+    entry: article
+    authors:
+      - "C. Rojas"
+      - "R. Linfati"
+      - "R. Scherer"
+      - "L. Pradenas-Rojas"
+    title: "Using Geopandas for locating virtual stations in a Free-floating Bike-sharing System"
+    journal: "Heliyon"
+    year: 2023
+    volume: 9
+    number: 1
+    pages: "1-14"
+    issn-online: "2405-8440"
+    doi: "10.1016/j.heliyon.2022.e12749"
+    id-google-scholar: "2KloaMYe4IUC"
+    id-wos: "WOS:000968921700001"
+    id-scopus: "2-s2.0-85145606093"
+    id-orcid: "232546075"
+    id-ubb-vrip: "5714"
+  - key: barreto2022scm
+    entry: article
+    authors:
+      - "H. Barreto"
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "V. Ortiz-Araya"
+    title: "Disciplinary Categorization of the Cattle Supply Chain - A review and bibliometric analysis"
+    journal: "Sustainability"
+    year: 2022
+    volume: 14
+    number: 21
+    article-number: "14275"
+    pages: "1-44"
+    issn-online: "2071-1050"
+    doi: "10.3390/su142114275"
+    id-google-scholar: "ZfRJV9d4-WMC"
+    id-wos: "WOS:000884002700001"
+    id-scopus: "2-s2.0-85148306308"
+    id-orcid: "232546004"
+    id-ubb-vrip: "5606"
+  - key: water2022c
+    entry: article
+    authors:
+      - "O. Coronado-Hernández"
+      - "D. Bonilla-Correa"
+      - "A. Lovo"
+      - "V. Fuertes-Miquel"
+      - "G. Gatica"
+      - "R. Linfati"
+      - "J.R. Coronado-Hernández"
+    title: "An Implicit Formulation for Calculating Final Conditions in Drainage Maneuvers in Pressurized Water Installations"
+    journal: "Water"
+    year: 2022
+    volume: 14
+    number: 21
+    article-number: "3364"
+    pages: "1-14"
+    issn-online: "2073-4441"
+    doi: "10.3390/w14213364"
+    id-google-scholar: "tKAzc9rXhukC"
+    id-wos: "WOS:000882227500001"
+    id-scopus: "2-s2.0-85141885552"
+    id-orcid: "232545979"
+    id-ubb-vrip: "5618"
+  - key: yanes2022balcomp
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "F. Yáñez-Concha"
+      - "J.W. Escobar"
+    title: "Mathematical models for the Vehicle Routing Problem by considering Balancing Load and Customer Compactness"
+    journal: "Sustainability"
+    year: 2022
+    volume: 14
+    number: 19
+    article-number: "12937"
+    pages: "1-20"
+    issn-online: "2071-1050"
+    doi: "10.3390/su141912937"
+    id-google-scholar: "kzcrU_BdoSEC"
+    id-wos: "WOS:000867129100001"
+    id-scopus: "2-s2.0-85139931295"
+    id-orcid: "232546001"
+    id-ubb-vrip: "5615"
+  - key: water2022b
+    entry: article
+    authors:
+      - "J. Echeverri-Díaz"
+      - "O. Coronado-Hernández"
+      - "G. Gatica"
+      - "R. Linfati"
+      - "R. Méndez-Anillo"
+      - "J.R. Coronado-Hernández"
+    title: "Sensitivity of Empirical Equation Parameters for the Calculation of Time of Concentration in Urbanized Watersheds"
+    journal: "Water"
+    year: 2022
+    volume: 14
+    number: 18
+    article-number: "2847"
+    pages: "1-24"
+    issn-online: "2073-4441"
+    doi: "10.3390/w14182847"
+    id-google-scholar: "NJ774b8OgUMC"
+    id-wos: "WOS:000856955600001"
+    id-scopus: "2-s2.0-85138734407"
+    id-orcid: "232545988"
+    id-ubb-vrip: "5617"
+  - key: flores2021mina
+    entry: article
+    authors:
+      - "C. Flores-Fonseca"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Exact algorithms for production planning in mining considering the use of stockpiles and sequencing of power shovels in open-pit mines"
+    journal: "Operational Research"
+    year: 2022
+    volume: 22
+    number: 3
+    pages: "2529-2553"
+    issn-print: "1109-2858"
+    issn-online: "1866-1505"
+    doi: "10.1007/s12351-020-00618-x"
+    id-google-scholar: "5awf1xo2G04C"
+    id-wos: "WOS:000604486200001"
+    id-scopus: "2-s2.0-85098572639"
+    id-orcid: "232546080"
+    id-ubb-vrip: "4280"
+  - key: water2022a
+    entry: article
+    authors:
+      - "J. Salgado-Cassiani"
+      - "O. Coronado-Hernández"
+      - "G. Gatica"
+      - "R. Linfati"
+      - "J.R. Coronado-Hernández"
+    title: "Probabilistic Approach to Determine the Spatial Distribution of the Antecedent Moisture Conditions for Different Return Periods in the Atlántico Region, Colombia"
+    journal: "Water"
+    year: 2022
+    volume: 14
+    number: 8
+    pages: "1-24"
+    article-number: "1217"
+    issn-online: "2073-4441"
+    doi: "10.3390/w14081217"
+    id-google-scholar: "_Ybze24A_UAC"
+    id-wos: "WOS:000786984800001"
+    id-scopus: "2-s2.0-85128803680"
+    id-orcid: "232546010"
+    id-ubb-vrip: "5270"
+  - key: cataldo2022evrp
+    entry: article
+    authors:
+      - "C. Cataldo-Díaz"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Mathematical model for the electric vehicle routing problem considering the state of charge of the batteries"
+    journal: "Sustainability"
+    year: 2022
+    volume: 14
+    number: 3
+    article-number: "1645"
+    pages: "1-26"
+    issn-online: "2071-1050"
+    doi: "10.3390/su14031645"
+    id-google-scholar: "JQOojiI6XY0C"
+    id-wos: "WOS:000757315100001"
+    id-scopus: "2-s2.0-85123772057"
+    id-orcid: "232546009"
+    id-ubb-vrip: "4983"
+  - key: brenda2021covid
+    entry: article
+    authors:
+      - "B. Valenzuela-Fonseca"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Strategy for locating people to reduce the transmission of COVID-19 using different interference measures"
+    journal: "Sustainability"
+    year: 2022
+    volume: 14
+    number: 1
+    article-number: "529"
+    pages: "1-19"
+    issn-online: "2071-1050"
+    doi: "10.3390/su14010529"
+    id-google-scholar: "TIZ-Mc8IlK0C"
+    id-wos: "WOS:000751041200001"
+    id-scopus: "2-s2.0-85122207258"
+    id-orcid: "232546005"
+    id-ubb-vrip: "4982"
+  - key: lge2021hwc
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "G. Gatica"
+      - "J.W. Escobar"
+    title: "A Mathematical Model for Scheduling and Assignment of Customers in Hospital Waste Collection Routes"
+    journal: "Applied Sciences"
+    year: 2021
+    volume: 11
+    number: 22
+    article-number: "10557"
+    pages: "1-16"
+    issn-online: "2076-3417"
+    doi: "10.3390/app112210557"
+    id-google-scholar: "hkOj_22Ku90C"
+    id-wos: "WOS:000724409200001"
+    id-scopus: "2-s2.0-85119291646"
+    id-orcid: "232545982"
+    id-ubb-vrip: "4778"
+  - key: rios2021picking
+    entry: article
+    authors:
+      - "J. Ríos"
+      - "R. Linfati"
+      - "D. Morillo-Torres"
+      - "I. Derpich"
+      - "G. Gatica"
+    title: "Optimal Placement Design for Picking and Packing in Distribution Centers"
+    journal: "Advances in Mechanical Engineering"
+    year: 2021
+    volume: 13
+    number: 4
+    pages: "1-7"
+    article-number: "16878140211010657"
+    issn-print: "1687-8132"
+    issn-online: "1687-8140"
+    doi: "10.1177/16878140211010657"
+    id-google-scholar: "1yQoGdGgb4wC"
+    id-wos: "WOS:000698107700001"
+    id-scopus: "2-s2.0-85105111464"
+    id-orcid: "232546078"
+    id-ubb-vrip: "4279"
+  - key: emebus2021alan
+    entry: article
+    authors:
+      - "A. Osorio-Mora"
+      - "M. Soto-Bustos"
+      - "G. Gatica"
+      - "P. Palominos"
+      - "R. Linfati"
+    title: "The Multi-Depot Cumulative Vehicle Routing Problem With Mandatory Visit Times and Minimum Delayed Latency"
+    journal: "IEEE Access"
+    year: 2021
+    volume: 9
+    number: ""
+    pages: "27210-27225"
+    issn-online: "2169-3536"
+    doi: "10.1109/ACCESS.2021.3058242"
+    id-google-scholar: "N5tVd3kTz84C"
+    id-wos: "WOS:000619292900001"
+    id-scopus: "2-s2.0-85100840957"
+    id-orcid: "232546084"
+    id-ubb-vrip: "4278"
+  - key: bernal2020istl
+    entry: article
+    authors:
+      - "J. Bernal-Moyano"
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "A simulated annealing-based approach for a real case study of vehicle routing problem with a heterogeneous fleet and time windows"
+    journal: "International Journal of Shipping and Transport Logistics"
+    year: 2021
+    volume: 13
+    number: "1-2"
+    pages: "185-204"
+    issn-print: "1756-6517"
+    issn-online: "1756-6525"
+    doi: "10.1504/IJSTL.2021.112923"
+    id-google-scholar: "VL0QpB8kHFEC"
+    id-wos: "WOS:000617503400008"
+    id-scopus: "2-s2.0-85100759111"
+    id-orcid: "232546081"
+    id-ubb-vrip: "4277"
+  - key: barros2020cvrp
+    entry: article
+    authors:
+      - "L. Barros"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "An exact approach for the consistent vehicle routing problem (ConVRP)"
+    journal: "Advances in Production Engineering & Management"
+    year: 2020
+    volume: 15
+    number: 3
+    pages: "255-266"
+    issn-print: "1854-6250"
+    issn-online: "1855-6531"
+    doi: "10.14743/apem2020.3.363"
+    id-google-scholar: "ZuybSZzF8UAC"
+    id-wos: "WOS:000589890200001"
+    id-scopus: "2-s2.0-85109126206"
+    id-orcid: "232546007"
+    id-ubb-vrip: "4088"
+  - key: correa2020mathematical
+    entry: article
+    authors:
+      - "G. Correa"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Mathematical Optimization Model for Truck Scheduling in a Distribution Center with a Mixed Service-Mode Dock Area"
+    journal: "Journal of Advanced Transportation"
+    year: 2020
+    volume: 2020
+    article-number: "8813372"
+    pages: "1-13"
+    issn-print: "0197-6729"
+    issn-online: "2042-3195"
+    doi: "10.1155/2020/8813372"
+    id-google-scholar: "SdhP9T11ey4C"
+    id-wos: "WOS:000598343200001"
+    id-scopus: "2-s2.0-85097581981"
+    id-orcid: "232546087"
+    id-ubb-vrip: "4042"
+  - key: osorio2019
+    entry: article
+    authors:
+      - "A. Osorio-Mora"
+      - "F. Núñez-Cerda"
+      - "G. Gatica"
+      - "R. Linfati"
+    title: "Multimodal Capacitated Hub Location Problems with Multi-Commodities: An Application in Freight Transport"
+    journal: "Journal of Advanced Transportation"
+    year: 2020
+    volume: 2020
+    article-number: "2431763"
+    pages: "1-9"
+    issn-print: "0197-6729"
+    issn-online: "2042-3195"
+    doi: "10.1155/2020/2431763"
+    id-google-scholar: "JoZmwDi-zQgC"
+    id-wos: "WOS:000510880900003"
+    id-scopus: "2-s2.0-85079066966"
+    id-orcid: "232546014"
+    id-ubb-vrip: "3344"
+  - key: fuentealba2019
+    entry: article
+    authors:
+      - "S. Fuentealba"
+      - "L. Pradenas-Rojas"
+      - "R. Linfati"
+      - "J. Ferland"
+    title: "Forest harvest and sawmills: an integrated tactical planning model"
+    journal: "Computers and Electronics in Agriculture"
+    year: 2019
+    volume: 156
+    number: ""
+    pages: "275-281"
+    issn-print: "0168-1699"
+    issn-online: "1872-7107"
+    doi: "10.1016/j.compag.2018.11.011"
+    id-google-scholar: "mvPsJ3kp5DgC"
+    id-wos: "WOS:000456754100027"
+    id-scopus: "2-s2.0-85057347268"
+    id-orcid: "232546017"
+    id-ubb-vrip: "3696"
+  - key: linfati2019
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "G. Gatica"
+      - "J.W. Escobar"
+    title: "A flexible mathematical model for the planning and designing of a sporting fixture by considering the assignment of referees"
+    journal: "International Journal of Industrial Engineering Computations"
+    year: 2019
+    volume: 10
+    number: 2
+    pages: "281-294"
+    issn-print: "1923-2926"
+    issn-online: "1923-2934"
+    doi: "10.5267/j.ijiec.2018.6.004"
+    id-google-scholar: "eflP2zaiRacC"
+    id-wos: "WOS:000468074200008"
+    id-scopus: "2-s2.0-85057285857"
+    id-orcid: "232545973"
+    id-ubb-vrip: "3112"
+  - key: linfati2018b
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "J.W. Escobar"
+      - "J. Escalona"
+    title: "A Two-Phase Heuristic Algorithm for the Problem of Scheduling and Vehicle Routing for Delivery of Medication to Patients"
+    journal: "Mathematical Problems in Engineering"
+    year: 2018
+    volume: 2018
+    article-number: "8901873"
+    pages: "1-12"
+    issn-print: "1024-123X"
+    issn-online: "1563-5147"
+    doi: "10.1155/2018/8901873"
+    id-google-scholar: "t6usbXjVLHcC"
+    id-wos: "WOS:000460463800001"
+    id-scopus: "2-s2.0-85059882474"
+    id-orcid: "232545983"
+    id-ubb-vrip: "2874"
+  - key: linfati2018
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Reoptimization heuristic for the capacitated vehicle routing problem"
+    journal: "Journal of Advanced Transportation"
+    year: 2018
+    volume: 2018
+    article-number: "3743710"
+    pages: "1-8"
+    issn-print: "0197-6729"
+    issn-online: "2042-3195"
+    doi: "10.1155/2018/3743710"
+    id-google-scholar: "BrmTIyaxlBUC"
+    id-wos: "WOS:000449915500001"
+    id-scopus: "2-s2.0-85082177763"
+    id-orcid: "232545990"
+    id-ubb-vrip: "3041"
+  - key: gatica2018
+    entry: article
+    authors:
+      - "G. Gatica"
+      - "G. Ahumada"
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "Efficient heuristic algorithms for location of charging stations in electric vehicle routing problems"
+    journal: "Studies in Informatics and Control"
+    year: 2018
+    volume: 27
+    number: 1
+    pages: "73-82"
+    issn-print: "1220-1766"
+    issn-online: "1841-429X"
+    doi: "10.24846/v27i1y201808"
+    id-google-scholar: "VOx2b1Wkg3QC"
+    id-wos: "WOS:000430357400008"
+    id-scopus: "2-s2.0-85046405764"
+    id-orcid: "232545995"
+    id-ubb-vrip: "2561"
+  - key: braga2017
+    entry: article
+    authors:
+      - "M. Braga"
+      - "D. Delle-Donne"
+      - "R. Linfati"
+      - "J. Marenco"
+    title: "The maximum-impact coloring polytope"
+    journal: "International Transactions in Operational Research"
+    year: 2017
+    volume: 24
+    number: "1-2"
+    pages: "303-324"
+    issn-print: "0969-6016"
+    issn-online: "1475-3995"
+    doi: "10.1111/itor.12265"
+    id-google-scholar: "p2g8aNsByqUC"
+    id-wos: "WOS:000384672600016"
+    id-scopus: "2-s2.0-84988526184"
+    id-orcid: "232546076"
+    id-ubb-vrip: "2039"
+  - key: linfati2016
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "L. Pradenas-Rojas"
+      - "J. Ferland"
+    title: "Aggregate planning in forest harvest: A mathematical programming model and solution"
+    journal: "Maderas-Ciencia y Tecnologia"
+    year: 2016
+    volume: 18
+    number: 4
+    pages: "555-566"
+    issn-print: "0717-3644"
+    issn-online: "0718-221X"
+    doi: "10.4067/S0718-221X2016005000048"
+    id-scielo: "S0718-221X2016000400004"
+    id-google-scholar: "kRWSkSYxWN8C"
+    id-wos: "WOS:000391185500004"
+    id-scopus: "2-s2.0-85000461157"
+    id-orcid: "232546748"
+    id-ubb-vrip: "1625"
+  - key: escobar2014b
+    entry: article
+    authors:
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "M.G. Baldoquin"
+      - "P. Toth"
+    title: "A granular variable tabu neighborhood search for the capacitated location-routing problem"
+    journal: "Transportation Research Part B: Methodological"
+    year: 2014
+    volume: 67
+    number: ""
+    pages: "344-356"
+    issn-print: "0191-2615"
+    issn-online: "1879-2367"
+    doi: "10.1016/j.trb.2014.05.014"
+    id-google-scholar: "f2IySw72cVMC"
+    id-wos: "WOS:000341462100017"
+    id-scopus: "2-s2.0-84902978542"
+    id-orcid: "232546079"
+    id-ubb-vrip: "43"
+  - key: escobar2014
+    entry: article
+    authors:
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "P. Toth"
+      - "M.G. Baldoquin"
+    title: "A hybrid granular tabu search algorithm for the multi-depot vehicle routing problem"
+    journal: "Journal of Heuristics"
+    year: 2014
+    volume: 20
+    number: 5
+    pages: "483-509"
+    issn-print: "1381-1231"
+    issn-online: "1572-9397"
+    doi: "10.1007/s10732-014-9247-0"
+    id-google-scholar: "D03iK_w7-QYC"
+    id-wos: "WOS:000341831700001"
+    id-scopus: "2-s2.0-84919877771"
+    id-orcid: "232545975"
+    id-ubb-vrip: "45"
+  - key: linfati2014b
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "M.G. Baldoquin"
+      - "A. Escalera"
+    title: "A model and solution method for solving the real-world and complex problem of scheduling visits to customers"
+    journal: "Journal of Applied Research and Technology"
+    year: 2014
+    volume: 12
+    number: 3
+    pages: "333-342"
+    issn-print: "1665-6423"
+    issn-online: "2448-6736"
+    doi: "10.1016/S1665-6423(14)71616-5"
+    id-scielo: "S1665-64232014000300001"
+    id-google-scholar: "_xSYboBqXhAC"
+    id-wos: "WOS:000340346400001"
+    id-scopus: "2-s2.0-84919647957"
+    id-orcid: "232545980"
+    id-ubb-vrip: "53"
+  - key: escobar2013
+    entry: article
+    authors:
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "P. Toth"
+    title: "A two-phase hybrid heuristic algorithm for the capacitated location-routing problem"
+    journal: "Computers and Operations Research"
+    year: 2013
+    volume: 40
+    number: 1
+    pages: "70-79"
+    issn-print: "0305-0548"
+    issn-online: "1873-765X"
+    doi: "10.1016/j.cor.2012.05.008"
+    id-google-scholar: "9yKSN-GCB0IC"
+    id-wos: "WOS:000309623100007"
+    id-scopus: "2-s2.0-84866143004"
+    id-orcid: "232546008"

@@ -1,0 +1,227 @@
+items:
+  - key: maya2023lola
+    entry: article
+    authors:
+      - "D. Maya-Contreras"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "A new methodology for generating personalised routes for logistics in music festivals by considering time windows"
+    journal: "International Journal of Logistics Systems and Management"
+    year: 2025
+    volume: 52
+    number: 1
+    pages: "83-113"
+    issn-print: "1742-7967"
+    issn-online: "1742-7975"
+    doi: "10.1504/IJLSM.2025.149187"
+    id-google-scholar: "Z5m8FVwuT1cC"
+    id-scopus: "2-s2.0-105019598260"
+    id-orcid: "232545981"
+    id-ubb-vrip: "6453"
+  - key: contreras2021pastos
+    entry: article
+    authors:
+      - "D. Contreras"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "A Model-Based Decision Framework for the Multi-Depot Multi-Traveling Salesman Problem with Split and Delivery Demand considering different Key Performance Indicators"
+    journal: "International Journal of Industrial and Systems Engineering"
+    year: 2022
+    volume: 42
+    number: 4
+    pages: "478-498"
+    issn-print: "1748-5037"
+    issn-online: "1748-5045"
+    doi: "10.1504/IJISE.2022.127418"
+    id-google-scholar: "tzM49s52ZIMC"
+    id-scopus: "2-s2.0-85144417347"
+    id-orcid: "232546013"
+    id-ubb-vrip: "5693"
+  - key: bernal2018
+    entry: article
+    authors:
+      - "J. Bernal-Moyano"
+      - "J.W. Escobar"
+      - "J.C. Paz"
+      - "R. Linfati"
+      - "G. Gatica"
+    title: "A probabilistic granular tabu search for the distance constrained capacitated vehicle routing problem"
+    journal: "International Journal of Industrial and Systems Engineering"
+    year: 2018
+    volume: 29
+    number: 4
+    pages: "453-477"
+    issn-print: "1748-5037"
+    issn-online: "1748-5045"
+    doi: "10.1504/IJISE.2018.094267"
+    id-google-scholar: "eJXPG6dFmWUC"
+    id-scopus: "2-s2.0-85052661184"
+    id-orcid: "232546002"
+    id-ubb-vrip: "2873"
+  - key: bernal2017b
+    entry: article
+    authors:
+      - "J. Bernal-Moyano"
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "A granular tabu search algorithm for a real case study of a vehicle routing problem with a heterogeneous fleet and time windows"
+    journal: "Journal of Industrial Engineering and Management"
+    year: 2017
+    volume: 10
+    number: 4
+    pages: "646-662"
+    issn-print: "2013-8423"
+    issn-online: "2013-0953"
+    doi: "10.3926/jiem.2159"
+    id-google-scholar: "LPZeul_q3PIC"
+    id-wos: "WOS:000417424700006"
+    id-scopus: "2-s2.0-85032675769"
+    id-orcid: "232545969"
+    id-ubb-vrip: "2231"
+  - key: bernal2017
+    entry: article
+    authors:
+      - "J. Bernal-Moyano"
+      - "J.W. Escobar"
+      - "C. Marín-Moreno"
+      - "R. Linfati"
+      - "G. Gatica"
+    title: "A comparison of trajectory granular based algorithms for the location-routing problem with heterogeneous fleet (LRPH)"
+    journal: "DYNA (Colombia)"
+    year: 2017
+    volume: 84
+    number: 200
+    pages: "193-201"
+    issn-print: "0012-7353"
+    issn-online: "2346-2183"
+    doi: "10.15446/dyna.v84n200.55533"
+    id-scielo: "S0012-73532017000100193"
+    id-google-scholar: "B3FOqHPlNUQC"
+    id-scopus: "2-s2.0-85021812044"
+    id-orcid: "232546011"
+    id-ubb-vrip: "24"
+  - key: cifuentes2017
+    entry: article
+    authors:
+      - "N. Cifuentes"
+      - "G. Gatica"
+      - "R. Linfati"
+    title: "A linear programming model for the parallel non-related machines problem, in the drying area of a Chilean sawmill"
+    journal: "Revista Facultad de Ingeniería - Universidad Pedagógica y Tecnológica de Colombia"
+    year: 2017
+    volume: 26
+    number: 46
+    pages: "9-17"
+    issn-print: "0121-1129"
+    issn-online: "2357-5328"
+    doi: "10.19053/01211129.v26.n46.2017.7309"
+    id-scielo: "S0121-11292017000300009"
+    id-google-scholar: "q3oQSFYPqjQC"
+    id-wos: "WOS:000417377500001"
+    id-orcid: "232546744"
+    id-ubb-vrip: "2232"
+  - key: gatica2017
+    entry: article
+    authors:
+      - "G. Gatica"
+      - "C. Contreras-Bolton"
+      - "N. Venegas"
+      - "O. Opazo"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Web application for location and vehicle routing in disaster"
+    journal: "ITECKNE"
+    year: 2017
+    volume: 14
+    number: 1
+    pages: "62-69"
+    issn-print: "1692-1798"
+    issn-online: "2339-3483"
+    doi: "10.15332/iteckne.v14i1.1631"
+    id-scielo: "S1692-17982017000100008"
+    id-google-scholar: "4fKUyHm3Qg0C"
+    id-wos: "WOS:000424974600008"
+    id-orcid: "232546745"
+    id-ubb-vrip: "2129"
+  - key: gatica2016b
+    entry: article
+    authors:
+      - "G. Gatica"
+      - "G. Villagrán"
+      - "C. Contreras-Bolton"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "A new genotype-phenotype genetic algorithm for the two-dimensional strip packing problem with rotation of 90º"
+    journal: "Ingenieria y Universidad"
+    year: 2016
+    volume: 20
+    number: 1
+    pages: "119-138"
+    issn-print: "0123-2126"
+    issn-online: "2011-2769"
+    doi: "10.11144/Javeriana.iyu20-1.ngpg"
+    id-scielo: "S0123-21262016000100006"
+    id-google-scholar: "geHnlv5EZngC"
+    id-scopus: "2-s2.0-84981717748"
+    id-orcid: "232546071"
+    id-ubb-vrip: "64"
+  - key: escobar2015
+    entry: article
+    authors:
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "A.J. Wilson"
+    title: "A hybrid metaheuristic algorithm for the capacitated location routing problem"
+    journal: "DYNA (Colombia)"
+    year: 2015
+    volume: 82
+    number: 189
+    pages: "243-251"
+    issn-print: "0012-7353"
+    issn-online: "2346-2183"
+    doi: "10.15446/dyna.v82n189.48552"
+    id-scielo: "S0012-73532015000100030"
+    id-google-scholar: "abG-DnoFyZgC"
+    id-scopus: "2-s2.0-84926428753"
+    id-orcid: "232546019"
+    id-ubb-vrip: "46"
+  - key: escobar2015b
+    entry: article
+    authors:
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "A.J. Wilson"
+    title: "The capacitated location routing problem: review of literature"
+    journal: "Revista Facultad de Ingeniería - Universidad Pedagógica y Tecnológica de Colombia"
+    year: 2015
+    volume: 24
+    number: 39
+    pages: "85-98"
+    issn-print: "0121-1129"
+    issn-online: "2357-5328"
+    doi: "10.19053/01211129.3553"
+    id-scielo: "S0121-11292015000200008"
+    id-google-scholar: "dshw04ExmUIC"
+    id-wos: "WOS:000361524000008"
+    id-orcid: "232546749"
+    id-ubb-vrip: "1681"
+  - key: linfati2014c
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "J.W. Escobar"
+      - "B. Cuevas"
+    title: "An algorithm based on granular tabu search for the problem of balancing public bikes by using multiple vehicles"
+    journal: "DYNA (Colombia)"
+    year: 2014
+    volume: 81
+    number: 186
+    pages: "284-294"
+    issn-print: "0012-7353"
+    issn-online: "2346-2183"
+    doi: "10.15446/dyna.v81n186.45220"
+    id-scielo: "S0012-73532014000400037"
+    id-google-scholar: "EUQCXRtRnyEC"
+    id-scopus: "2-s2.0-84907379072"
+    id-orcid: "232545997"
+    id-ubb-vrip: "150"

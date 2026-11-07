@@ -1,0 +1,42 @@
+items:
+  - start: 2012
+    institution: "Universidad del Bío-Bío"
+    city: "Concepción"
+    country: "Chile"
+    unit:
+      en: "Department of Industrial Engineering"
+      es: "Departamento de Ingeniería Industrial"
+    url: "https://industrial.ubiobio.cl/"
+    web: 2
+    web-courses:
+      - en: "Operations Research"
+        es: "Investigación de Operaciones"
+      - en: "Logistics and Supply Chain"
+        es: "Logística y cadena de suministro"
+      - en: "Engineering Economics"
+        es: "Evaluación de Proyectos"
+    ranks:
+      - title:
+          en: "Full Professor"
+          es: "Profesor Titular"
+        start: 2026
+      - title:
+          en: "Associate Professor"
+          es: "Profesor Asociado"
+        start: 2021
+        end: 2026
+      - title:
+          en: "Assistant Professor \"A\""
+          es: "Profesor Asistente \"A\""
+        start: 2017
+        end: 2021
+      - title:
+          en: "Assistant Professor \"B\""
+          es: "Profesor Asistente \"B\""
+        start: 2014
+        end: 2017
+      - title:
+          en: "Instructor"
+          es: "Instructor"
+        start: 2012
+        end: 2014

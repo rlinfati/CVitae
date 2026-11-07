@@ -1,0 +1,56 @@
+items:
+  - key: carneslossauces2018
+    entry: mastersthesis
+    authors:
+      - "H. Barreto"
+    title: "Diseño de un algorítmo heurístico para solucionar el problema de ruteo de vehículos con restricciones de ventanas de tiempo y flota heterogénea en la empresa Carnes Los Sauces S.A."
+    school: "Pontificia Universidad Javeriana Cali"
+    year: 2018
+    degree: "Maestría en Ingeniería Industrial"
+    address: "Colombia"
+  - key: sebastian2016
+    entry: mastersthesis
+    authors:
+      - "S. Fuentealba"
+    title: "Propuesta y resolución de un modelo mip para la planificación táctica entre cosecha forestal y aserraderos, usando reglas de patrones dinámicos"
+    school: "Universidad de Concepción"
+    year: 2016
+    degree: "Magister en Ingeniería Industrial"
+    address: "Chile"
+  - key: cocacola2015
+    entry: mastersthesis
+    authors:
+      - "J. Gómez"
+    title: "Un algoritmo heurístico para solucionar el problema de ruteo de vehículos con flota heterogénea y ventanas de tiempo"
+    school: "Pontificia Universidad Javeriana Cali"
+    year: 2015
+    degree: "Maestría en Ingeniería Industrial"
+    address: "Colombia"
+  - key: gabriela2013
+    entry: mastersthesis
+    authors:
+      - "G. García"
+    title: "A metaheuristic algorithm based on a granular tabu search for the distance constrained vehicle routing problem"
+    school: "Universidad Nacional Autónoma de México"
+    year: 2013
+    degree: "Maestría en Ingeniería"
+    address: "Mexico"
+  - key: lrphsa2014
+    entry: mastersthesis
+    authors:
+      - "C. Lasso"
+    title: "Desarrollo de una metaheurística basada en recosido simulado para el problema de localización y ruteo con flota heterogénea"
+    school: "Pontificia Universidad Javeriana Cali"
+    year: 2013
+    degree: "Maestría en Ingeniería Industrial"
+    address: "Colombia"
+  - key: ginalibia2012
+    entry: mastersthesis
+    authors:
+      - "G. Silva"
+      - "L. Renza"
+    title: "Modelos metaheurísticos para el problema de localización y ruteo con vehículos heterogéneos"
+    school: "Pontificia Universidad Javeriana Cali"
+    year: 2012
+    degree: "Maestría en Ingeniería Industrial"
+    address: "Colombia"

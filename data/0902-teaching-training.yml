@@ -1,0 +1,128 @@
+items:
+  - start: 2012
+    title:
+      en: "Assisted professional development courses"
+      es: "Cursos de perfeccionamiento asistidos"
+    institution: "Universidad del Bío-Bío"
+    country: "Chile"
+    courses:
+      - year: 2025
+        name:
+          en: "Artificial Intelligence for University Teaching"
+          es: "Inteligencia Artificial para la Docencia Universitaria"
+        hours: "10h"
+      - year: 2025
+        name:
+          en: "Teamwork Techniques to Improve Workplace Productivity"
+          es: "Técnicas de Trabajo en Equipo para la Mejora de la Productividad Laboral"
+        hours: "8h"
+      - year: 2025
+        name:
+          en: "Time Resource Optimization"
+          es: "Optimización del Recurso Tiempo"
+        hours: "140h"
+      - year: 2024
+        name:
+          en: "Quantitative Analysis with Python"
+          es: "Análisis Cuantitativo con Python"
+        hours: "10h"
+      - year: 2024
+        name:
+          en: "Teamwork Techniques to Improve Workplace Productivity"
+          es: "Técnicas de Trabajo en Equipo para la Mejora de la Productividad Laboral"
+        hours: "8h"
+      - year: 2023
+        name:
+          en: "Executive Power BI"
+          es: "Power BI Ejecutivo"
+        hours: "10h"
+      - year: 2021
+        name:
+          en: "COVID-19 Occupational Health Safety Protocol"
+          es: "Protocolo de Seguridad Sanitaria Laboral COVID-19"
+        hours: "1h"
+      - year: 2021
+        name:
+          en: "Elements of Machine Learning"
+          es: "Elementos de Machine Learning"
+        hours: "3d"
+      - year: 2017
+        name:
+          en: "Innovation for Academics"
+          es: "Innovación para Académicos"
+        hours: "16h"
+      - year: 2016
+        name:
+          en: "Teaching Management through DARCA Modules on the Intranet"
+          es: "Gestión Docente a Través de Módulos DARCA en Intranet"
+        hours: "10h"
+      - year: 2015
+        name:
+          en: "Advanced Excel"
+          es: "Excel Nivel Avanzado"
+        hours: "10h"
+      - year: 2015
+        name:
+          en: "Mobile devices as an educational resource"
+          es: "Los dispositivos móviles como recurso educativo"
+        hours: "10h"
+      - year: 2015
+        name:
+          en: "UBB Educational Model"
+          es: "Modelo Educativo UBB"
+        hours: "10h"
+      - year: 2015
+        name:
+          en: "Development of Teaching Guides"
+          es: "Elaboración de Guías Didácticas"
+        hours: "10h"
+      - year: 2015
+        name:
+          en: "Program to Strengthen Teaching and Learning - LASPAU-Harvard Phase 1"
+          es: "Programa para fortalecer la enseñanza y el aprendizaje - LASPAU-Harvard Fase 1"
+        hours: "59h"
+      - year: 2014
+        name:
+          en: "Development of Teaching Guides"
+          es: "Elaboración de Guías Didácticas"
+        hours: "10h"
+      - year: 2014
+        name:
+          en: "Program to Strengthen Teaching and Learning - LASPAU-Harvard Phase 1"
+          es: "Programa para fortalecer la enseñanza y el aprendizaje - LASPAU-Harvard Fase 1"
+        hours: "59h"
+      - year: 2013
+        name:
+          en: "Active and collaborative pedagogical techniques supported by a wiki platform"
+          es: "Técnicas pedagógicas activas y colaborativas con apoyo de plataforma wiki"
+        hours: "20h"
+      - year: 2013
+        name:
+          en: "Cloud activities with Google Docs"
+          es: "Actividades en la Nube con Google Docs"
+        hours: "10h"
+      - year: 2013
+        name:
+          en: "Course editing in Moodle"
+          es: "Edición de cursos en Moodle"
+        hours: "15h"
+      - year: 2013
+        name:
+          en: "Development of Course Programs and Teaching Guides"
+          es: "Elaboración de Programas de Asignatura y Guías Didácticas"
+        hours: "30h"
+      - year: 2013
+        name:
+          en: "Assessment for deep learning supported by IT tools"
+          es: "Evaluación para el aprendizaje profundo con apoyo de herramientas TI"
+        hours: "20h"
+      - year: 2013
+        name:
+          en: "Seminar on Evaluation of Active Methodologies, Collaborative Work and PBL"
+          es: "Seminario de Evaluación de Metodologías Activas, Trabajo colaborativo y ABP"
+        hours: "20h"
+      - year: 2013
+        name:
+          en: "Program to Strengthen Teaching and Learning - LASPAU-Harvard Phase 1"
+          es: "Programa para fortalecer la enseñanza y el aprendizaje - LASPAU-Harvard Fase 1"
+        hours: "64.5h"

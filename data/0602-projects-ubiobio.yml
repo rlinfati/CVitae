@@ -1,0 +1,148 @@
+items:
+  - start: 2025
+    end: 2027
+    title:
+      en: "Billion-Dollar Startups: Where Do Unicorns Come From?"
+      es: "Startups de un Billón de Dólares: ¿de Dónde Vienen los Unicornios?"
+    role: Co-I
+    code: "UBioBio-DICREA-Regular-RE2528904"
+    program:
+      en: "Regular research project"
+      es: "Proyecto regular"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "D. Mahn"
+      - "R. Linfati"
+    id-ubb-vrip: "2025-149"
+  - start: 2025
+    end: 2026
+    title:
+      en: "MIPLANAGRO: Sustainable Agricultural Planning Tool for SMEs"
+      es: "MIPLANAGRO: Herramienta de Planificación Agrícola Sustentable para PYMEs"
+    role: Co-I
+    code: "UBioBio-Transferencia-I+D 25-112"
+    program:
+      en: "Technology transfer"
+      es: "Transferencia tecnológica"
+    country: "Chile"
+    mandante: "Agrícola María José Monsalves Vallejos E.I.R.L."
+    team:
+      - "V. Ortiz-Araya"
+      - "R. Linfati"
+    id-ubb-vrip: "2025-173"
+  - start: 2023
+    end: 2025
+    title:
+      en: "Artificial Intelligence approaches to solve combinatorial optimization problems"
+      es: "Enfoques de Inteligencia Artificial para resolver problemas de optimización combinatoria"
+    role: Co-I
+    code: "UBioBio-DICREA-Regular-RE 2360219"
+    program:
+      en: "Regular research project"
+      es: "Proyecto regular"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "C. Rey"
+      - "R. Linfati"
+    id-ubb-vrip: "2023-126"
+  - start: 2022
+    end: 2024
+    title:
+      en: "Sustainable logistics management in the supply chain"
+      es: "Gestión sustentable de la logística en la cadena de suministro"
+    role: PI
+    code: "UBioBio-DICREA-Regular-2260222 IF/R"
+    program:
+      en: "Regular research project"
+      es: "Proyecto regular"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "R. Linfati"
+      - "V. Ortiz-Araya"
+    id-ubb-vrip: "2022-143"
+  - start: 2022
+    end: 2023
+    title:
+      en: "Integrated management tool for the decision-making process to improve the competitiveness of small sawmills"
+      es: "Herramienta de gestión integrada del proceso de toma de decisiones para mejorar la competitividad de pequeños aserraderos"
+    role: Co-I
+    code: "UBioBio-INES-I+D 22-17"
+    program:
+      en: "Support for multidisciplinary research groups"
+      es: "Apoyo a grupos de investigación multidisciplinarios"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "C. Rozas"
+      - "V. Ortiz-Araya"
+      - "R. Linfati"
+      - "C. Picarte"
+    id-ubb-vrip: "2022-122"
+  - start: 2020
+    end: 2022
+    title:
+      en: "Integrated planning and scheduling for continuous production with constraints limiting product changeovers: a study applied to the glass industry"
+      es: "Planificación y programación integrada para la producción continua con restricciones que limitan los cambios de productos: estudio aplicado en la industria del vidrio"
+    role: Co-I
+    code: "UBioBio-DICREA-Regular-2060240 IF/R"
+    program:
+      en: "Regular research project"
+      es: "Proyecto regular"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "G. Latorre-Núñez"
+      - "R. Linfati"
+    id-ubb-vrip: "2020-62"
+  - start: 2020
+    end: 2022
+    title:
+      en: "Exact and metaheuristic algorithms for new variants of the vehicle routing problem"
+      es: "Algoritmos exactos y metaheurísticos para nuevas variantes del problema de ruteo de vehículos"
+    role: PI
+    code: "UBioBio-DICREA-Regular-2060222 IF/R"
+    program:
+      en: "Regular research project"
+      es: "Proyecto regular"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "R. Linfati"
+      - "G. Latorre-Núñez"
+    id-ubb-vrip: "2020-47"
+  - start: 2020
+    end: 2021
+    title:
+      en: "Development of graphical management tools for process scheduling in wood-industry SMEs"
+      es: "Desarrollo de herramientas de gestión gráfica para la programación de procesos en Pymes madereras"
+    role: Co-I
+    code: "UBioBio-ING2030-I+D 20-83"
+    program:
+      en: "Ingeniería 2030 - Exploratory Project"
+      es: "Ingeniería 2030 - Proyecto Exploratorio"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "C. Rozas"
+      - "C. Picarte"
+      - "R. Linfati"
+    id-ubb-vrip: "2020-161"
+  - start: 2018
+    end: 2019
+    title:
+      en: "Operating room scheduling"
+      es: "Programación de salas de operaciones"
+    role: Co-I
+    code: "UBioBio-DICREA-Iniciación-186211 3/I"
+    program:
+      en: "Initiation project"
+      es: "Proyecto de iniciación"
+    country: "Chile"
+    mandante: "UBB"
+    team:
+      - "G. Latorre-Núñez"
+      - "R. Linfati"
+    id-ubb-vrip: "2018-246"

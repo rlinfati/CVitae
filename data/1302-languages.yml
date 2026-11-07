@@ -1,0 +1,19 @@
+items:
+  - language:
+      en: "Spanish"
+      es: "Español"
+    level:
+      en: "Native"
+      es: "Nativo"
+  - language:
+      en: "English"
+      es: "Inglés"
+    level:
+      en: "Speak and Read/Write"
+      es: "Habla, lee y escribe"
+  - language:
+      en: "Italian"
+      es: "Italiano"
+    level:
+      en: "Speak and Read/Write"
+      es: "Habla, lee y escribe"

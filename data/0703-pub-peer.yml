@@ -1,0 +1,151 @@
+items:
+  - key: mosalud2023
+    entry: article
+    authors:
+      - "J.W. Escobar"
+      - "J.L. Giraldo"
+      - "D.A. Londoño"
+      - "R. Linfati"
+    title: "Multiobjective Optimization of Public Health Service Delivery Networks"
+    journal: "Ciencia e Ingeniería Neogranadina"
+    year: 2023
+    volume: 33
+    number: 1
+    pages: "41-60"
+    issn-print: "0124-8170"
+    issn-online: "1909-7735"
+    doi: "10.18359/rcin.6353"
+    id-scielo: "S0124-81702023000100041"
+    id-google-scholar: "VLnqNzywnoUC"
+    id-orcid: "232546934"
+    id-ubb-vrip: "6228"
+  - key: acocflrp2021
+    entry: article
+    authors:
+      - "G. Gatica"
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "Heuristic algorithm based on Ant Colony Optimization for the Capacitated Location-Routing problem with Homogeneous Fleet"
+    journal: "Revista Espacios"
+    year: 2021
+    volume: 42
+    number: 16
+    pages: "1-12"
+    issn-print: "0798-1015"
+    issn-online: "2739-0071"
+    doi: "10.48082/espacios-a21v42n16p01"
+    id-google-scholar: "UHK10RUVsp4C"
+    id-orcid: "232546947"
+    id-ubb-vrip: "4806"
+  - key: german2020
+    entry: article
+    authors:
+      - "L. Pradenas-Rojas"
+      - "G. Bravo"
+      - "R. Linfati"
+    title: "Optimization model for remanufacturing in a real sawmill"
+    journal: "Journal of Industrial Engineering International"
+    year: 2020
+    volume: 16
+    number: 4
+    pages: "32-40"
+    issn-print: "1735-5702"
+    issn-online: "2251-712X"
+    doi: "10.30495/JIEI.2020.678785"
+    id-google-scholar: "WqliGbK-hY8C"
+    id-ubb-vrip: "4265"
+  - key: escobar2017
+    entry: article
+    authors:
+      - "J.W. Escobar"
+      - "R. Linfati"
+      - "A.J. Wilson"
+    title: "Inventory Management for distributors of perishable products"
+    journal: "Ingeniería y Desarrollo"
+    year: 2017
+    volume: 35
+    number: 1
+    pages: "219-239"
+    issn-print: "0122-3461"
+    issn-online: "2145-9371"
+    doi: "10.14482/inde.35.1.8950"
+    id-scielo: "S0122-34612017000100219"
+    id-google-scholar: "08ZZubdj9fEC"
+    id-orcid: "232546964"
+    id-ubb-vrip: "1015"
+  - key: gatica2016
+    entry: article
+    authors:
+      - "G. Gatica"
+      - "P. Reyes"
+      - "C. Contreras-Bolton"
+      - "R. Linfati"
+      - "J.W. Escobar"
+    title: "Un algoritmo para el strip packing problem obtenido mediante la extracción de habilidades de expertos usando minería de datos"
+    journal: "Ingeniería, Investigación y Tecnología"
+    year: 2016
+    volume: 17
+    number: 2
+    pages: "179-190"
+    issn-print: "1405-7743"
+    issn-online: "2594-0732"
+    doi: "10.1016/j.riit.2016.06.003"
+    id-scielo: "S1405-77432016000200179"
+    id-google-scholar: "ye4kPcJQO24C"
+    id-ubb-vrip: "2118"
+  - key: puenayan2014
+    entry: article
+    authors:
+      - "D.E. Puenayán"
+      - "J.C. Londoño"
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "Un algoritmo basado en búsqueda tabú granular para la solución de un problema de ruteo de vehículos considerando flota heterogénea"
+    journal: "Revista Ingenierías Universidad de Medellín"
+    year: 2014
+    volume: 13
+    number: 25
+    pages: "81-98"
+    issn-print: "1692-3324"
+    issn-online: "2248-4094"
+    doi: "10.22395/rium.v13n25a6"
+    id-scielo: "S1692-33242014000200007"
+    id-google-scholar: "V3AGJWp-ZtQC"
+    id-orcid: "232546972"
+    id-ubb-vrip: "2117"
+  - key: linfati2014
+    entry: article
+    authors:
+      - "R. Linfati"
+      - "J.W. Escobar"
+      - "G. Gatica"
+    title: "Un algoritmo metaheurístico para el problema de localización y ruteo con flota heterogénea"
+    journal: "Ingeniería y Ciencia"
+    year: 2014
+    volume: 10
+    number: 19
+    pages: "55-76"
+    issn-print: "1794-9165"
+    issn-online: "2256-4314"
+    doi: "10.17230/ingciencia.10.19.3"
+    id-scielo: "S1794-91652014000100004"
+    id-google-scholar: "bFI3QPDXJZMC"
+    id-orcid: "232546974"
+    id-ubb-vrip: "2116"
+  - key: escobar2012
+    entry: article
+    authors:
+      - "J.W. Escobar"
+      - "R. Linfati"
+    title: "Un algoritmo metaheurístico basado en recocido simulado con espacio de búsqueda granular para el problema de localización y ruteo con restricciones de capacidad"
+    journal: "Revista Ingenierías Universidad de Medellín"
+    year: 2012
+    volume: 11
+    number: 21
+    pages: "139-150"
+    issn-print: "1692-3324"
+    issn-online: "2248-4094"
+    doi: ""
+    id-scielo: "S1692-33242012000200012"
+    id-google-scholar: "UeHWp8X0CEIC"
+    id-ubb-vrip: "2115"

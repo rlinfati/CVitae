@@ -1,0 +1,30 @@
+---
+title: "Rodrigo Linfati"
+description: "Rodrigo Linfati, Full Professor of Industrial Engineering at Universidad del Bío-Bío (Chile). Research in operations research, combinatorial optimization, metaheuristics, and operations management."
+lang: en
+date: today
+date-format: YYYY
+nav-index: true
+format:
+  markdown:
+    output-ext: html
+    template: pico.html
+    wrap: none
+---
+
+{{< cv text data/0000-about.yml style=web >}}
+
+```{=html}
+  <p class="links">
+  <a id="email" role="button" href="#">rlinfati [at] ubiobio.cl</a>
+  <a role="button" class="outline" href="https://www.linkedin.com/in/rlinfati/">LinkedIn</a>
+  <a role="button" class="outline" href="https://orcid.org/0000-0002-7659-383X">ORCID</a>
+  <a role="button" class="outline" href="https://github.com/rlinfati/">GitHub</a>
+  </p>
+  <script>
+    var a = document.getElementById("email"), u = "rlinfati", d = "ubiobio.cl";
+    a.href = "mailto:" + u + "@" + d;
+    a.textContent = u + "@" + d;
+  </script>
+
+```

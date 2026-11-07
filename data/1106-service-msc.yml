@@ -1,0 +1,59 @@
+items:
+  - institution: "Universidad Andrés Bello - Chile"
+    degrees:
+      - name:
+          en: "Master of Science in Computer Science"
+          es: "Magíster en Ciencias de la Computación"
+        reviews: [{year: 2025, n: 2}]
+      - name:
+          en: "Master's in Industrial Engineering"
+          es: "Magíster en Ingeniería Industrial"
+        reviews: [{year: 2022}]
+  - institution: "Universidad Católica del Norte - Chile"
+    degrees:
+      - name:
+          en: "Master of Science in Industrial Engineering"
+          es: "Magíster en Ciencias de la Ingeniería Industrial"
+        reviews: [{year: 2025}]
+  - institution: "Universidad de Concepción - Chile"
+    degrees:
+      - name:
+          en: "Master's in Industrial Engineering"
+          es: "Magíster en Ingeniería Industrial"
+        reviews: [{year: 2023, n: 2}, {year: 2021, n: 2}, {year: 2020, n: 5}, {year: 2019}, {year: 2017}, {year: 2016, n: 2}, {year: 2015, n: 3}, {year: 2014, n: 2}, {year: 2013, n: 3}, {year: 2012, n: 2}]
+  - institution: "Universidad de la Frontera - Chile"
+    degrees:
+      - name:
+          en: "Master of Science in Engineering"
+          es: "Magíster en Ciencias de la Ingeniería"
+        reviews: [{year: 2025}]
+  - institution: "Universidad de Talca - Chile"
+    degrees:
+      - name:
+          en: "Master's in Operations Management"
+          es: "Magíster en Gestión de Operaciones"
+        reviews: [{year: 2024}, {year: 2014}]
+  - institution: "Universidad del Bío-Bío - Chile"
+    degrees:
+      - name:
+          en: "Master's in Industrial Engineering"
+          es: "Magíster en Ingeniería Industrial"
+        reviews: [{year: 2016}, {year: 2013, n: 3}]
+  - institution: "Pontificia Universidad Javeriana Cali - Colombia"
+    degrees:
+      - name:
+          en: "Master's in Engineering - Industrial"
+          es: "Maestría en Ingeniería - Industrial"
+        reviews: [{year: 2014, n: 2}]
+  - institution: "Universidad de Antioquia - Colombia"
+    degrees:
+      - name:
+          en: "Master's in Engineering - Industrial"
+          es: "Maestría en Ingeniería - Industrial"
+        reviews: [{year: 2017}]
+  - institution: "Universidad Industrial de Santander - Colombia"
+    degrees:
+      - name:
+          en: "Master's in Industrial Engineering"
+          es: "Maestría en Ingeniería Industrial"
+        reviews: [{year: 2017}]

@@ -1,0 +1,45 @@
+---
+title: "Rodrigo Linfati, PhD"
+subtitle: "Curriculum Vitae (short)"
+pagetitle: "Rodrigo Linfati, PhD - Curriculum Vitae (short)"
+date: today
+lang: en
+language:
+  title-block-published: Last update
+format:
+  typst:
+    date-format: "[Last update:] MMMM D, YYYY"
+    output-file: CV-Linfati-short-en.pdf
+  docx:
+    date-format: "[Last update:] MMMM D, YYYY"
+    reference-doc: assets/reference.docx
+    output-file: CV-Linfati-short-en.docx
+---
+
+{{< cv text data/0000-about.yml >}}
+
+{{< cv text data/0100-summary.yml >}}
+
+{{< cv scholar >}}
+
+{{< cv summary >}}
+
+## Profiles
+
+{{< cv text data/0200-contact.yml short=true >}}
+
+## Academic Appointments
+
+{{< cv appointments data/0301-appointments.yml web=true >}}
+
+## Education
+
+{{< cv education data/0400-education.yml web=true >}}
+
+## External Funding
+
+{{< cv projects data/0601-projects-external.yml role=PI >}}
+
+## Journal Articles - WoS (SCIE, SSCI, AHCI)
+
+{{< cv bib data/0701-pub-wos.yml style=article last=5 >}}

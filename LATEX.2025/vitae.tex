@@ -1,0 +1,119 @@
+\documentclass[12pt,letterpaper,sans]{moderncv}
+
+\usepackage[utf8]{inputenc}
+\usepackage{natbib}
+\usepackage{multibib}
+
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+
+\newcites{bibjcr}{Journal Articles - WOS/JCR}
+\newcites{bibsjr}{Journal Articles - WOS/ESCI \& SCOPUS}
+\newcites{bibcon}{Conference Articles - Book Chapter}
+\newcites{bibart}{Journal Articles - Peer Reviewed}
+%\newcites{bibpre}{Journal Articles - PrePrint}
+
+\newcites{bibphdthesis}{Doctoral Thesis Supervised}
+\newcites{bibmscthesis}{Master Thesis Supervised}
+
+\newcites{bibubbbscA}{Undergraduate Projects Supervised - UBB-201x}
+\newcites{bibubbbscB}{Undergraduate Projects Supervised - UBB-202x}
+
+\newcites{biboralkey}{Plenaries and Keynotes Talks}
+\newcites{biboralA}{Conference Talks - 201x}
+\newcites{biboralB}{Conference Talks - 202x}
+
+\name{Rodrigo}{Linfati}
+\title{PhD.}
+
+\address{Avda. Collao 1202 - Concepci\'on \\ Chile \\}
+\phone[mobile]{+1~310~651~8883}
+\phone[fixed]{+56~41~311~1525}
+\email{rlinfati@ubiobio.cl}
+
+\extrainfo{
+		   {~{\rmfamily\textbullet}~} Citizenship: Chilean/Italian \\
+		   {~{\rmfamily\textbullet}~} \href{https://orcid.org/0000-0002-7659-383X}{ORCID: 0000-0002-7659-383X} \\
+		   {~{\rmfamily\textbullet}~} \href{https://www.scopus.com/authid/detail.uri?authorId=55250033800}{SCOPUS: 55250033800} \\
+		   {~{\rmfamily\textbullet}~} \href{http://www.researcherid.com/rid/X-9326-2018}{ResearchID: X-9326-2018} \\
+		   {~{\rmfamily\textbullet}~} \href{https://scholar.google.cl/citations?user=6bJ02OAAAAAJ}{Google Scholar: 6bJ02OAAAAAJ}		    
+}
+
+\quote{Rodrigo Carlos Eugenio LINFATI MEDINA}
+% \photo{picture}
+
+\begin{document}
+
+\input{10-intro-en.tex}
+\input{10-intro-es.tex}
+
+\input{20-education.tex}
+\input{30-academic.tex}
+
+\input{40-research-project.tex}
+
+\bibliographystylebibjcr{unsrtnat}
+\bibliographybibjcr{bib-paper-1-jcr}
+\nocitebibjcr{*}
+\clearpage
+
+\bibliographystylebibsjr{unsrtnat}
+\bibliographybibsjr{bib-paper-2-wos-scopus}
+\nocitebibsjr{*}
+\clearpage
+
+\bibliographystylebibcon{unsrtnat}
+\bibliographybibcon{bib-paper-3-bookconf}
+\nocitebibcon{*}
+\clearpage
+
+\bibliographystylebibart{unsrtnat}
+\bibliographybibart{bib-paper-4-peerreviewed}
+\nocitebibart{*}
+\clearpage
+
+% \bibliographystylebibpre{unsrtnat}
+% \bibliographybibpre{bib-paper-5-preprint}
+% \nocitebibpre{*}
+% \clearpage
+
+\bibliographystylebibphdthesis{unsrtnat}
+\bibliographybibphdthesis{bib-phd-thesis}
+\nocitebibphdthesis{*}
+\clearpage
+
+\bibliographystylebibmscthesis{unsrtnat}
+\bibliographybibmscthesis{bib-msc-thesis}
+\nocitebibmscthesis{*}
+\clearpage
+
+\bibliographystylebibubbbscB{unsrtnat}
+\bibliographybibubbbscB{bib-ubb-bsc-202x}
+\nocitebibubbbscB{*}
+\clearpage
+
+\bibliographystylebibubbbscA{unsrtnat}
+\bibliographybibubbbscA{bib-ubb-bsc-201x}
+\nocitebibubbbscA{*}
+\clearpage
+
+\input{50-servicio}
+
+\bibliographystylebiboralkey{unsrtnat}
+\bibliographybiboralkey{bib-oral-invited}
+\nocitebiboralkey{*}
+\clearpage
+
+\bibliographystylebiboralB{unsrtnat}
+\bibliographybiboralB{bib-oral-conf-202x}
+\nocitebiboralB{*}
+\clearpage
+
+\bibliographystylebiboralA{unsrtnat}
+\bibliographybiboralA{bib-oral-conf-201x}
+\nocitebiboralA{*}
+\clearpage
+
+\input{60-stuff}
+
+\end{document}

@@ -1,0 +1,47 @@
+---
+title: "Research - Rodrigo Linfati"
+description: "Research projects and publication profiles of Rodrigo Linfati: ANID-FONDECYT, ANID-REC and Universidad del Bío-Bío research group projects."
+lang: en
+date: today
+date-format: YYYY
+nav-research: true
+format:
+  markdown:
+    output-ext: html
+    template: pico.html
+    wrap: none
+---
+
+```{=html}
+<h2>Publications</h2>
+<p class="links">
+  <a role="button" class="outline" href="https://scholar.google.cl/citations?user=6bJ02OAAAAAJ">Google Scholar</a>
+  <a role="button" class="outline" href="https://www.webofscience.com/wos/author/rid/X-9326-2018">Web of Science</a>
+  <a role="button" class="outline" href="https://www.scopus.com/authid/detail.uri?authorId=55250033800">Scopus</a>
+  <a role="button" class="outline" href="https://orcid.org/0000-0002-7659-383X">ORCID</a>
+</p>
+
+<h2>Projects</h2>
+
+```
+
+{{< cv projects data/0601-projects-external.yml data/0603-projects-groups.yml style=web >}}
+
+```{=html}
+<h3>About ANID and FONDECYT</h3>
+<p>
+  <strong>ANID</strong> (National Agency for Research and Development) is Chile's national
+  research and innovation funding agency. It plays a role similar to the
+  <em>National Science Foundation</em> (NSF) in the United States, <em>UKRI</em> in the United Kingdom,
+  the <em>ANR</em> in France, the <em>DFG</em> in Germany or the <em>ARC</em> in Australia,
+  and it is the Chilean counterpart of <em>CONICET</em> and <em>CNPq</em> as funders in Argentina and Brazil.
+</p>
+<p>
+  <strong>FONDECYT</strong> (National Fund for Scientific and Technological Development) is ANID's main instrument for funding individual, investigator-driven basic research,
+  awarded through national peer-reviewed competitions.
+  <em>FONDECYT Regular</em> is comparable to an NSF standard research grant or a DFG Individual Research Grant,
+  while <em>FONDECYT Initiation</em> targets early-career researchers, in the spirit of
+  NSF CAREER or the ERC Starting Grant (at a smaller scale).
+  These equivalences are approximate: budgets, durations and selection rules differ.
+</p>
+```

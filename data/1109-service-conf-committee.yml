@@ -1,0 +1,53 @@
+items:
+  - acronym: "ARTIIS"
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation, and Sustainability"
+    editions: [{year: 2025}, {year: 2024}]
+  - acronym: "ASOCIO"
+    name: "Congreso Colombiano de Investigación de Operaciones"
+    editions: [{year: 2019, edition: "III"}]
+  - acronym: "CLEI"
+    name: "Latin American Computing Conference"
+    sub:
+      - acronym: "SLIOIA"
+        name: "Latin American Symposium on Operations Research and Artificial Intelligence"
+        editions: [{year: 2020, edition: "XLVI"}, {year: 2019, edition: "XLV"}, {year: 2018, edition: "XLIV"}, {year: 2017, edition: "XLIII; with 46 JAIIO, Argentina"}]
+      - label: "Latin American Symposium on Data and Information Management"
+        editions: [{year: 2020, edition: "XLVI"}]
+      - label: "Latin American Symposium on Data Management Systems"
+        editions: [{year: 2019, edition: "XLV"}]
+  - acronym: "HM"
+    name: "International Workshop on Hybrid Metaheuristics"
+    editions: [{year: 2019}]
+  - acronym: "ICCL"
+    name: "International Conference on Computational Logistics"
+    editions: [{year: 2014, edition: "V"}]
+  - acronym: "ICORES"
+    name: "International Conference on Operations Research and Enterprise Systems"
+    editions: [{year: 2025, edition: "XIV"}]
+  - acronym: "IEOM"
+    name: "International Conference on Industrial Engineering and Operations Management"
+    sub:
+      - label: "Bangladesh"
+        editions: [{year: 2025, edition: "VII"}]
+      - label: "India"
+        editions: [{year: 2025, edition: "V"}]
+      - label: "South American"
+        editions: [{year: 2025, edition: "VI"}]
+  - acronym: "ISC"
+    name: "Intelligent Systems & Decision Making: Human Insights in the Era of AI"
+    editions: [{year: 2025}]
+  - acronym: "MIC"
+    name: "Metaheuristics International Conference"
+    editions: [{year: 2024}, {year: 2022}, {year: 2019}]
+  - acronym: "OPTIMA"
+    name: "Congreso Chileno de Investigación Operativa"
+    editions: [{year: 2025, edition: "XV"}, {year: 2021, edition: "XIV"}, {year: 2017, edition: "XII"}, {year: 2015, edition: "XI"}, {year: 2013, edition: "X"}]
+  - acronym: "SIII"
+    name: "Simposio Internacional de Ingeniería Industrial"
+    editions: [{year: 2016, edition: "IX"}, {year: 2015, edition: "VIII"}]
+  - acronym: "WBO"
+    name: "International Workshop on Big Optimization"
+    editions: [{year: 2025}]
+  - acronym: "WEA"
+    name: "Workshop on Engineering Application"
+    editions: [{year: 2018, edition: "V"}]

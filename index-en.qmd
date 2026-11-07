@@ -1,0 +1,177 @@
+---
+title: "Rodrigo Linfati, PhD"
+subtitle: "Curriculum Vitae"
+pagetitle: "Rodrigo Linfati, PhD - Curriculum Vitae"
+date: today
+lang: en
+language:
+  title-block-published: Last update
+format:
+  typst:
+    date-format: "[Last update:] MMMM D, YYYY"
+    output-file: CV-Linfati-en.pdf
+  docx:
+    date-format: "[Last update:] MMMM D, YYYY"
+    reference-doc: assets/reference.docx
+    output-file: CV-Linfati-en.docx
+---
+
+{{< cv text data/0000-about.yml >}}
+
+{{< cv text data/0100-summary.yml >}}
+
+{{< cv scholar >}}
+
+{{< cv summary >}}
+
+## Contact and Identifiers
+
+{{< cv text data/0200-contact.yml >}}
+
+## Appointments and Leadership
+
+### Academic Appointments
+
+{{< cv appointments data/0301-appointments.yml >}}
+
+### Graduate Program Memberships
+
+{{< cv programs data/0302-postgraduate.yml >}}
+
+### Administrative and Leadership Roles
+
+{{< cv entries data/0303-leadership.yml >}}
+
+## Education
+
+{{< cv education data/0400-education.yml >}}
+
+## Research Projects
+
+{{< cv text data/0600-projects-notes.yml >}}
+
+### External Funding
+
+{{< cv projects data/0601-projects-external.yml >}}
+
+### UBB Funding
+
+{{< cv projects data/0602-projects-ubiobio.yml >}}
+
+### Research Groups
+
+{{< cv projects data/0603-projects-groups.yml >}}
+
+## Publications
+
+### Journal Articles - WoS (SCIE, SSCI, AHCI)
+
+{{< cv bib data/0701-pub-wos.yml style=article >}}
+
+### Journal Articles - WoS/ESCI & Scopus
+
+{{< cv bib data/0702-pub-scopus.yml style=article >}}
+
+### Journal Articles - SciELO and Others
+
+{{< cv bib data/0703-pub-peer.yml style=article >}}
+
+### Conference Articles and Book Chapters
+
+{{< cv bib data/0704-pub-conf.yml style=conference >}}
+
+### Journal Articles - PrePrint
+
+{{< cv bib data/0705-pub-preprint.yml style=report >}}
+
+## Supervised Theses
+
+### Doctoral Theses - UBB
+
+{{< cv bib data/0801-theses-phd-ubb.yml style=thesis >}}
+
+### Master Theses - UBB
+
+{{< cv bib data/0802-theses-msc-ubb.yml style=thesis >}}
+
+### Master Theses - Other Universities
+
+{{< cv bib data/0803-theses-msc-other.yml style=thesis >}}
+
+### Undergraduate Projects - UBB
+
+{{< cv bib data/0804-theses-bsc-ubb.yml style=thesis >}}
+
+## Teaching
+
+### Courses Taught
+
+v: evening · e: elective (undergraduate only) · m: master's course offered at undergraduate level.
+
+{{< cv teaching data/0901-teaching.yml >}}
+
+### Teaching Training and Professional Development
+
+{{< cv training data/0902-teaching-training.yml >}}
+
+## Academic Service
+
+### Accreditation Peer Review
+
+{{< cv entries data/1101-service-accreditation.yml >}}
+
+### Reviewing - Journals
+
+{{< cv journals data/1102-service-journals.yml >}}
+
+### Reviewing - Projects and Academic Ranks
+
+{{< cv groups data/1104-service-projects.yml >}}
+
+### Reviewing - Scholarships
+
+{{< cv groups data/1105-service-scholarships.yml >}}
+
+### Master Theses Committees
+
+{{< cv committees data/1106-service-msc.yml >}}
+
+### Doctoral Theses Committees
+
+(C): candidate.
+
+{{< cv committees data/1107-service-phd.yml >}}
+
+### Conference Organization
+
+{{< cv conferences data/1108-service-conf-organizer.yml >}}
+
+### Conference Committees
+
+{{< cv conferences data/1109-service-conf-committee.yml >}}
+
+## Talks
+
+Presenter in bold.
+
+### Plenary and Keynote Talks
+
+{{< cv bib data/1201-talks-keynote.yml style=talk >}}
+
+### Conference Talks
+
+{{< cv bib data/1202-talks-conf.yml style=talk >}}
+
+### Outreach and Dissemination
+
+{{< cv entries data/1203-talks-outreach.yml >}}
+
+## Other
+
+### Membership in Professional Societies
+
+{{< cv entries data/1301-societies.yml >}}
+
+### Languages
+
+{{< cv pairs data/1302-languages.yml >}}

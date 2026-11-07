@@ -1,0 +1,28 @@
+items:
+  - text:
+      en: "**Full Professor** - Universidad del Bío-Bío"
+      es: "**Profesor Titular** - Universidad del Bío-Bío"
+  - heading:
+      en: "About Me"
+      es: "Sobre mí"
+  - text:
+      en: "Rodrigo Linfati is currently a Full Professor (since 2026) in the Department of Industrial Engineering at the Universidad del Bío-Bío in Concepción (Chile), where he joined in 2012. Dr. Linfati earned his Ph.D. in Operational Research from the University of Bologna (Italy). He also earned a Master of Science in Industrial Engineering, an Industrial Engineering Degree, and a Bachelor of Science in Engineering from the Universidad de Concepción (Chile)."
+      es: "Rodrigo Linfati es actualmente Profesor Titular (desde 2026) del Departamento de Ingeniería Industrial de la Universidad del Bío-Bío en Concepción (Chile), donde se incorporó en 2012. El Dr. Linfati obtuvo su Ph.D. en Investigación de Operaciones en la Universidad de Bologna (Italia). También obtuvo un Magíster en Ingeniería Industrial, el título profesional de Ingeniero Civil Industrial y una Licenciatura en Ciencias de la Ingeniería en la Universidad de Concepción (Chile)."
+  - label:
+      en: "Research Areas"
+      es: "Áreas de investigación"
+    value:
+      en: "operations research, combinatorial optimization, metaheuristics, and operations management."
+      es: "investigación de operaciones, optimización combinatoria, metaheurísticas y gestión de operaciones."
+  - label:
+      en: "Research Interests"
+      es: "Intereses de investigación"
+    value:
+      en: "heuristic and metaheuristic algorithms (TS, SA, VNS, GA, ACO); mathematical modeling and mixed-integer programming formulations; matheuristics and hybrid optimization techniques; machine learning for optimization, including reinforcement learning; quantum and quantum-inspired optimization (metaheuristics, QUBO, quantum annealing, QAOA)."
+      es: "algoritmos heurísticos y metaheurísticos (TS, SA, VNS, GA, ACO); modelamiento matemático y formulaciones de programación entera mixta; matheurísticas y técnicas de optimización híbridas; aprendizaje automático para optimización, incluido el aprendizaje por refuerzo; optimización cuántica e inspirada en la cuántica (metaheurísticas, QUBO, recocido cuántico, QAOA)."
+  - label:
+      en: "Application Areas"
+      es: "Áreas de aplicación"
+    value:
+      en: "vehicle routing and last-mile logistics; supply chain management (forestry, sawmill, mining); cutting stock (sawmill, forestry); scheduling, location, and healthcare."
+      es: "ruteo de vehículos y logística de última milla; gestión de la cadena de suministro (forestal, aserraderos, minería); problemas de corte (aserraderos, forestal); programación de tareas, localización y salud."

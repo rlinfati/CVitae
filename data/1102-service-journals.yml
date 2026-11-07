@@ -1,0 +1,189 @@
+items:
+  - name: "African Journal of Mathematics and Computer Science Research"
+    reviews: [{year: 2019}]
+  - name: "Algorithms"
+    reviews: [{year: 2024}, {year: 2021}, {year: 2020, n: 2}, {year: 2019, n: 2}, {year: 2018}, {year: 2017, n: 2}]
+  - name: "Annals of Operations Research"
+    reviews: [{year: 2019}]
+  - name: "Applied Artificial Intelligence"
+    reviews: [{year: 2021}]
+  - name: "Applied Mathematical Modelling"
+    reviews: [{year: 2018}]
+  - name: "Applied Sciences"
+    reviews: [{year: 2025}, {year: 2024, n: 6}, {year: 2023, n: 5}, {year: 2022, n: 6}, {year: 2021, n: 3}]
+  - name: "Applied Soft Computing"
+    reviews: [{year: 2019}]
+  - name: "Biomimetics"
+    reviews: [{year: 2023}]
+  - name: "Clean - Soil, Air, Water"
+    reviews: [{year: 2022}]
+  - name: "Clear Waste Systems"
+    reviews: [{year: 2022}]
+  - name: "Cluster Computing"
+    reviews: [{year: 2025}]
+  - name: "Cogent Engineering"
+    reviews: [{year: 2022}]
+  - name: "Colombia Forestal"
+    reviews: [{year: 2016}]
+  - name: "Computers"
+    reviews: [{year: 2019}]
+  - name: "Computers & Industrial Engineering"
+    reviews: [{year: 2021}, {year: 2019}]
+  - name: "Computers & Operations Research"
+    reviews: [{year: 2018}, {year: 2017}]
+  - name: "Computers, Materials & Continua"
+    reviews: [{year: 2025}]
+  - name: "DYNA - Colombia"
+    reviews: [{year: 2016}, {year: 2015, n: 2}]
+  - name: "Electronics"
+    reviews: [{year: 2024}, {year: 2023, n: 3}]
+  - name: "Energies"
+    reviews: [{year: 2025, n: 2}, {year: 2022, n: 3}]
+  - name: "Energy Science & Engineering"
+    reviews: [{year: 2025}]
+  - name: "Engineering Optimization"
+    reviews: [{year: 2018}]
+  - name: "Entropy"
+    reviews: [{year: 2025}, {year: 2023}]
+  - name: "Environmental Processes"
+    reviews: [{year: 2020}]
+  - name: "European Journal of Industrial Engineering"
+    reviews: [{year: 2021}]
+  - name: "European Journal of Operational Research"
+    reviews: [{year: 2018}]
+  - name: "Evolutionary Intelligence"
+    reviews: [{year: 2023}]
+  - name: "Expert Systems With Applications"
+    reviews: [{year: 2016}]
+  - name: "Forests"
+    reviews: [{year: 2025}]
+  - name: "Fractal Fract"
+    reviews: [{year: 2024}]
+  - name: "Future Internet"
+    reviews: [{year: 2025}]
+  - name: "Heliyon"
+    reviews: [{year: 2025}, {year: 2024}, {year: 2023}, {year: 2022}]
+  - name: "I+D Tecnológico"
+    reviews: [{year: 2017}]
+  - name: "IEEE Access"
+    reviews: [{year: 2025, n: 2}, {year: 2024, n: 3}, {year: 2022}, {year: 2020}, {year: 2019}]
+  - name: "IEEE Transactions on Automation Science and Engineering"
+    reviews: [{year: 2017}]
+  - name: "IEEE Transactions on Emerging Topics in Computational Intelligence"
+    reviews: [{year: 2022}]
+  - name: "IEEE Transactions on Intelligent Transportation Systems"
+    reviews: [{year: 2024}]
+  - name: "IET Intelligent Transport Systems"
+    reviews: [{year: 2025}]
+  - name: "Información Tecnológica"
+    reviews: [{year: 2019}, {year: 2018, n: 2}, {year: 2017}]
+  - name: "Information"
+    reviews: [{year: 2022}, {year: 2019}]
+  - name: "INGE CUC"
+    reviews: [{year: 2018}]
+  - name: "Ingeniare"
+    reviews: [{year: 2019}]
+  - name: "Ingeniería e Investigación"
+    reviews: [{year: 2021}]
+  - name: "Ingeniería y Ciencia"
+    reviews: [{year: 2018}]
+  - name: "Ingeniería y Competitividad"
+    reviews: [{year: 2022}, {year: 2015}]
+  - name: "International Journal of Advanced Intelligence Paradigms"
+    reviews: [{year: 2016}]
+  - name: "International Journal of Advanced Operations Management"
+    reviews: [{year: 2014}]
+  - name: "International Journal of Computer Mathematics"
+    reviews: [{year: 2018}]
+  - name: "International Journal of Geo-Information"
+    reviews: [{year: 2024}]
+  - name: "International Journal of Industrial and Systems Engineering"
+    reviews: [{year: 2019}, {year: 2018, n: 2}, {year: 2015}]
+  - name: "International Journal of Industrial Engineering: Theory, Application and Practice"
+    reviews: [{year: 2024, n: 3}, {year: 2023, n: 2}, {year: 2022, n: 2}, {year: 2018, n: 3}]
+  - name: "International Journal of Logistics Systems and Management"
+    reviews: [{year: 2025}, {year: 2024}, {year: 2019}, {year: 2018}]
+  - name: "International Journal of Operational Research"
+    reviews: [{year: 2020}]
+  - name: "International Journal of Services and Operations Management"
+    reviews: [{year: 2016}]
+  - name: "International Journal of Shipping and Transport Logistics"
+    reviews: [{year: 2022}]
+  - name: "International Transactions in Operational Research"
+    reviews: [{year: 2025}, {year: 2024}, {year: 2023}, {year: 2020}, {year: 2019, n: 2}, {year: 2015}, {year: 2013}]
+  - name: "INVENTUM"
+    reviews: [{year: 2017}]
+  - name: "Journal of Advanced Transportation"
+    reviews: [{year: 2024, n: 2}]
+  - name: "Journal of Advances in Mathematics and Computer Science"
+    reviews: [{year: 2022}]
+  - name: "Journal of Cleaner Production"
+    reviews: [{year: 2024}, {year: 2017}]
+  - name: "Journal of Marine Science and Engineering"
+    reviews: [{year: 2024, n: 3}, {year: 2023}]
+  - name: "Journal of Mathematics"
+    reviews: [{year: 2025}]
+  - name: "Logistics"
+    reviews: [{year: 2025, n: 2}]
+  - name: "Mathematical Problems in Engineering"
+    reviews: [{year: 2023}, {year: 2022}, {year: 2017}]
+  - name: "Mathematics"
+    reviews: [{year: 2025, n: 4}, {year: 2024, n: 5}, {year: 2023, n: 2}, {year: 2022}]
+  - name: "Networks"
+    reviews: [{year: 2022}]
+  - name: "New Generation Computing"
+    reviews: [{year: 2022}]
+  - name: "Operational Research"
+    reviews: [{year: 2023}, {year: 2021}]
+  - name: "Operations Research and Decisions"
+    reviews: [{year: 2021}]
+  - name: "Optimization Letters"
+    reviews: [{year: 2015}, {year: 2014}]
+  - name: "PeerJ Computer Science"
+    reviews: [{year: 2021}]
+  - name: "Process Integration and Optimization for Sustainability"
+    reviews: [{year: 2022}]
+  - name: "RAIRO - Operations Research"
+    reviews: [{year: 2025}, {year: 2023}, {year: 2020, n: 2}, {year: 2019}, {year: 2018}]
+  - name: "Revista Facultad de Ingeniería de la Universidad Pedagógica y Tecnológica"
+    reviews: [{year: 2016}, {year: 2012}]
+  - name: "Revista Facultad de Ingeniería UdeA"
+    reviews: [{year: 2017}]
+  - name: "Revista Ingeniería Industrial (Universidad de Lima)"
+    reviews: [{year: 2025}]
+  - name: "Revista Ingeniería Industrial - Universidad del Bío-Bío"
+    reviews: [{year: 2015, n: 2}, {year: 2014}]
+  - name: "Revista Ingeniería Industrial: Actualidad y Nuevas Tendencias"
+    reviews: [{year: 2016}]
+  - name: "Revista Ingeniería y Desarrollo"
+    reviews: [{year: 2016}, {year: 2013}]
+  - name: "Revista Técnica de Ingeniería de la Universidad del Zulia"
+    reviews: [{year: 2013}]
+  - name: "Scientia Iranica"
+    reviews: [{year: 2018}, {year: 2016}]
+  - name: "Sensors"
+    reviews: [{year: 2025}, {year: 2024}]
+  - name: "Smart Cities"
+    reviews: [{year: 2023}]
+  - name: "Socio-Economic Planning Sciences"
+    reviews: [{year: 2022}]
+  - name: "Sustainability"
+    reviews: [{year: 2025, n: 4}, {year: 2024, n: 3}, {year: 2023, n: 3}, {year: 2022}]
+  - name: "Symmetry"
+    reviews: [{year: 2023}, {year: 2022}]
+  - name: "Systems"
+    reviews: [{year: 2025, n: 2}, {year: 2023, n: 2}]
+  - name: "Telecom"
+    reviews: [{year: 2025}]
+  - name: "Transportation Letters"
+    reviews: [{year: 2016}]
+  - name: "Transportation Research Part C"
+    reviews: [{year: 2015}, {year: 2014}]
+  - name: "Transportation Research Part E"
+    reviews: [{year: 2016}]
+  - name: "Transportation Science"
+    reviews: [{year: 2016}]
+  - name: "Wood Material Science and Engineering"
+    reviews: [{year: 2024}]
+  - name: "World Electric Vehicle Journal"
+    reviews: [{year: 2025}]

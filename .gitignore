@@ -1,0 +1,10 @@
+# .gitignore
+/.quarto/
+/data-scraping/
+/docs/
+/scripts/__pycache__
+/AGENT.md
+/CLAUDE.md
+#
+#
+**/*.quarto_ipynb

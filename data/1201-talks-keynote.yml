@@ -1,0 +1,72 @@
+items:
+  - key: cids2018
+    entry: inproceedings
+    authors:
+      - "*R. Linfati"
+    title: "Desarrollo de algorítmos para el ruteo de vehículos"
+    booktitle: "Congreso Internacional de Desarrollo de Software"
+    year: 2018
+    address: "Cuenca, Ecuador"
+    organization: "Instituto Superior Tecnológico del Azuay"
+    url: "https://www.cedia.edu.ec/es/noticias-y-eventos/eventos/eventos-2018/congreso-internacional-en-desarrollo-de-software"
+  - key: ciio2018
+    entry: inproceedings
+    authors:
+      - "*R. Linfati"
+    title: "Aplicaciones del ruteo de vehículos en la industria local"
+    booktitle: "V Congreso Internacional Industria y Organizaciones 2018"
+    year: 2018
+    address: "Bogota, Colombia"
+    organization: "Universidad Nacional, Colombia"
+    url: "http://www.seprologistica.unal.edu.co/CIIO2018/"
+  - key: wea2017
+    entry: inproceedings
+    authors:
+      - "*R. Linfati"
+    title: "Optimización aplicada a la planificación"
+    booktitle: "Workshop on Engineering Applications"
+    year: 2017
+    address: "Cartagena de Indias, Colombia"
+    organization: "Universidad Distrital, Universidad Nacional"
+    url: "http://ieee.udistrital.edu.co/wea2017/"
+  - key: claio2016
+    entry: inproceedings
+    authors:
+      - "*R. Linfati"
+    title: "Uso de Cplex y Concert en C++"
+    booktitle: "Congreso Latino Americana de Investigacion de Operaciones"
+    year: 2016
+    address: "Santiago, Chile"
+    organization: "CLAIO-ALIO, Pontificia Universidad Catolica"
+    url: "http://claio2016.cl/"
+  - key: elavio2016
+    entry: inproceedings
+    authors:
+      - "*R. Linfati"
+    title: "Design and computational implementation of metaheuristics"
+    booktitle: "Escuela Latino Americana de Verano de Investigación de Operaciones"
+    year: 2016
+    address: "Cali, Colombia"
+    organization: "ELAVIO-ALIO, Universidad del Valle"
+    url: "http://elavio2016.univalle.edu.co/"
+  - key: mineria2015
+    entry: inproceedings
+    authors:
+      - "*R. Linfati"
+    title: "Optimización combinatorial aplicada a la planificación minera"
+    booktitle: "Seminario de Optimización Aplicada en Minería"
+    year: 2015
+    address: "Santiago, Chile"
+    organization: "Universidad Andres Bello"
+  - key: uvm2014
+    entry: inproceedings
+    authors:
+      - "*G. Gatica"
+      - "*R. Linfati"
+      - "*J.W. Escobar"
+    title: "Optimización multiobjetivo y de gestión"
+    booktitle: "Conferencia Internacional"
+    year: 2014
+    month: "Octubre"
+    address: "Monterrey, Mexico"
+    organization: "Universidad del Valle de México"

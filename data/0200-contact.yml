@@ -1,0 +1,63 @@
+items:
+  - label:
+      en: "Full name"
+      es: "Nombre completo"
+    value: "Rodrigo Carlos Eugenio LINFATI MEDINA"
+  - label:
+      en: "Citizenship"
+      es: "Nacionalidad"
+    value:
+      en: "Chilean and Italian"
+      es: "chilena e italiana"
+  - label:
+      en: "Place and year of birth"
+      es: "Lugar y año de nacimiento"
+    value: "Chile, 1983"
+  - label:
+      en: "Work address"
+      es: "Dirección laboral"
+    value:
+      en: "Industrial Engineering Building, Avenida Ignacio Collao 1202, 4051381 Concepción, Biobío, Chile"
+      es: "Edificio de Ingeniería Industrial, Avenida Ignacio Collao 1202, 4051381 Concepción, Biobío, Chile"
+  - label:
+      en: "Phone"
+      es: "Teléfono"
+    value: "+56 41 311 1525"
+  - label:
+      en: "Email"
+      es: "Correo electrónico"
+    value: "rlinfati [at] ubiobio.cl"
+  - label:
+      en: "Web"
+      es: "Sitio web"
+    value: "[rlinfati.ubb.cl](https://rlinfati.ubb.cl/) · [linfati.cl](https://www.linfati.cl/)"
+  - short: true
+    label:
+      en: "ORCID iD"
+      es: "ORCID iD"
+    value: "[0000-0002-7659-383X](https://orcid.org/0000-0002-7659-383X)"
+  - short: true
+    label:
+      en: "Google Scholar profile"
+      es: "Perfil de Google Scholar"
+    value: "[6bJ02OAAAAAJ](https://scholar.google.cl/citations?user=6bJ02OAAAAAJ)"
+  - short: true
+    label:
+      en: "Scopus Author ID"
+      es: "Scopus Author ID"
+    value: "[55250033800](https://www.scopus.com/authid/detail.uri?authorId=55250033800)"
+  - short: true
+    label:
+      en: "Web of Science ResearcherID"
+      es: "Web of Science ResearcherID"
+    value: "[X-9326-2018](https://www.webofscience.com/wos/author/rid/X-9326-2018)"
+  - short: true
+    label:
+      en: "GitHub"
+      es: "GitHub"
+    value: "[rlinfati](https://github.com/rlinfati/)"
+  - short: true
+    label:
+      en: "LinkedIn"
+      es: "LinkedIn"
+    value: "[rlinfati](https://www.linkedin.com/in/rlinfati/)"
