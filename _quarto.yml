@@ -8,8 +8,5 @@ project:
     - index-es.qmd
     - index-short-en.qmd
     - index-short-es.qmd
-    - web/education.qmd
-    - web/work.qmd
     - web/index.qmd
-    - web/research.qmd
     - web/404.qmd

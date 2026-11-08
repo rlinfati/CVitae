@@ -20,6 +20,9 @@ format:
   <a role="button" class="outline" href="https://www.linkedin.com/in/rlinfati/">LinkedIn</a>
   <a role="button" class="outline" href="https://orcid.org/0000-0002-7659-383X">ORCID</a>
   <a role="button" class="outline" href="https://github.com/rlinfati/">GitHub</a>
+  <a role="button" class="outline" href="https://scholar.google.cl/citations?user=6bJ02OAAAAAJ">Google Scholar</a>
+  <a role="button" class="outline" href="https://www.webofscience.com/wos/author/rid/X-9326-2018">Web of Science</a>
+  <a role="button" class="outline" href="https://www.scopus.com/authid/detail.uri?authorId=55250033800">Scopus</a>
   </p>
   <script>
     var a = document.getElementById("email"), u = "rlinfati", d = "ubiobio.cl";
@@ -28,3 +31,12 @@ format:
   </script>
 
 ```
+
+```{=html}
+<h2>Projects</h2>
+
+```
+
+{{< cv projects data/0601-projects-external.yml data/0603-projects-groups.yml style=web >}}
+
+{{< cv text data/0600-projects-notes.yml web=true >}}

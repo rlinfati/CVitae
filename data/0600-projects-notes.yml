@@ -3,4 +3,5 @@ items:
       en: "PI: principal investigator · Co-I: co-investigator · YR: young researcher · TS: technical staff."
       es: "PI: investigador/a principal · Co-I: co-investigador/a · YR: investigador/a joven · TS: personal técnico."
   - only: en
+    web: true
     text: "*ANID* (National Agency for Research and Development) is Chile's national research and innovation funding agency, comparable to the NSF in the United States, UKRI in the United Kingdom, the ANR in France or the DFG in Germany. *FONDECYT* is ANID's main instrument for individual, investigator-driven basic research, awarded through national peer-reviewed competitions; *FONDECYT Regular* is comparable to an NSF standard research grant or a DFG Individual Research Grant, while *FONDECYT Initiation* targets early-career researchers. These equivalences are approximate: budgets, durations and selection rules differ."

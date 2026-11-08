@@ -742,7 +742,11 @@ return {
     if kind == "scholar" then return scholar(lang, L) end
     if kind == "text" then
       if opt(kwargs.style) == "web" then return web_about(read_items(str(args[2])), lang) end
-      return render_text(read_items(str(args[2])), lang, opt(kwargs.short) == "true")
+      local blocks = render_text(select_items(read_items(str(args[2])), kwargs), lang, opt(kwargs.short) == "true")
+      if opt(kwargs.web) == "true" then  -- the web pages are written as markdown with html blocks: emit html
+        return pandoc.Blocks({ pandoc.RawBlock("html", pandoc.write(pandoc.Pandoc(blocks), "html")) })
+      end
+      return blocks
     end
     if kind == "projects" and opt(kwargs.style) == "web" then
       local lists = {}
