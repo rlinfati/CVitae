@@ -1,185 +1,185 @@
 items:
-  - key: inzunza2024co
+  - key: inzunza2024asignacion
     entry: mastersthesis
     authors:
       - "D. Inzunza"
     title: "Propuesta de Asignacion de Cuotas en Base a Prediccion De Almacenamiento en la Nube para Estudiantes Universitarios"
     school: "Universidad del Bío-Bío"
-    year: "2024-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: Fernandez2024co
+    year: "2024-2"
+  - key: fernandez2024rutas
     entry: mastersthesis
     authors:
       - "C. Fernández"
     title: "Optimizacion de Rutas Logisticas para Eficiencia en la Distribucion: Aplicacion de Tecnicas de Deep Learning en el Problema del Vendedor Viajero con Recogidas, Entregas y Costos de Manipulacion"
     school: "Universidad del Bío-Bío"
-    year: "2024-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: jeremias2024
+    year: "2024-2"
+  - key: almendra2024seleccion
     entry: mastersthesis
     authors:
       - "J. Almendra"
     title: "Un Metodo de Solucion para el Problema de Ruteo y Seleccion de Estaciones de Carga Electrica Aplicado en el Despacho de Alimentos por la Junaeb"
     school: "Universidad del Bío-Bío"
-    year: "2024-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
+    year: "2024-1"
     ubb-intranet-title: "Un método de solución para el problema de ruteo de selección de estaciones de carga eléctrica aplicado en el despacho de alimentos por la Junaeb"
-  - key: zambrano2023
+  - key: zambrano2023linkernighan
     entry: mastersthesis
     authors:
       - "C. Zambrano"
     title: "Aplicacion de la Heuristica Lin-Kernighan para Evaluar Entregas Domiciliarias para el Retail con Diferentes Ventanas de Tiempo"
     school: "Universidad del Bío-Bío"
-    year: "2023-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
+    year: "2023-2"
     ubb-intranet-title: "Aplicación de la Heurística Lin-Kerninghan para evaluar entregas domiciliarias para el retail con diferentes ventanas de tiempo"
-  - key: hinojosa2023
+  - key: hinojosa2023contingencias
     entry: mastersthesis
     authors:
       - "L. Hinojosa"
     title: "Analisis de Contingencias de Tension de un Sistema Eléctrico de Potencia de la Region del Biobio Utilizando Power Factory Digsilent"
     school: "Universidad del Bío-Bío"
-    year: "2023-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: manuel2023
+    year: "2023-2"
+  - key: aravena2023polucion
     entry: mastersthesis
     authors:
       - "M. Aravena"
     title: "Comparacion de Modelos de Minimizacion de Polucion en Problemas de Ruteo de Vehiculos"
     school: "Universidad del Bío-Bío"
-    year: "2023-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: ruben2023
+    year: "2023-2"
+  - key: gonzalez2023criptomonedas
     entry: mastersthesis
     authors:
       - "R. González"
     title: "Un Modelo de Programación Cuadratica para la Construcción de Carteras Eficientes de Criptomonedas Considerando Costos De Transacción y Multi-Periodos"
     school: "Universidad del Bío-Bío"
-    year: "2023-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: matias2023
+    year: "2023-1"
+  - key: diaz2023aserradero
     entry: mastersthesis
     authors:
       - "M. Díaz-Palma"
     title: "Un Modelo Matemático para Apoyar la Toma de Decisiones en la Cadena de Suministro Bosque-Aserradero, Considerando Funciones de Ahusamiento"
     school: "Universidad del Bío-Bío"
-    year: "2023-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: karen2022
+    year: "2023-1"
+  - key: garcia2022mateheuristica
     entry: mastersthesis
     authors:
       - "K. García-Vásquez"
     title: "Una Mateheuristica para el Pollution Traveling Salesman Problem"
     school: "Universidad del Bío-Bío"
-    year: "2022-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: cataldo2021
+    year: "2022-1"
+  - key: cataldo2021evrp
     entry: mastersthesis
     authors:
       - "C. Cataldo-Díaz"
     title: "Modelos matemáticos para resolver el problema de ruteo de vehículos eléctricos considerando los estados de carga de las baterías y la no linealidad en el proceso de recarga"
     school: "Universidad del Bío-Bío"
-    year: "2021-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
+    year: "2021-2"
     ubb-intranet-title: "MODELOS MATEMÁTICOS PARA RESOLVER EL PROBLEMA DE RUTEO DE VEHÍCULOS ELÉCTRICOS CONSIDERANDO LOS ESTADOS DE CARGA DE LAS BATERÍA Y LA NO LINEAL EN EL PROCESO DE CARGA"
-  - key: chacano2021vo
+  - key: chacano2021multicriterio
     entry: mastersthesis
     authors:
       - "M. Chacano"
     title: "Un modelo multicriterio de reemplazo de activos físicos mediante evaluaciones fahp estocásticas y pronósticos econométricos"
     school: "Universidad del Bío-Bío"
-    year: "2021-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: aburto2011rr
+    year: "2021-2"
+  - key: aburto2021seleccion
     entry: mastersthesis
     authors:
       - "L. Aburto"
     title: "Un enfoque de selección de portafolio multi-periodo considerando costos de transacción y predicción de precios de acciones en Chile"
     school: "Universidad del Bío-Bío"
-    year: "2021-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
+    year: "2021-2"
     ubb-intranet-title: "UN ENFOQUE DE SELECCIÓN DE PORTAFOLIO MULTI- PERIODO CONSIDERANDO COSTOS DE TRANSCCIÓN Y PREDICCIÓN DE PRECIOS DE ACCIONES EN CHILE"
-  - key: fpino2021gg
+  - key: pino2021estocastico
     entry: mastersthesis
     authors:
       - "F. Pino"
     title: "Diseño de un modelo estocástico para una cadena logística de ciclo cerrado de neumáticos fuera de uso"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: fernandez2020pb
+    year: "2021-1"
+  - key: fernandez2019jobshop
     entry: mastersthesis
     authors:
       - "M. Fernández"
     title: "Meta heurística GRASP para el problema Job Shop en la industria metal mecánica"
     school: "Universidad del Bío-Bío"
-    year: "2019-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: alan2019
+    year: "2019-2"
+  - key: osorio2019hub
     entry: mastersthesis
     authors:
       - "A. Osorio-Mora"
     title: "Hub Location Problem: Modelos Enfocados al Transporte de Carga De Exportación"
     school: "Universidad del Bío-Bío"
-    year: "2019-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: parra2018co
+    year: "2019-1"
+  - key: parra2018material
     entry: mastersthesis
     authors:
       - "E. Parra"
     title: "Caracterización de un material pétreo de referencia para el aseguramiento de calidad dentro de un laboratorio de control de materiales utilizando la Minería de Datos"
     school: "Universidad del Bío-Bío"
-    year: "2018-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: twitter2018
+    year: "2018-1"
+  - key: galvez2018percepcion
     entry: mastersthesis
     authors:
       - "H. Gálvez"
     title: "Análisis de percepción de usuarios en Twitter ante eventos nacionales, mediante técnicas de Social Media Mining"
     school: "Universidad del Bío-Bío"
-    year: "2018-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: nayaret2016msc
+    year: "2018-1"
+  - key: cifuentes2016produccion
     entry: mastersthesis
     authors:
       - "N. Cifuentes"
     title: "Programación de la producción en máquinas paralelas y comparación de solver comerciales"
     school: "Universidad del Bío-Bío"
-    year: "2016-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: portiz2015coguia
+    year: "2016-1"
+  - key: ortiz2015humanitarias
     entry: mastersthesis
     authors:
       - "P. Ortiz"
     title: "Optimización de operaciones logístico humanitarias para la planificación municipal de contingencias ante desastres, Chile"
     school: "Universidad del Bío-Bío"
-    year: "2015-2"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
-  - key: illesca2016msc
+    year: "2015-2"
+  - key: illesca2013clasificacion
     entry: mastersthesis
     authors:
       - "A. Illesca"
     title: "Comparación de algoritmos de clasificación y regresión a datos nominales y continuos, provenientes de árboles de la especie eucaliptus globulus labill"
     school: "Universidad del Bío-Bío"
-    year: "2013-1"
     degree: "Magister en Ingeniería Industrial"
     address: "Chile"
+    year: "2013-1"

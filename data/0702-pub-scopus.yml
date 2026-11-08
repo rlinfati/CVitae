@@ -1,5 +1,5 @@
 items:
-  - key: maya2023lola
+  - key: maya2025ijlsm
     entry: article
     authors:
       - "D. Maya-Contreras"
@@ -14,11 +14,11 @@ items:
     issn-print: "1742-7967"
     issn-online: "1742-7975"
     doi: "10.1504/IJLSM.2025.149187"
-    id-google-scholar: "Z5m8FVwuT1cC"
     id-scopus: "2-s2.0-105019598260"
-    id-orcid: "232545981"
+    id-google-scholar: "Z5m8FVwuT1cC"
     id-ubb-vrip: "6453"
-  - key: contreras2021pastos
+    id-orcid: "232545981"
+  - key: contreras2022ijise
     entry: article
     authors:
       - "D. Contreras"
@@ -33,11 +33,11 @@ items:
     issn-print: "1748-5037"
     issn-online: "1748-5045"
     doi: "10.1504/IJISE.2022.127418"
-    id-google-scholar: "tzM49s52ZIMC"
     id-scopus: "2-s2.0-85144417347"
-    id-orcid: "232546013"
+    id-google-scholar: "tzM49s52ZIMC"
     id-ubb-vrip: "5693"
-  - key: bernal2018
+    id-orcid: "232546013"
+  - key: bernal2018ijise
     entry: article
     authors:
       - "J. Bernal-Moyano"
@@ -54,11 +54,11 @@ items:
     issn-print: "1748-5037"
     issn-online: "1748-5045"
     doi: "10.1504/IJISE.2018.094267"
-    id-google-scholar: "eJXPG6dFmWUC"
     id-scopus: "2-s2.0-85052661184"
-    id-orcid: "232546002"
+    id-google-scholar: "eJXPG6dFmWUC"
     id-ubb-vrip: "2873"
-  - key: bernal2017b
+    id-orcid: "232546002"
+  - key: bernal2017jiem
     entry: article
     authors:
       - "J. Bernal-Moyano"
@@ -73,12 +73,12 @@ items:
     issn-print: "2013-8423"
     issn-online: "2013-0953"
     doi: "10.3926/jiem.2159"
-    id-google-scholar: "LPZeul_q3PIC"
     id-wos: "WOS:000417424700006"
     id-scopus: "2-s2.0-85032675769"
-    id-orcid: "232545969"
+    id-google-scholar: "LPZeul_q3PIC"
     id-ubb-vrip: "2231"
-  - key: bernal2017
+    id-orcid: "232545998"
+  - key: bernal2017dyna
     entry: article
     authors:
       - "J. Bernal-Moyano"
@@ -95,12 +95,12 @@ items:
     issn-print: "0012-7353"
     issn-online: "2346-2183"
     doi: "10.15446/dyna.v84n200.55533"
-    id-scielo: "S0012-73532017000100193"
-    id-google-scholar: "B3FOqHPlNUQC"
     id-scopus: "2-s2.0-85021812044"
-    id-orcid: "232546011"
+    id-google-scholar: "B3FOqHPlNUQC"
+    id-scielo: "S0012-73532017000100193"
     id-ubb-vrip: "24"
-  - key: cifuentes2017
+    id-orcid: "232546011"
+  - key: cifuentes2017rfing
     entry: article
     authors:
       - "N. Cifuentes"
@@ -115,12 +115,12 @@ items:
     issn-print: "0121-1129"
     issn-online: "2357-5328"
     doi: "10.19053/01211129.v26.n46.2017.7309"
-    id-scielo: "S0121-11292017000300009"
-    id-google-scholar: "q3oQSFYPqjQC"
     id-wos: "WOS:000417377500001"
-    id-orcid: "232546744"
+    id-google-scholar: "q3oQSFYPqjQC"
+    id-scielo: "S0121-11292017000300009"
     id-ubb-vrip: "2232"
-  - key: gatica2017
+    id-orcid: "232546744"
+  - key: gatica2017iteckne
     entry: article
     authors:
       - "G. Gatica"
@@ -138,12 +138,12 @@ items:
     issn-print: "1692-1798"
     issn-online: "2339-3483"
     doi: "10.15332/iteckne.v14i1.1631"
-    id-scielo: "S1692-17982017000100008"
-    id-google-scholar: "4fKUyHm3Qg0C"
     id-wos: "WOS:000424974600008"
-    id-orcid: "232546745"
+    id-google-scholar: "4fKUyHm3Qg0C"
+    id-scielo: "S1692-17982017000100008"
     id-ubb-vrip: "2129"
-  - key: gatica2016b
+    id-orcid: "232546745"
+  - key: gatica2016ingyuniv
     entry: article
     authors:
       - "G. Gatica"
@@ -160,12 +160,12 @@ items:
     issn-print: "0123-2126"
     issn-online: "2011-2769"
     doi: "10.11144/Javeriana.iyu20-1.ngpg"
-    id-scielo: "S0123-21262016000100006"
-    id-google-scholar: "geHnlv5EZngC"
     id-scopus: "2-s2.0-84981717748"
-    id-orcid: "232546071"
+    id-google-scholar: "geHnlv5EZngC"
+    id-scielo: "S0123-21262016000100006"
     id-ubb-vrip: "64"
-  - key: escobar2015
+    id-orcid: "232546071"
+  - key: escobar2015dyna
     entry: article
     authors:
       - "J.W. Escobar"
@@ -180,12 +180,12 @@ items:
     issn-print: "0012-7353"
     issn-online: "2346-2183"
     doi: "10.15446/dyna.v82n189.48552"
-    id-scielo: "S0012-73532015000100030"
-    id-google-scholar: "abG-DnoFyZgC"
     id-scopus: "2-s2.0-84926428753"
-    id-orcid: "232546019"
+    id-google-scholar: "abG-DnoFyZgC"
+    id-scielo: "S0012-73532015000100030"
     id-ubb-vrip: "46"
-  - key: escobar2015b
+    id-orcid: "232546019"
+  - key: escobar2015rfing
     entry: article
     authors:
       - "J.W. Escobar"
@@ -200,12 +200,12 @@ items:
     issn-print: "0121-1129"
     issn-online: "2357-5328"
     doi: "10.19053/01211129.3553"
-    id-scielo: "S0121-11292015000200008"
-    id-google-scholar: "dshw04ExmUIC"
     id-wos: "WOS:000361524000008"
-    id-orcid: "232546749"
+    id-google-scholar: "dshw04ExmUIC"
+    id-scielo: "S0121-11292015000200008"
     id-ubb-vrip: "1681"
-  - key: linfati2014c
+    id-orcid: "232546749"
+  - key: linfati2014dyna
     entry: article
     authors:
       - "R. Linfati"
@@ -220,8 +220,8 @@ items:
     issn-print: "0012-7353"
     issn-online: "2346-2183"
     doi: "10.15446/dyna.v81n186.45220"
-    id-scielo: "S0012-73532014000400037"
-    id-google-scholar: "EUQCXRtRnyEC"
     id-scopus: "2-s2.0-84907379072"
-    id-orcid: "232545997"
+    id-google-scholar: "EUQCXRtRnyEC"
+    id-scielo: "S0012-73532014000400037"
     id-ubb-vrip: "150"
+    id-orcid: "232545997"

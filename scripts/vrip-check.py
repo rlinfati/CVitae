@@ -28,8 +28,8 @@ from cache import latest
 # Combined search by surname ("mixto"), saved for reference.
 URL = "https://vrip.ubiobio.cl/searcher/server/server.php?request=mixta_clave&clave=linfati"
 
-# The registry stores the RUT without its check digit (read from the ignored file
-# data-scraping/rut.json or the VRIP_RUT variable, never written in this script).
+# The registry stores the RUT without its check digit (VRIP_RUT overrides the default).
+RUT_DEFAULT = "15512884"
 # Keep clave=a: an empty clave makes the server ignore the RUT filter and return
 # the entire registry.
 # Empty clave returns the whole registry, without researcher filters (only with --all).
@@ -39,14 +39,7 @@ PUBLICATIONS_URL = "https://vrip.ubiobio.cl/searcher/server/server.php?request=p
 
 
 def load_ids():
-    rut = os.environ.get("VRIP_RUT")
-    path = "data-scraping/rut.json"
-    if not rut and os.path.exists(path):
-        with open(path, encoding="utf-8") as fh:
-            rut = json.load(fh).get("rut")
-    if not rut:
-        sys.exit('RUT missing: set VRIP_RUT or create data-scraping/rut.json with {"rut": "12345678"} (no check digit; the folder is ignored by git)')
-    return str(rut)
+    return os.environ.get("VRIP_RUT") or RUT_DEFAULT
 
 
 PUBS = tuple(Path(f).stem for f in sorted(glob.glob("data/070[1-4]-*.yml")))

@@ -1,5 +1,5 @@
 items:
-  - key: jorge2025cutgen
+  - key: mena2026math
     entry: article
     authors:
       - "J.F. Mena-Reyes"
@@ -15,12 +15,12 @@ items:
     pages: "1-33"
     issn-online: "2227-7390"
     doi: "10.3390/math14010010"
-    id-google-scholar: "BwyfMAYsbu0C"
     id-wos: "WOS:001657543200001"
     id-scopus: "2-s2.0-105027959383"
-    id-orcid: "232546073"
+    id-google-scholar: "BwyfMAYsbu0C"
     id-ubb-vrip: "8139"
-  - key: raul2025model
+    id-orcid: "232546073"
+  - key: soto2025math
     entry: article
     authors:
       - "R. Soto-Concha"
@@ -33,16 +33,16 @@ items:
     year: 2025
     volume: 13
     number: 22
-    pages: "1-31"
     article-number: "3638"
+    pages: "1-31"
     issn-online: "2227-7390"
     doi: "10.3390/math13223638"
-    id-google-scholar: "4MWp96NkSFoC"
     id-wos: "WOS:001624224500001"
     id-scopus: "2-s2.0-105023211449"
-    id-orcid: "232546083"
+    id-google-scholar: "4MWp96NkSFoC"
     id-ubb-vrip: "7837"
-  - key: jorge2025conf
+    id-orcid: "232546083"
+  - key: mena2025forests
     entry: article
     authors:
       - "J.F. Mena-Reyes"
@@ -56,16 +56,16 @@ items:
     year: 2025
     volume: 16
     number: 11
-    pages: "1-26"
     article-number: "1644"
+    pages: "1-26"
     issn-online: "1999-4907"
     doi: "10.3390/f16111644"
-    id-google-scholar: "ML0RJ9NH7IQC"
     id-wos: "WOS:001624444600001"
     id-scopus: "2-s2.0-105023094591"
-    id-orcid: "232546000"
+    id-google-scholar: "ML0RJ9NH7IQC"
     id-ubb-vrip: "7661"
-  - key: santana2025convrp
+    id-orcid: "232546000"
+  - key: santana2025math
     entry: article
     authors:
       - "E. Santana"
@@ -76,16 +76,16 @@ items:
     year: 2025
     volume: 13
     number: 10
-    pages: "1-31"
     article-number: "1553"
+    pages: "1-31"
     issn-online: "2227-7390"
     doi: "10.3390/math13101553"
-    id-google-scholar: "uWiczbcajpAC"
     id-wos: "WOS:001496446200001"
     id-scopus: "2-s2.0-105006611903"
-    id-orcid: "232545992"
+    id-google-scholar: "uWiczbcajpAC"
     id-ubb-vrip: "7474"
-  - key: survey2025satelite
+    id-orcid: "232545992"
+  - key: soto2025mathreview
     entry: article
     authors:
       - "R. Soto-Concha"
@@ -97,16 +97,16 @@ items:
     year: 2025
     volume: 13
     number: 7
-    pages: "1-28"
     article-number: "1092"
+    pages: "1-28"
     issn-online: "2227-7390"
     doi: "10.3390/math13071092"
-    id-google-scholar: "zLWjf1WUPmwC"
     id-wos: "WOS:001463827200001"
     id-scopus: "2-s2.0-105002238710"
-    id-orcid: "232546069"
+    id-google-scholar: "zLWjf1WUPmwC"
     id-ubb-vrip: "7473"
-  - key: foods2025storage
+    id-orcid: "232546069"
+  - key: olier2025foods
     entry: article
     authors:
       - "F.J. Olier"
@@ -121,16 +121,16 @@ items:
     year: 2025
     volume: 14
     number: 6
-    pages: "1-19"
     article-number: "1010"
+    pages: "1-19"
     issn-online: "2304-8158"
     doi: "10.3390/foods14061010"
-    id-google-scholar: "epqYDVWIO7EC"
     id-wos: "WOS:001452270300001"
     id-scopus: "2-s2.0-105000997119"
-    id-orcid: "232546082"
+    id-google-scholar: "epqYDVWIO7EC"
     id-ubb-vrip: "7472"
-  - key: unab2024ovrp
+    id-orcid: "232546082"
+  - key: gasset2024appsci
     entry: article
     authors:
       - "D. Gasset"
@@ -145,16 +145,16 @@ items:
     year: 2024
     volume: 14
     number: 16
-    pages: "1-12"
     article-number: "6931"
+    pages: "1-12"
     issn-online: "2076-3417"
     doi: "10.3390/app14166931"
-    id-google-scholar: "ipzZ9siozwsC"
     id-wos: "WOS:001304954100001"
     id-scopus: "2-s2.0-85202430294"
-    id-orcid: "232546086"
+    id-google-scholar: "ipzZ9siozwsC"
     id-ubb-vrip: "7147"
-  - key: carlos2024forest
+    id-orcid: "232546086"
+  - key: munoz2024math
     entry: article
     authors:
       - "F. Muñoz"
@@ -164,16 +164,16 @@ items:
     year: 2024
     volume: 12
     number: 14
-    pages: "1-12"
     article-number: "2223"
+    pages: "1-12"
     issn-online: "2227-7390"
     doi: "10.3390/math12142223"
-    id-google-scholar: "uc_IGeMz5qoC"
     id-wos: "WOS:001277059900001"
     id-scopus: "2-s2.0-85199896964"
-    id-orcid: "232545989"
+    id-google-scholar: "uc_IGeMz5qoC"
     id-ubb-vrip: "7038"
-  - key: felipe2024math
+    id-orcid: "232545989"
+  - key: rozas2024forests
     entry: article
     authors:
       - "C. Rozas"
@@ -186,16 +186,16 @@ items:
     year: 2024
     volume: 15
     number: 8
-    pages: "1-12"
     article-number: "1287"
+    pages: "1-12"
     issn-online: "1999-4907"
     doi: "10.3390/f15081287"
-    id-google-scholar: "0KyAp5RtaNEC"
     id-wos: "WOS:001306884000001"
     id-scopus: "2-s2.0-85202692630"
-    id-orcid: "232545984"
+    id-google-scholar: "0KyAp5RtaNEC"
     id-ubb-vrip: "7197"
-  - key: karen2024ptsp
+    id-orcid: "232545984"
+  - key: garcia2024heliyon
     entry: article
     authors:
       - "K. García-Vásquez"
@@ -209,12 +209,12 @@ items:
     pages: "1-18"
     issn-online: "2405-8440"
     doi: "10.1016/j.heliyon.2024.e29958"
-    id-google-scholar: "9Nmd_mFXekcC"
     id-wos: "WOS:001284688900001"
     id-scopus: "2-s2.0-85190861748"
-    id-orcid: "232545978"
+    id-google-scholar: "9Nmd_mFXekcC"
     id-ubb-vrip: "6830"
-  - key: jorge2024review
+    id-orcid: "232545978"
+  - key: mena2024forests
     entry: article
     authors:
       - "J.F. Mena-Reyes"
@@ -230,12 +230,12 @@ items:
     pages: "1-32"
     issn-online: "1999-4907"
     doi: "10.3390/f15020297"
-    id-google-scholar: "XD-gHx7UXLsC"
     id-wos: "WOS:001172130500001"
     id-scopus: "2-s2.0-85185844704"
-    id-orcid: "232545977"
+    id-google-scholar: "XD-gHx7UXLsC"
     id-ubb-vrip: "6474"
-  - key: yamilici2024
+    id-orcid: "232545977"
+  - key: chandia2024sustain
     entry: article
     authors:
       - "Y. Chandía-Rodríguez"
@@ -251,12 +251,12 @@ items:
     pages: "1-20"
     issn-online: "2071-1050"
     doi: "10.3390/su16020627"
-    id-google-scholar: "t7zJ5fGR-2UC"
     id-wos: "WOS:001151361100001"
     id-scopus: "2-s2.0-85183411311"
-    id-orcid: "232546070"
+    id-google-scholar: "t7zJ5fGR-2UC"
     id-ubb-vrip: "6454"
-  - key: cataldoMSC2023
+    id-orcid: "232546070"
+  - key: cataldo2024or
     entry: article
     authors:
       - "C. Cataldo-Díaz"
@@ -271,12 +271,12 @@ items:
     issn-print: "1109-2858"
     issn-online: "1866-1505"
     doi: "10.1007/s12351-023-00806-5"
-    id-google-scholar: "z_wVstp3MssC"
     id-wos: "WOS:001117684000001"
     id-scopus: "2-s2.0-85178929168"
-    id-orcid: "232545987"
+    id-google-scholar: "z_wVstp3MssC"
     id-ubb-vrip: "6636"
-  - key: matias2023scm
+    id-orcid: "232545987"
+  - key: nunez2023or
     entry: article
     authors:
       - "M. Núñez-Muñoz"
@@ -292,12 +292,12 @@ items:
     issn-print: "1109-2858"
     issn-online: "1866-1505"
     doi: "10.1007/s12351-023-00747-z"
-    id-google-scholar: "35r97b3x0nAC"
     id-wos: "WOS:000953756400001"
     id-scopus: "2-s2.0-85150863794"
-    id-orcid: "232545993"
+    id-google-scholar: "35r97b3x0nAC"
     id-ubb-vrip: "6092"
-  - key: fcm2023Heliyon
+    id-orcid: "232545993"
+  - key: corral2023heliyon
     entry: article
     authors:
       - "F. Corral"
@@ -311,14 +311,14 @@ items:
     pages: "1-16"
     issn-online: "2405-8440"
     doi: "10.1016/j.heliyon.2023.e16745"
-    id-google-scholar: "j8SEvjWlNXcC"
-    id-wos: "WOS:001045804300001"
-    id-scopus: "2-s2.0-85160827042"
-    id-orcid: "232545996"
-    id-ubb-vrip: "6038"
     preprint-doi: "10.2139/ssrn.4366212"
     preprint-id-scopus: "2-s2.0-85149412070"
-  - key: aburto2023portafolio
+    id-wos: "WOS:001045804300001"
+    id-scopus: "2-s2.0-85160827042"
+    id-google-scholar: "j8SEvjWlNXcC"
+    id-ubb-vrip: "6038"
+    id-orcid: "232545996"
+  - key: aburto2023complexity
     entry: article
     authors:
       - "L. Aburto"
@@ -334,12 +334,12 @@ items:
     issn-print: "1076-2787"
     issn-online: "1099-0526"
     doi: "10.1155/2023/3056411"
-    id-google-scholar: "evX43VCCuoAC"
     id-wos: "WOS:000915244800001"
     id-scopus: "2-s2.0-85146546463"
-    id-orcid: "232545972"
+    id-google-scholar: "evX43VCCuoAC"
     id-ubb-vrip: "5694"
-  - key: rojas2023bike
+    id-orcid: "232545972"
+  - key: rojas2023heliyon
     entry: article
     authors:
       - "C. Rojas"
@@ -354,12 +354,12 @@ items:
     pages: "1-14"
     issn-online: "2405-8440"
     doi: "10.1016/j.heliyon.2022.e12749"
-    id-google-scholar: "2KloaMYe4IUC"
     id-wos: "WOS:000968921700001"
     id-scopus: "2-s2.0-85145606093"
-    id-orcid: "232546075"
+    id-google-scholar: "2KloaMYe4IUC"
     id-ubb-vrip: "5714"
-  - key: barreto2022scm
+    id-orcid: "232546075"
+  - key: barreto2022sustain
     entry: article
     authors:
       - "H. Barreto"
@@ -375,12 +375,12 @@ items:
     pages: "1-44"
     issn-online: "2071-1050"
     doi: "10.3390/su142114275"
-    id-google-scholar: "ZfRJV9d4-WMC"
     id-wos: "WOS:000884002700001"
     id-scopus: "2-s2.0-85148306308"
-    id-orcid: "232546004"
+    id-google-scholar: "ZfRJV9d4-WMC"
     id-ubb-vrip: "5606"
-  - key: water2022c
+    id-orcid: "232546004"
+  - key: coronado2022water
     entry: article
     authors:
       - "O. Coronado-Hernández"
@@ -399,12 +399,12 @@ items:
     pages: "1-14"
     issn-online: "2073-4441"
     doi: "10.3390/w14213364"
-    id-google-scholar: "tKAzc9rXhukC"
     id-wos: "WOS:000882227500001"
     id-scopus: "2-s2.0-85141885552"
-    id-orcid: "232545979"
+    id-google-scholar: "tKAzc9rXhukC"
     id-ubb-vrip: "5618"
-  - key: yanes2022balcomp
+    id-orcid: "232545979"
+  - key: linfati2022sustain
     entry: article
     authors:
       - "R. Linfati"
@@ -419,12 +419,12 @@ items:
     pages: "1-20"
     issn-online: "2071-1050"
     doi: "10.3390/su141912937"
-    id-google-scholar: "kzcrU_BdoSEC"
     id-wos: "WOS:000867129100001"
     id-scopus: "2-s2.0-85139931295"
-    id-orcid: "232546001"
+    id-google-scholar: "kzcrU_BdoSEC"
     id-ubb-vrip: "5615"
-  - key: water2022b
+    id-orcid: "232546001"
+  - key: echeverri2022water
     entry: article
     authors:
       - "J. Echeverri-Díaz"
@@ -442,12 +442,12 @@ items:
     pages: "1-24"
     issn-online: "2073-4441"
     doi: "10.3390/w14182847"
-    id-google-scholar: "NJ774b8OgUMC"
     id-wos: "WOS:000856955600001"
     id-scopus: "2-s2.0-85138734407"
-    id-orcid: "232545988"
+    id-google-scholar: "NJ774b8OgUMC"
     id-ubb-vrip: "5617"
-  - key: flores2021mina
+    id-orcid: "232545988"
+  - key: flores2022or
     entry: article
     authors:
       - "C. Flores-Fonseca"
@@ -462,12 +462,12 @@ items:
     issn-print: "1109-2858"
     issn-online: "1866-1505"
     doi: "10.1007/s12351-020-00618-x"
-    id-google-scholar: "5awf1xo2G04C"
     id-wos: "WOS:000604486200001"
     id-scopus: "2-s2.0-85098572639"
-    id-orcid: "232546080"
+    id-google-scholar: "5awf1xo2G04C"
     id-ubb-vrip: "4280"
-  - key: water2022a
+    id-orcid: "232546080"
+  - key: salgado2022water
     entry: article
     authors:
       - "J. Salgado-Cassiani"
@@ -480,16 +480,16 @@ items:
     year: 2022
     volume: 14
     number: 8
-    pages: "1-24"
     article-number: "1217"
+    pages: "1-24"
     issn-online: "2073-4441"
     doi: "10.3390/w14081217"
-    id-google-scholar: "_Ybze24A_UAC"
     id-wos: "WOS:000786984800001"
     id-scopus: "2-s2.0-85128803680"
-    id-orcid: "232546010"
+    id-google-scholar: "_Ybze24A_UAC"
     id-ubb-vrip: "5270"
-  - key: cataldo2022evrp
+    id-orcid: "232546010"
+  - key: cataldo2022sustain
     entry: article
     authors:
       - "C. Cataldo-Díaz"
@@ -504,12 +504,12 @@ items:
     pages: "1-26"
     issn-online: "2071-1050"
     doi: "10.3390/su14031645"
-    id-google-scholar: "JQOojiI6XY0C"
     id-wos: "WOS:000757315100001"
     id-scopus: "2-s2.0-85123772057"
-    id-orcid: "232546009"
+    id-google-scholar: "JQOojiI6XY0C"
     id-ubb-vrip: "4983"
-  - key: brenda2021covid
+    id-orcid: "232546009"
+  - key: valenzuela2022sustain
     entry: article
     authors:
       - "B. Valenzuela-Fonseca"
@@ -524,12 +524,12 @@ items:
     pages: "1-19"
     issn-online: "2071-1050"
     doi: "10.3390/su14010529"
-    id-google-scholar: "TIZ-Mc8IlK0C"
     id-wos: "WOS:000751041200001"
     id-scopus: "2-s2.0-85122207258"
-    id-orcid: "232546005"
+    id-google-scholar: "TIZ-Mc8IlK0C"
     id-ubb-vrip: "4982"
-  - key: lge2021hwc
+    id-orcid: "232546005"
+  - key: linfati2021appsci
     entry: article
     authors:
       - "R. Linfati"
@@ -544,12 +544,12 @@ items:
     pages: "1-16"
     issn-online: "2076-3417"
     doi: "10.3390/app112210557"
-    id-google-scholar: "hkOj_22Ku90C"
     id-wos: "WOS:000724409200001"
     id-scopus: "2-s2.0-85119291646"
-    id-orcid: "232545982"
+    id-google-scholar: "hkOj_22Ku90C"
     id-ubb-vrip: "4778"
-  - key: rios2021picking
+    id-orcid: "232545982"
+  - key: rios2021ame
     entry: article
     authors:
       - "J. Ríos"
@@ -562,17 +562,17 @@ items:
     year: 2021
     volume: 13
     number: 4
-    pages: "1-7"
     article-number: "16878140211010657"
+    pages: "1-7"
     issn-print: "1687-8132"
     issn-online: "1687-8140"
     doi: "10.1177/16878140211010657"
-    id-google-scholar: "1yQoGdGgb4wC"
     id-wos: "WOS:000698107700001"
     id-scopus: "2-s2.0-85105111464"
-    id-orcid: "232546078"
+    id-google-scholar: "1yQoGdGgb4wC"
     id-ubb-vrip: "4279"
-  - key: emebus2021alan
+    id-orcid: "232546078"
+  - key: osorio2021ieeeaccess
     entry: article
     authors:
       - "A. Osorio-Mora"
@@ -588,12 +588,12 @@ items:
     pages: "27210-27225"
     issn-online: "2169-3536"
     doi: "10.1109/ACCESS.2021.3058242"
-    id-google-scholar: "N5tVd3kTz84C"
     id-wos: "WOS:000619292900001"
     id-scopus: "2-s2.0-85100840957"
-    id-orcid: "232546084"
+    id-google-scholar: "N5tVd3kTz84C"
     id-ubb-vrip: "4278"
-  - key: bernal2020istl
+    id-orcid: "232546084"
+  - key: bernal2021ijstl
     entry: article
     authors:
       - "J. Bernal-Moyano"
@@ -608,12 +608,12 @@ items:
     issn-print: "1756-6517"
     issn-online: "1756-6525"
     doi: "10.1504/IJSTL.2021.112923"
-    id-google-scholar: "VL0QpB8kHFEC"
     id-wos: "WOS:000617503400008"
     id-scopus: "2-s2.0-85100759111"
-    id-orcid: "232546081"
+    id-google-scholar: "VL0QpB8kHFEC"
     id-ubb-vrip: "4277"
-  - key: barros2020cvrp
+    id-orcid: "232546081"
+  - key: barros2020apem
     entry: article
     authors:
       - "L. Barros"
@@ -628,12 +628,12 @@ items:
     issn-print: "1854-6250"
     issn-online: "1855-6531"
     doi: "10.14743/apem2020.3.363"
-    id-google-scholar: "ZuybSZzF8UAC"
     id-wos: "WOS:000589890200001"
     id-scopus: "2-s2.0-85109126206"
-    id-orcid: "232546007"
+    id-google-scholar: "ZuybSZzF8UAC"
     id-ubb-vrip: "4088"
-  - key: correa2020mathematical
+    id-orcid: "232546007"
+  - key: correa2020jat
     entry: article
     authors:
       - "G. Correa"
@@ -648,12 +648,12 @@ items:
     issn-print: "0197-6729"
     issn-online: "2042-3195"
     doi: "10.1155/2020/8813372"
-    id-google-scholar: "SdhP9T11ey4C"
     id-wos: "WOS:000598343200001"
     id-scopus: "2-s2.0-85097581981"
-    id-orcid: "232546087"
+    id-google-scholar: "SdhP9T11ey4C"
     id-ubb-vrip: "4042"
-  - key: osorio2019
+    id-orcid: "232546087"
+  - key: osorio2020jat
     entry: article
     authors:
       - "A. Osorio-Mora"
@@ -669,12 +669,12 @@ items:
     issn-print: "0197-6729"
     issn-online: "2042-3195"
     doi: "10.1155/2020/2431763"
-    id-google-scholar: "JoZmwDi-zQgC"
     id-wos: "WOS:000510880900003"
     id-scopus: "2-s2.0-85079066966"
-    id-orcid: "232546014"
+    id-google-scholar: "JoZmwDi-zQgC"
     id-ubb-vrip: "3344"
-  - key: fuentealba2019
+    id-orcid: "232546014"
+  - key: fuentealba2019compag
     entry: article
     authors:
       - "S. Fuentealba"
@@ -690,12 +690,12 @@ items:
     issn-print: "0168-1699"
     issn-online: "1872-7107"
     doi: "10.1016/j.compag.2018.11.011"
-    id-google-scholar: "mvPsJ3kp5DgC"
     id-wos: "WOS:000456754100027"
     id-scopus: "2-s2.0-85057347268"
-    id-orcid: "232546017"
+    id-google-scholar: "mvPsJ3kp5DgC"
     id-ubb-vrip: "3696"
-  - key: linfati2019
+    id-orcid: "232546017"
+  - key: linfati2019ijie
     entry: article
     authors:
       - "R. Linfati"
@@ -710,12 +710,12 @@ items:
     issn-print: "1923-2926"
     issn-online: "1923-2934"
     doi: "10.5267/j.ijiec.2018.6.004"
-    id-google-scholar: "eflP2zaiRacC"
     id-wos: "WOS:000468074200008"
     id-scopus: "2-s2.0-85057285857"
-    id-orcid: "232545973"
+    id-google-scholar: "eflP2zaiRacC"
     id-ubb-vrip: "3112"
-  - key: linfati2018b
+    id-orcid: "232545973"
+  - key: linfati2018mpe
     entry: article
     authors:
       - "R. Linfati"
@@ -730,12 +730,12 @@ items:
     issn-print: "1024-123X"
     issn-online: "1563-5147"
     doi: "10.1155/2018/8901873"
-    id-google-scholar: "t6usbXjVLHcC"
     id-wos: "WOS:000460463800001"
     id-scopus: "2-s2.0-85059882474"
-    id-orcid: "232545983"
+    id-google-scholar: "t6usbXjVLHcC"
     id-ubb-vrip: "2874"
-  - key: linfati2018
+    id-orcid: "232545983"
+  - key: linfati2018jat
     entry: article
     authors:
       - "R. Linfati"
@@ -749,12 +749,12 @@ items:
     issn-print: "0197-6729"
     issn-online: "2042-3195"
     doi: "10.1155/2018/3743710"
-    id-google-scholar: "BrmTIyaxlBUC"
     id-wos: "WOS:000449915500001"
     id-scopus: "2-s2.0-85082177763"
-    id-orcid: "232545990"
+    id-google-scholar: "BrmTIyaxlBUC"
     id-ubb-vrip: "3041"
-  - key: gatica2018
+    id-orcid: "232545990"
+  - key: gatica2018sic
     entry: article
     authors:
       - "G. Gatica"
@@ -770,12 +770,12 @@ items:
     issn-print: "1220-1766"
     issn-online: "1841-429X"
     doi: "10.24846/v27i1y201808"
-    id-google-scholar: "VOx2b1Wkg3QC"
     id-wos: "WOS:000430357400008"
     id-scopus: "2-s2.0-85046405764"
-    id-orcid: "232545995"
+    id-google-scholar: "VOx2b1Wkg3QC"
     id-ubb-vrip: "2561"
-  - key: braga2017
+    id-orcid: "232545995"
+  - key: braga2017itor
     entry: article
     authors:
       - "M. Braga"
@@ -791,12 +791,12 @@ items:
     issn-print: "0969-6016"
     issn-online: "1475-3995"
     doi: "10.1111/itor.12265"
-    id-google-scholar: "p2g8aNsByqUC"
     id-wos: "WOS:000384672600016"
     id-scopus: "2-s2.0-84988526184"
-    id-orcid: "232546076"
+    id-google-scholar: "p2g8aNsByqUC"
     id-ubb-vrip: "2039"
-  - key: linfati2016
+    id-orcid: "232546076"
+  - key: linfati2016maderas
     entry: article
     authors:
       - "R. Linfati"
@@ -811,13 +811,13 @@ items:
     issn-print: "0717-3644"
     issn-online: "0718-221X"
     doi: "10.4067/S0718-221X2016005000048"
-    id-scielo: "S0718-221X2016000400004"
-    id-google-scholar: "kRWSkSYxWN8C"
     id-wos: "WOS:000391185500004"
     id-scopus: "2-s2.0-85000461157"
-    id-orcid: "232546748"
+    id-google-scholar: "kRWSkSYxWN8C"
+    id-scielo: "S0718-221X2016000400004"
     id-ubb-vrip: "1625"
-  - key: escobar2014b
+    id-orcid: "232546748"
+  - key: escobar2014trb
     entry: article
     authors:
       - "J.W. Escobar"
@@ -833,12 +833,12 @@ items:
     issn-print: "0191-2615"
     issn-online: "1879-2367"
     doi: "10.1016/j.trb.2014.05.014"
-    id-google-scholar: "f2IySw72cVMC"
     id-wos: "WOS:000341462100017"
     id-scopus: "2-s2.0-84902978542"
-    id-orcid: "232546079"
+    id-google-scholar: "f2IySw72cVMC"
     id-ubb-vrip: "43"
-  - key: escobar2014
+    id-orcid: "232546079"
+  - key: escobar2014heuristics
     entry: article
     authors:
       - "J.W. Escobar"
@@ -854,12 +854,12 @@ items:
     issn-print: "1381-1231"
     issn-online: "1572-9397"
     doi: "10.1007/s10732-014-9247-0"
-    id-google-scholar: "D03iK_w7-QYC"
     id-wos: "WOS:000341831700001"
     id-scopus: "2-s2.0-84919877771"
-    id-orcid: "232545975"
+    id-google-scholar: "D03iK_w7-QYC"
     id-ubb-vrip: "45"
-  - key: linfati2014b
+    id-orcid: "232545975"
+  - key: linfati2014jart
     entry: article
     authors:
       - "R. Linfati"
@@ -874,13 +874,13 @@ items:
     issn-print: "1665-6423"
     issn-online: "2448-6736"
     doi: "10.1016/S1665-6423(14)71616-5"
-    id-scielo: "S1665-64232014000300001"
-    id-google-scholar: "_xSYboBqXhAC"
     id-wos: "WOS:000340346400001"
     id-scopus: "2-s2.0-84919647957"
-    id-orcid: "232545980"
+    id-google-scholar: "_xSYboBqXhAC"
+    id-scielo: "S1665-64232014000300001"
     id-ubb-vrip: "53"
-  - key: escobar2013
+    id-orcid: "232545980"
+  - key: escobar2013cor
     entry: article
     authors:
       - "J.W. Escobar"
@@ -895,7 +895,7 @@ items:
     issn-print: "0305-0548"
     issn-online: "1873-765X"
     doi: "10.1016/j.cor.2012.05.008"
-    id-google-scholar: "9yKSN-GCB0IC"
     id-wos: "WOS:000309623100007"
     id-scopus: "2-s2.0-84866143004"
+    id-google-scholar: "9yKSN-GCB0IC"
     id-orcid: "232546008"

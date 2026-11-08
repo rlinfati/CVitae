@@ -1,5 +1,5 @@
 items:
-  - key: mosalud2023
+  - key: escobar2023cing
     entry: article
     authors:
       - "J.W. Escobar"
@@ -15,11 +15,11 @@ items:
     issn-print: "0124-8170"
     issn-online: "1909-7735"
     doi: "10.18359/rcin.6353"
-    id-scielo: "S0124-81702023000100041"
     id-google-scholar: "VLnqNzywnoUC"
-    id-orcid: "232546934"
+    id-scielo: "S0124-81702023000100041"
     id-ubb-vrip: "6228"
-  - key: acocflrp2021
+    id-orcid: "232546934"
+  - key: gatica2021espacios
     entry: article
     authors:
       - "G. Gatica"
@@ -35,9 +35,9 @@ items:
     issn-online: "2739-0071"
     doi: "10.48082/espacios-a21v42n16p01"
     id-google-scholar: "UHK10RUVsp4C"
-    id-orcid: "232546947"
     id-ubb-vrip: "4806"
-  - key: german2020
+    id-orcid: "232546947"
+  - key: pradenas2020jieint
     entry: article
     authors:
       - "L. Pradenas-Rojas"
@@ -54,7 +54,7 @@ items:
     doi: "10.30495/JIEI.2020.678785"
     id-google-scholar: "WqliGbK-hY8C"
     id-ubb-vrip: "4265"
-  - key: escobar2017
+  - key: escobar2017ingdes
     entry: article
     authors:
       - "J.W. Escobar"
@@ -69,11 +69,11 @@ items:
     issn-print: "0122-3461"
     issn-online: "2145-9371"
     doi: "10.14482/inde.35.1.8950"
-    id-scielo: "S0122-34612017000100219"
     id-google-scholar: "08ZZubdj9fEC"
-    id-orcid: "232546964"
+    id-scielo: "S0122-34612017000100219"
     id-ubb-vrip: "1015"
-  - key: gatica2016
+    id-orcid: "232546964"
+  - key: gatica2016iit
     entry: article
     authors:
       - "G. Gatica"
@@ -90,10 +90,10 @@ items:
     issn-print: "1405-7743"
     issn-online: "2594-0732"
     doi: "10.1016/j.riit.2016.06.003"
-    id-scielo: "S1405-77432016000200179"
     id-google-scholar: "ye4kPcJQO24C"
+    id-scielo: "S1405-77432016000200179"
     id-ubb-vrip: "2118"
-  - key: puenayan2014
+  - key: puenayan2014rium
     entry: article
     authors:
       - "D.E. Puenayán"
@@ -109,11 +109,11 @@ items:
     issn-print: "1692-3324"
     issn-online: "2248-4094"
     doi: "10.22395/rium.v13n25a6"
-    id-scielo: "S1692-33242014000200007"
     id-google-scholar: "V3AGJWp-ZtQC"
-    id-orcid: "232546972"
+    id-scielo: "S1692-33242014000200007"
     id-ubb-vrip: "2117"
-  - key: linfati2014
+    id-orcid: "232546972"
+  - key: linfati2014ingcien
     entry: article
     authors:
       - "R. Linfati"
@@ -128,11 +128,11 @@ items:
     issn-print: "1794-9165"
     issn-online: "2256-4314"
     doi: "10.17230/ingciencia.10.19.3"
-    id-scielo: "S1794-91652014000100004"
     id-google-scholar: "bFI3QPDXJZMC"
-    id-orcid: "232546974"
+    id-scielo: "S1794-91652014000100004"
     id-ubb-vrip: "2116"
-  - key: escobar2012
+    id-orcid: "232546974"
+  - key: escobar2012rium
     entry: article
     authors:
       - "J.W. Escobar"
@@ -146,6 +146,6 @@ items:
     issn-print: "1692-3324"
     issn-online: "2248-4094"
     doi: ""
-    id-scielo: "S1692-33242012000200012"
     id-google-scholar: "UeHWp8X0CEIC"
+    id-scielo: "S1692-33242012000200012"
     id-ubb-vrip: "2115"

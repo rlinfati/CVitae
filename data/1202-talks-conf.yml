@@ -1,5 +1,5 @@
 items:
-  - key: optima2025cvm
+  - key: valenzuela2025optima
     entry: inproceedings
     authors:
       - "*C. Valenzuela"
@@ -7,11 +7,11 @@ items:
       - "R. Linfati"
     title: "Comparacion de modelos predictivos para anticipar la ocupacion de camas por enfermedades respiratorias en un hospital publico chileno"
     booktitle: "Optima 2025"
+    address: "Coquimbo, Chile"
     year: 2025
     month: "December"
-    address: "Coquimbo, Chile"
     url: "https://optima2025.ichio.cl/"
-  - key: optima2025dm1
+  - key: olmedo2025optima
     entry: inproceedings
     authors:
       - "*J.P. Olmedo"
@@ -21,11 +21,11 @@ items:
       - "G. Gatica"
     title: "Analisis de Rutas para Drones de Vigilancia Usando Maximum Scatter Colored TSP y Tecnicas de Clustering"
     booktitle: "Optima 2025"
+    address: "Coquimbo, Chile"
     year: 2025
     month: "December"
-    address: "Coquimbo, Chile"
     url: "https://optima2025.ichio.cl/"
-  - key: optima2025dm2
+  - key: gomez2025optima
     entry: inproceedings
     authors:
       - "*M. Gómez-Navarro"
@@ -35,11 +35,11 @@ items:
       - "G. Gatica"
     title: "Repositorio de Estrategias Exactas y Heuristicas para el TSP"
     booktitle: "Optima 2025"
+    address: "Coquimbo, Chile"
     year: 2025
     month: "December"
-    address: "Coquimbo, Chile"
     url: "https://optima2025.ichio.cl/"
-  - key: optima2025jfm
+  - key: mena2025optima
     entry: inproceedings
     authors:
       - "*J.F. Mena-Reyes"
@@ -50,11 +50,11 @@ items:
       - "*R. Linfati"
     title: "Modelo Matematico para la toma de decisiones sostenibles en una cadena de suministro de madera solida chilena bajo conflicto territorial"
     booktitle: "Optima 2025"
+    address: "Coquimbo, Chile"
     year: 2025
     month: "December"
-    address: "Coquimbo, Chile"
     url: "https://optima2025.ichio.cl/"
-  - key: optima2025rsc
+  - key: soto2025optima
     entry: inproceedings
     authors:
       - "*R. Soto-Concha"
@@ -63,32 +63,32 @@ items:
       - "R. Linfati"
     title: "Propuesta de modelo matematico para una nueva variante del VRP con tiempos de liberacion y uso de sitios satelites"
     booktitle: "Optima 2025"
+    address: "Coquimbo, Chile"
     year: 2025
     month: "December"
-    address: "Coquimbo, Chile"
     url: "https://optima2025.ichio.cl/"
-  - key: sochedi2025
+  - key: ortiz2025socheditalk
     entry: inproceedings
     authors:
       - "*V. Ortiz-Araya"
       - "*R. Linfati"
     title: "Metodologia de Desarrollo Temprana a Traves de Semillero de Investigacion"
     booktitle: "SOCHEDI 2025"
+    address: "Concepcion, Chile"
     year: 2025
     month: "October"
-    address: "Concepcion, Chile"
     url: "https://sochedi2025.ubiobio.cl/"
-  - key: quantum2025
+  - key: linfati2025quantum
     entry: inproceedings
     authors:
       - "*R. Linfati"
     title: "Scalable Metaheuristic Strategies for TSP and VRP"
     booktitle: "22nd EU/ME meeting x Quantum School"
+    address: "Kaiserslautern, Germany"
     year: 2025
     month: "September"
-    address: "Kaiserslautern, Germany"
     url: "https://perso.isima.fr/~lacomme/EUME_JE2/EUME_Joint_Event.php"
-  - key: claio2024mx80
+  - key: linfati2024claio
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -97,11 +97,11 @@ items:
       - "K. García-Vásquez"
     title: "Una matheurística para el problema del vendedor viajero considerando el consumo de combustible"
     booktitle: "CLAIO 2024"
+    address: "Guadalajara, Mexico"
     year: 2024
     month: "October"
-    address: "Guadalajara, Mexico"
     url: "http://www.smio.org/home-claio-2024.html"
-  - key: claio2024mx92
+  - key: vergara2024claio
     entry: inproceedings
     authors:
       - "*F. Vergara"
@@ -109,11 +109,11 @@ items:
       - "R. Linfati"
     title: "Revision Sistematica de Tecnicas Cuantitativas para la Toma de Decisiones Sustentables en la Cadena de Suministros desde el Bosque a la Madera"
     booktitle: "CLAIO 2024"
+    address: "Guadalajara, Mexico"
     year: 2024
     month: "October"
-    address: "Guadalajara, Mexico"
     url: "http://www.smio.org/home-claio-2024.html"
-  - key: claio2024mx249
+  - key: ortiz2024claio
     entry: inproceedings
     authors:
       - "*V. Ortiz-Araya"
@@ -122,11 +122,11 @@ items:
       - "C. Rozas"
     title: "Gestion de planificacion agrícola para la cadena de suministro de pequeños productores considerando huella de carbono"
     booktitle: "CLAIO 2024"
+    address: "Guadalajara, Mexico"
     year: 2024
     month: "October"
-    address: "Guadalajara, Mexico"
     url: "http://www.smio.org/home-claio-2024.html"
-  - key: artiis2024cl
+  - key: mena2024artiis
     entry: inproceedings
     authors:
       - "*J.F. Mena-Reyes"
@@ -135,11 +135,11 @@ items:
       - "*R. Linfati"
     title: "Optimization of Bucking Rules in the Forestry Industry Considering Taper Functions"
     booktitle: "ARTIIS 2024"
+    address: "Santiago, Chile"
     year: 2024
     month: "October"
-    address: "Santiago, Chile"
     url: "https://www.artiis.org/past-edition/artiis-2024"
-  - key: ieom2024jp
+  - key: linfati2024ieomtalk
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -148,22 +148,22 @@ items:
       - "K. García-Vásquez"
     title: "A Metaheuristic for the Traveling Salesman Problem Considering Fuel Consumption"
     booktitle: "IEOM 2024"
+    address: "Tokyo, Japan"
     year: 2024
     month: "September"
-    address: "Tokyo, Japan"
     url: "https://ieomsociety.org/tokyo2024/"
-  - key: ciil2024co
+  - key: mena2024ciil
     entry: inproceedings
     authors:
       - "*J.F. Mena-Reyes"
       - "*R. Linfati"
     title: "Optimizacion Sustentable de la Cadena de Suministro de Madera Solida en la Macrozona Sur de Chile"
     booktitle: "CIIL 2024"
+    address: "Santa Marta, Colombia"
     year: 2024
     month: "September"
-    address: "Santa Marta, Colombia"
     url: "https://eventos.unimagdalena.edu.co/Evento/Congreso-Internacional-de-Industria-y-Logistica-La-Perla"
-  - key: dis2023cz
+  - key: linfati2023dis
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -172,11 +172,11 @@ items:
       - "J.W. Escobar"
     title: "Metaheuristic Algorithm Based on Tabu Search for Consistent Vehicle Routing Problem"
     booktitle: "DIS 2023"
+    address: "Prague, Czech Republic"
     year: 2023
     month: "September"
-    address: "Prague, Czech Republic"
     url: "https://dis2023.ujep.cz/"
-  - key: ifors2023bologna
+  - key: linfati2023ifors
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -185,11 +185,11 @@ items:
       - "J.W. Escobar"
     title: "Metaheuristic Algorithm Based on Tabu Search for Consistent Vehicle Routing Problem"
     booktitle: "IFORS 2023"
+    address: "Santiago, Chile"
     year: 2023
     month: "July"
-    address: "Santiago, Chile"
     url: "https://ifors2023.com/"
-  - key: ifors2023gg
+  - key: gatica2023ifors
     entry: inproceedings
     authors:
       - "*G. Gatica"
@@ -199,11 +199,11 @@ items:
       - "J.R. Coronado-Hernández"
     title: "Vehicle routing problem with backhauls, time windows and stochastic demand"
     booktitle: "IFORS 2023"
+    address: "Santiago, Chile"
     year: 2023
     month: "July"
-    address: "Santiago, Chile"
     url: "https://ifors2023.com/"
-  - key: claio2022fcm
+  - key: corral2022claio
     entry: inproceedings
     authors:
       - "F. Corral"
@@ -211,11 +211,11 @@ items:
       - "*R. Linfati"
     title: "Evaluación de la programación laboral y eficiencia de proyectos de construcción a través de un modelo de optimización multiobjetivo en el contexto de la pandemia Covid-19"
     booktitle: "CLAIO 2022"
+    address: "Buenos Aires, Argentina"
     year: 2022
     month: "December"
-    address: "Buenos Aires, Argentina"
     url: "https://claio2022.dc.uba.ar"
-  - key: claio2022kg
+  - key: garcia2022claio
     entry: inproceedings
     authors:
       - "*K. García-Vásquez"
@@ -223,11 +223,11 @@ items:
       - "R. Linfati"
     title: "Un Modelo matemático y una mateheurística para una nueva variante del Pollution Traveling Salesman Problem"
     booktitle: "CLAIO 2022"
+    address: "Buenos Aires, Argentina"
     year: 2022
     month: "December"
-    address: "Buenos Aires, Argentina"
     url: "https://claio2022.dc.uba.ar"
-  - key: icpr2022vo
+  - key: ortiz2022icpr
     entry: inproceedings
     authors:
       - "*V. Ortiz-Araya"
@@ -236,11 +236,11 @@ items:
       - "C. Rozas"
     title: "Gestión sustentable del proceso productivo para una cadena de suministro agrícola"
     booktitle: "ICPR 2022"
+    address: "Curitiba, Brazil"
     year: 2022
     month: "November"
-    address: "Curitiba, Brazil"
     url: "https://www.pb.utfpr.edu.br/icpr2022/"
-  - key: cisim2022bnovid
+  - key: he2022cisimtalk
     entry: inproceedings
     authors:
       - "*Y. He-Astudillo"
@@ -252,11 +252,11 @@ items:
       - "G. Gatica"
     title: "Design of a Wearable Assistive System for Visually Impaired People"
     booktitle: "CISIM 2022"
+    address: "Barranquilla, Colombia"
     year: 2022
     month: "July"
-    address: "Barranquilla, Colombia"
     url: "http://cisim2022.wi.pb.edu.pl/"
-  - key: cisim2022aolder
+  - key: farias2022cisimtalk
     entry: inproceedings
     authors:
       - "*B. Farías-Barraza"
@@ -268,11 +268,11 @@ items:
       - "G. Gatica"
     title: "Low-Cost Voice Assistant Design and Testing for Older Adults"
     booktitle: "CISIM 2022"
+    address: "Barranquilla, Colombia"
     year: 2022
     month: "July"
-    address: "Barranquilla, Colombia"
     url: "http://cisim2022.wi.pb.edu.pl/"
-  - key: optima2021a
+  - key: linfati2022optima
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -280,22 +280,22 @@ items:
       - "C. Picarte"
     title: "Optimizacion de Esquemas de Corte Dinamicos para PYMES Madereras Mediante una Herramienta de Gestion"
     booktitle: "Optima 2021"
+    address: "Talca, Chile"
     year: 2022
     month: "March"
-    address: "Talca, Chile"
     url: "https://portal.ucm.cl/optima2021"
-  - key: optima2021b
+  - key: cataldo2022optima
     entry: inproceedings
     authors:
       - "*C. Cataldo-Díaz"
       - "R. Linfati"
     title: "Modelos de programacion lineal entera mixta para resolver el problema de ruteo de vehiculos considerando los estados de carga de las baterias"
     booktitle: "Optima 2021"
+    address: "Talca, Chile"
     year: 2022
     month: "March"
-    address: "Talca, Chile"
     url: "https://portal.ucm.cl/optima2021"
-  - key: euro2021
+  - key: gatica2021euro
     entry: inproceedings
     authors:
       - "G. Gatica"
@@ -305,11 +305,11 @@ items:
       - "*D. Álvarez"
     title: "Location of logistic platforms and routing of pineapple collection"
     booktitle: "EURO 2021"
+    address: "Athens, Greece"
     year: 2021
     month: "July"
-    address: "Athens, Greece"
     url: "https://euro2021athens.com/"
-  - key: incom2021
+  - key: flores2021incomtalk
     entry: inproceedings
     authors:
       - "J. Flores-Carrasco"
@@ -319,11 +319,11 @@ items:
       - "G. Gatica"
     title: "The Periodic Location-Routing with Selective Recycling Problem: Two Solution Approaches"
     booktitle: "17th IFAC Symposium - INCOM 2021"
+    address: "Budapest, Hungary"
     year: 2021
     month: "June"
-    address: "Budapest, Hungary"
     url: "https://incom2021.org/"
-  - key: icits2020
+  - key: quila2020icitstalk
     entry: inproceedings
     authors:
       - "D. Quila"
@@ -333,11 +333,11 @@ items:
       - "G. Gatica"
     title: "A new mathematical model for the vehicle routing problem with backhauls and time windows"
     booktitle: "ICITS 2020"
+    address: "Bogota, Colombia"
     year: 2020
     month: "February"
-    address: "Bogota, Colombia"
     url: "http://www.icits.me/index.php?lang=en"
-  - key: optima2019b
+  - key: soto2019optima
     entry: inproceedings
     authors:
       - "M. Soto-Bustos"
@@ -346,11 +346,11 @@ items:
       - "*R. Linfati"
     title: "El Problema de Ruteo de Vehiiculos con tiempos de llegada obligatorios y latencia aplazada"
     booktitle: "Optima 2019"
+    address: "Santa Cruz, Chile"
     year: 2019
     month: "November"
-    address: "Santa Cruz, Chile"
     url: "http://www.optima2019.cl/"
-  - key: optima2019a
+  - key: osorio2019optima
     entry: inproceedings
     authors:
       - "*A. Osorio-Mora"
@@ -359,11 +359,11 @@ items:
       - "R. Linfati"
     title: "Enfoques bi-objetivo del Hub Location Problem, Modelos aplicados al transporte de carga de exportacioon"
     booktitle: "Optima 2019"
+    address: "Santa Cruz, Chile"
     year: 2019
     month: "November"
-    address: "Santa Cruz, Chile"
     url: "http://www.optima2019.cl/"
-  - key: expotecnologia2019
+  - key: osores2019expotec
     entry: inproceedings
     authors:
       - "F. Osores"
@@ -374,11 +374,11 @@ items:
       - "G. Gatica"
     title: "Design of an Information System for optimizing the Programming of Nursing Work Shifts"
     booktitle: "Expotecnologia 2019"
+    address: "Cartagema de Indias, Colombia"
     year: 2019
     month: "October"
-    address: "Cartagema de Indias, Colombia"
     url: "https://easychair.org/cfp/EXPOTECNOLOGIA_2019"
-  - key: ciio2019
+  - key: segura2019ciio
     entry: inproceedings
     authors:
       - "D. Segura"
@@ -389,32 +389,32 @@ items:
       - "R. Linfati"
     title: "Una red Neuroral Artificial para diagostico de Neumonia"
     booktitle: "CIIO 2019"
+    address: "Cartagema de Indias, Colombia"
     year: 2019
     month: "August"
-    address: "Cartagema de Indias, Colombia"
     url: "https://www.urosario.edu.co/VI-Congreso-Internacional-Industria-Organizacione/inicio/"
-  - key: cancun2019
+  - key: linfati2019informs
     entry: inproceedings
     authors:
       - "*R. Linfati"
     title: "Comparison of Trajectory Based Metaheuristics for the Electric Vehicle Routing Problem"
     booktitle: "INFORMS 2019 International"
+    address: "Cancun, Mexico"
     year: 2019
     month: "June"
-    address: "Cancun, Mexico"
     url: "http://meetings2.informs.org/wordpress/2019international/"
-  - key: euro2019
+  - key: osorio2019euro
     entry: inproceedings
     authors:
       - "*A. Osorio-Mora"
       - "R. Linfati"
     title: "Deterministic and robust models for a multimodal capacitated Hub Location Problem with multi-commodity: A case study in Chilean export process"
     booktitle: "EURO 2019"
+    address: "Dublin, Ireland"
     year: 2019
     month: "June"
-    address: "Dublin, Ireland"
     url: "https://www.euro-online.org/media_site/reports/EURO30_AB.pdf"
-  - key: ieom2019toth
+  - key: toth2019ieomtalk
     entry: inproceedings
     authors:
       - "*P. Toth"
@@ -425,11 +425,11 @@ items:
       - "R. Linfati"
     title: "Models and Metaheuristics for the Pollution Traveling Salesman Problem"
     booktitle: "IEOM 2019"
+    address: "Bangkok, Thailand"
     year: 2019
     month: "March"
-    address: "Bangkok, Thailand"
     url: "http://ieomsociety.org/ieom2019/"
-  - key: claio2018c
+  - key: escobar2018claio
     entry: inproceedings
     authors:
       - "*J.W. Escobar"
@@ -437,11 +437,11 @@ items:
       - "J. Bernal-Moyano"
     title: "Metaheuristic algorithms for real cases of Vehicle Routing Problems with Heterogeneous Fleet and Time Windows"
     booktitle: "XIX CLAIO"
+    address: "Lima, Peru"
     year: 2018
     month: "September"
-    address: "Lima, Peru"
     url: "http://www.sopios.org.pe/claio2018/"
-  - key: claio2018b
+  - key: osorio2018claio
     entry: inproceedings
     authors:
       - "*A. Osorio-Mora"
@@ -450,22 +450,22 @@ items:
       - "R. Linfati"
     title: "Una aplicación del Hub Location Problem capacitado en el transporte multimodal de carga en el sur de Chile"
     booktitle: "XIX CLAIO"
+    address: "Lima, Peru"
     year: 2018
     month: "September"
-    address: "Lima, Peru"
     url: "http://www.sopios.org.pe/claio2018/"
-  - key: claio2018a
+  - key: linfati2018claio
     entry: inproceedings
     authors:
       - "*R. Linfati"
       - "J.W. Escobar"
     title: "Metaheuristics for the Electric Vehicle Routing Problem"
     booktitle: "XIX CLAIO"
+    address: "Lima, Peru"
     year: 2018
     month: "September"
-    address: "Lima, Peru"
     url: "http://www.sopios.org.pe/claio2018/"
-  - key: ods2018
+  - key: cacchiani2018airo
     entry: inproceedings
     authors:
       - "V. Cacchiani"
@@ -476,11 +476,11 @@ items:
       - "P. Toth"
     title: "An Iterated Local Search Algorithm for the Pollution Traveling Salesman Problem"
     booktitle: "XLVIII AIRO Meeting"
+    address: "Taormina, Italy"
     year: 2018
     month: "September"
-    address: "Taormina, Italy"
     url: "http://www.airoconference.it/ods2018/"
-  - key: ieom2018paris
+  - key: bernal2018ieomtalk
     entry: inproceedings
     authors:
       - "*J. Bernal-Moyano"
@@ -488,22 +488,22 @@ items:
       - "R. Linfati"
     title: "A Granular Tabu Search Algorithm for a Real Case Study of a Vehicle Routing Problem with a Heterogeneous Fleet and Time Windows"
     booktitle: "IEOM 2018"
+    address: "Paris, France"
     year: 2018
     month: "July"
-    address: "Paris, France"
     url: "http://ieomsociety.org/paris2018/proceedings/"
-  - key: alioeuro2018c
+  - key: linfati2018alioeuro
     entry: inproceedings
     authors:
       - "*R. Linfati"
       - "J.W. Escobar"
     title: "Metaheuristics for the Electric Vehicle Routing Problem"
     booktitle: "Alio Euro 2018"
+    address: "Bologna, Italia"
     year: 2018
     month: "June"
-    address: "Bologna, Italia"
     url: "https://events.unibo.it/euroalio2018"
-  - key: alioeuro2018b
+  - key: gatica2018alioeuro
     entry: inproceedings
     authors:
       - "*G. Gatica"
@@ -512,11 +512,11 @@ items:
       - "J.W. Escobar"
     title: "A Mixed Integer Programming Model for location and routing of recyclables"
     booktitle: "Alio Euro 2018"
+    address: "Bologna, Italia"
     year: 2018
     month: "June"
-    address: "Bologna, Italia"
     url: "https://events.unibo.it/euroalio2018"
-  - key: alioeuro2018a
+  - key: gatica2018alioeurotalk
     entry: inproceedings
     authors:
       - "G. Gatica"
@@ -526,11 +526,11 @@ items:
       - "J.W. Escobar"
     title: "A granular Tabu Search to Periodic Location Routing Problem"
     booktitle: "Alio Euro 2018"
+    address: "Bologna, Italia"
     year: 2018
     month: "June"
-    address: "Bologna, Italia"
     url: "https://events.unibo.it/euroalio2018"
-  - key: jiisic18
+  - key: diaz2018jiisictalk
     entry: inproceedings
     authors:
       - "N. Díaz"
@@ -540,11 +540,11 @@ items:
       - "*G. Gatica"
     title: "Web Information System for the Consignment and Routing of Vehicles"
     booktitle: "XIII Jornadas Iberoamericanas de Ingeniería de Software e Ingeniería del Conocimiento"
+    address: "Atacama, Chile"
     year: 2018
     month: "June"
-    address: "Atacama, Chile"
     url: "http://www.jiisic18.diicc.uda.cl/"
-  - key: optima2017d
+  - key: tapia2017optima
     entry: inproceedings
     authors:
       - "*F. Tapia"
@@ -554,11 +554,11 @@ items:
       - "R. Linfati"
     title: "Una solución MH basada en GRASP, para el problema de ruteo de vehículos con múltiples depósitos con flota heterogénea"
     booktitle: "Optima 2017"
+    address: "Viña del Mar, Chile"
     year: 2017
     month: "November"
-    address: "Viña del Mar, Chile"
     url: "http://www.optima2017.cl/"
-  - key: optima2017c
+  - key: flores2017optima
     entry: inproceedings
     authors:
       - "*J. Flores-Carrasco"
@@ -567,32 +567,32 @@ items:
       - "R. Linfati"
     title: "Un Algoritmo heurístico para localización y ruteo de reciclaje"
     booktitle: "Optima 2017"
+    address: "Viña del Mar, Chile"
     year: 2017
     month: "November"
-    address: "Viña del Mar, Chile"
     url: "http://www.optima2017.cl/"
-  - key: optima2017b
+  - key: contreras2017optima
     entry: inproceedings
     authors:
       - "*D. Contreras"
       - "R. Linfati"
     title: "El problema de múltiples viajeros con demanda compartida aplicado a cuadrillas de mantenimiento de áreas verdes"
     booktitle: "Optima 2017"
+    address: "Viña del Mar, Chile"
     year: 2017
     month: "November"
-    address: "Viña del Mar, Chile"
     url: "http://www.optima2017.cl/"
-  - key: optima2017a
+  - key: linfati2017optima
     entry: inproceedings
     authors:
       - "*R. Linfati"
     title: "A trajectory-based metaheuristic for the Electric Vehicle Routing Problem"
     booktitle: "Optima 2017"
+    address: "Viña del Mar, Chile"
     year: 2017
     month: "November"
-    address: "Viña del Mar, Chile"
     url: "http://www.optima2017.cl/"
-  - key: vns2017a
+  - key: ahumada2017vns
     entry: inproceedings
     authors:
       - "G. Ahumada"
@@ -602,11 +602,11 @@ items:
       - "R. Linfati"
     title: "Heuristic algorithms for locating charging points and routing of electric vehicles"
     booktitle: "VNS 2017"
+    address: "Ouro Preto, Brazil"
     year: 2017
     month: "October"
-    address: "Ouro Preto, Brazil"
     url: "http://vnsconference.ufop.br/"
-  - key: ciio2017a
+  - key: gatica2017ciio
     entry: inproceedings
     authors:
       - "*G. Gatica"
@@ -615,31 +615,31 @@ items:
       - "J.W. Escobar"
     title: "Un modelo de programación entera mixta, para localización y ruteo de reciclaje selectivo"
     booktitle: "CIIO 2017"
+    address: "Medellin, Colombia"
     year: 2017
     month: "July"
-    address: "Medellin, Colombia"
     url: "http://ingenieria.udea.edu.co/ciio2017/"
-  - key: ifors2017a
+  - key: linfati2017ifors
     entry: inproceedings
     authors:
       - "*R. Linfati"
     title: "Comparison of trajectory based metaheuristics for the electric vehicle routing problem"
     booktitle: "XXI IFORS"
+    address: "Quebec, Canada"
     year: 2017
     month: "July"
-    address: "Quebec, Canada"
     url: "http://ifors2017.ca/"
-  - key: smio2016a
+  - key: linfati2016smio
     entry: inproceedings
     authors:
       - "*R. Linfati"
     title: "El problema de ruteo de vehículos eléctricos multi deposito, comparación de metaheurísticas granulares de trayectoria"
     booktitle: "V SMIO"
+    address: "Madero, Mexico"
     year: 2016
     month: "October"
-    address: "Madero, Mexico"
     url: "http://www.itcm.edu.mx/smio2016/"
-  - key: meta2015b
+  - key: linfati2016meta
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -647,21 +647,21 @@ items:
       - "P. Toth"
     title: "A granular variable tabu neighborhood search for the capacitated location routing problem"
     booktitle: "VI META"
+    address: "Marrakech, Morocco"
     year: 2016
     month: "October"
-    address: "Marrakech, Morocco"
     url: "https://meta2016.sciencesconf.org/"
-  - key: meta2015a
+  - key: linfati2016metatrajectory
     entry: inproceedings
     authors:
       - "*R. Linfati"
     title: "A trajectory-based metaheuristic for the electric vehicle routing problem"
     booktitle: "VI META"
+    address: "Marrakech, Morocco"
     year: 2016
     month: "October"
-    address: "Marrakech, Morocco"
     url: "https://meta2016.sciencesconf.org/"
-  - key: claio2016c
+  - key: bernal2016claio
     entry: inproceedings
     authors:
       - "J. Bernal-Moyano"
@@ -669,21 +669,21 @@ items:
       - "*R. Linfati"
     title: "Una búsqueda tabú granular para el problema de ruteo de vehículos con ventanas de tiempo y flota heterogénea: aplicación en una empresa de consumo masivo"
     booktitle: "XVIII CLAIO"
+    address: "Santiago, Chile"
     year: 2016
     month: "October"
-    address: "Santiago, Chile"
     url: "http://easychair.org/smart-program/CLAIO-2016/index.html"
-  - key: claio2016a
+  - key: linfati2016claioevrp
     entry: inproceedings
     authors:
       - "*R. Linfati"
     title: "El problema de ruteo de vehículos eléctricos multi deposito, comparación de metaheurísticas granulares de trayectoria"
     booktitle: "XVIII CLAIO"
+    address: "Santiago, Chile"
     year: 2016
     month: "October"
-    address: "Santiago, Chile"
     url: "http://easychair.org/smart-program/CLAIO-2016/index.html"
-  - key: claio2016b
+  - key: nunez2016claio
     entry: inproceedings
     authors:
       - "F. Núñez-Cerda"
@@ -691,11 +691,11 @@ items:
       - "*P. Ortiz"
     title: "Optimización de operaciones logístico-humanitarias para la planificación ante desastres en la ciudad de Talcahuano, Chile"
     booktitle: "XVIII CLAIO"
+    address: "Santiago, Chile"
     year: 2016
     month: "October"
-    address: "Santiago, Chile"
     url: "http://easychair.org/smart-program/CLAIO-2016/index.html"
-  - key: iesm2015
+  - key: escobar2015iesmtalk
     entry: inproceedings
     authors:
       - "*L.M. Escobar-Falcon"
@@ -705,11 +705,11 @@ items:
       - "M. Granada"
     title: "A hybrid metaheuristic approach for the capacitated vehicle routing problem with container loading constraints"
     booktitle: "IESM 2015"
+    address: "Sevilla, España"
     year: 2015
     month: "Octubre"
-    address: "Sevilla, España"
     url: "http://www.i4e2.org/iesm15/index.html"
-  - key: optima2015
+  - key: fuentealba2015optima
     entry: inproceedings
     authors:
       - "*S. Fuentealba"
@@ -717,11 +717,11 @@ items:
       - "R. Linfati"
     title: "Un modelo matematico para el soporte a la planificacion integrada entre cosecha forestal y aserraderos"
     booktitle: "XI Optima"
+    address: "Concepción, Chile"
     year: 2015
     month: "Octubre"
-    address: "Concepción, Chile"
     url: ["https://drive.google.com/folderview?id=0ByDiC3oM1jpgOE9BdWs3RnZiS1k&usp=drive_web", "https://drive.google.com/folderview?id=0ByDiC3oM1jpgZHYtQTFmLV9RS3c&usp=sharing", "http://optima2015.cl/"]
-  - key: ciio2015c
+  - key: escobar2015ciio
     entry: inproceedings
     authors:
       - "*J.W. Escobar"
@@ -731,11 +731,11 @@ items:
       - "G. Gatica"
     title: "A metaheuristic algorithm for the location routing problem with heterogeneous fleet"
     booktitle: "II Congreso Internacional Industria y Organizaciones - Logistica, Innovacion y Desarrollo Tecnologico"
+    address: "Bogota, Colombia"
     year: 2015
     month: "Agosto"
-    address: "Bogota, Colombia"
     url: "http://www.seprologistica.unal.edu.co/congresoInternacional/IIcongreso/"
-  - key: ciio2015b
+  - key: bernal2015ciio
     entry: inproceedings
     authors:
       - "*J. Bernal-Moyano"
@@ -745,11 +745,11 @@ items:
       - "G. Gatica"
     title: "A probabilistic granular tabu search for the distance constrained capacitated vehicle routing problem"
     booktitle: "II Congreso Internacional Industria y Organizaciones - Logistica, Innovacion y Desarrollo Tecnologico"
+    address: "Bogota, Colombia"
     year: 2015
     month: "Agosto"
-    address: "Bogota, Colombia"
     url: "http://www.seprologistica.unal.edu.co/congresoInternacional/IIcongreso/"
-  - key: ciio2015a
+  - key: gatica2015ciio
     entry: inproceedings
     authors:
       - "*G. Gatica"
@@ -761,22 +761,22 @@ items:
       - "P. Adasme"
     title: "Una aplicación web, para asignación y ruteo de vehiculos en caso de desastres"
     booktitle: "II Congreso Internacional Industria y Organizaciones - Logistica, Innovacion y Desarrollo Tecnologico"
+    address: "Bogota, Colombia"
     year: 2015
     month: "Agosto"
-    address: "Bogota, Colombia"
     url: "http://www.seprologistica.unal.edu.co/congresoInternacional/IIcongreso/"
-  - key: siii2015b
+  - key: zambrano2015siii
     entry: inproceedings
     authors:
       - "C. Zambrano"
       - "*R. Linfati"
     title: "Un modelo matemático como soporte a la toma de decisiones para el problema integrado del fixture y la asignación de árbitros en el campeonato nacional de primera división del fútbol chileno"
     booktitle: "VIII Simposio Internacional de Ingeniería Industrial"
+    address: "Concepción, Chile"
     year: 2015
     month: "Agosto"
-    address: "Concepción, Chile"
     url: "http://www.8siii.com/"
-  - key: siii2015a
+  - key: fuentealba2015siii
     entry: inproceedings
     authors:
       - "S. Fuentealba"
@@ -784,11 +784,11 @@ items:
       - "*R. Linfati"
     title: "Planificación tactica integrada entre cosecha forestal y aserraderos, propuesta de un modelo matemático"
     booktitle: "VIII Simposio Internacional de Ingeniería Industrial"
+    address: "Concepción, Chile"
     year: 2015
     month: "Agosto"
-    address: "Concepción, Chile"
     url: "http://www.8siii.com/"
-  - key: jaiio2015
+  - key: braga2015jaiio
     entry: inproceedings
     authors:
       - "M. Braga"
@@ -797,11 +797,11 @@ items:
       - "R. Linfati"
     title: "Estudio poliedral del problema de coloreo de maximo impacto"
     booktitle: "44 JAIIO"
+    address: "Rosario, Argentina"
     year: 2015
     month: "Agosto"
-    address: "Rosario, Argentina"
     url: "http://44jaiio.sadio.org.ar/?q=contsio"
-  - key: EWGORD2015
+  - key: pradenas2015ewgordtalk
     entry: inproceedings
     authors:
       - "*L. Pradenas-Rojas"
@@ -812,11 +812,11 @@ items:
       - "P. López"
     title: "A mathematical model and solution for remanufacturing in a sawmill"
     booktitle: "EWG ORD 2015"
+    address: "Glasgow, Scotland"
     year: 2015
     month: "Julio"
-    address: "Glasgow, Scotland"
     url: "http://ifors.org/web/wp-content/uploads/2015/03/9.-LorenaPaperEWG-ORD2015.pdf"
-  - key: asocio2015e
+  - key: escobar2015asocio
     entry: inproceedings
     authors:
       - "*L.M. Escobar-Falcon"
@@ -826,11 +826,11 @@ items:
       - "R. Linfati"
     title: "A hybrid metaheuristic approach for the capacitated vehicle routing problem with container loading constraints"
     booktitle: "I ASOCIO"
+    address: "Chia, Colombia"
     year: 2015
     month: "Julio"
-    address: "Chia, Colombia"
     url: "http://www.unisabana.edu.co/unidades-academicas/eicea/congreso-de-la-asocio/llamado-a-contribuciones/"
-  - key: asocio2015d
+  - key: escobar2015asociotalk
     entry: inproceedings
     authors:
       - "J.W. Escobar"
@@ -840,11 +840,11 @@ items:
       - "G. Gatica"
     title: "A simulated annealing approach for the location-routing problem with heterogeneous fleet"
     booktitle: "I ASOCIO"
+    address: "Chia, Colombia"
     year: 2015
     month: "Julio"
-    address: "Chia, Colombia"
     url: "http://www.unisabana.edu.co/unidades-academicas/eicea/congreso-de-la-asocio/llamado-a-contribuciones/"
-  - key: asocio2015c
+  - key: gatica2015asocio
     entry: inproceedings
     authors:
       - "G. Gatica"
@@ -854,11 +854,11 @@ items:
       - "*J. Cifuentes"
     title: "Una maquina evolutiva para el strip packing problem"
     booktitle: "I ASOCIO"
+    address: "Chia, Colombia"
     year: 2015
     month: "Julio"
-    address: "Chia, Colombia"
     url: "http://www.unisabana.edu.co/unidades-academicas/eicea/congreso-de-la-asocio/llamado-a-contribuciones/"
-  - key: asocio2015b
+  - key: fuentealba2015asocio
     entry: inproceedings
     authors:
       - "S. Fuentealba"
@@ -866,11 +866,11 @@ items:
       - "*R. Linfati"
     title: "Un modelo matemático para el soporte a la planificación integrada entre cosecha forestal y aserraderos"
     booktitle: "I ASOCIO"
+    address: "Chia, Colombia"
     year: 2015
     month: "Julio"
-    address: "Chia, Colombia"
     url: "http://www.unisabana.edu.co/unidades-academicas/eicea/congreso-de-la-asocio/llamado-a-contribuciones/"
-  - key: asocio2015a
+  - key: bernal2015asocio
     entry: inproceedings
     authors:
       - "J. Bernal-Moyano"
@@ -880,11 +880,11 @@ items:
       - "G. Gatica"
     title: "A probabilistic granular tabu search for the distance constrained capacitated vehicle routing problem"
     booktitle: "I ASOCIO"
+    address: "Chia, Colombia"
     year: 2015
     month: "Julio"
-    address: "Chia, Colombia"
     url: "http://www.unisabana.edu.co/unidades-academicas/eicea/congreso-de-la-asocio/llamado-a-contribuciones/"
-  - key: alioeuro2014b
+  - key: barros2014alioeuro
     entry: inproceedings
     authors:
       - "*M. Barros"
@@ -895,11 +895,11 @@ items:
       - "V. Parada"
     title: "Application of an independent set of vertices for human resources optimization and sales maximization"
     booktitle: "VIII ALIO/EURO Workshop on Applied Combinatorial Optimization"
+    address: "Montevideo, Uruguay"
     year: 2014
     month: "December"
-    address: "Montevideo, Uruguay"
     url: "http://www.fing.edu.uy/en/alio-euro-2014"
-  - key: alioeuro2014a
+  - key: braga2014alioeuro
     entry: inproceedings
     authors:
       - "M. Braga"
@@ -908,11 +908,11 @@ items:
       - "R. Linfati"
     title: "The maximum-impact coloring polytope"
     booktitle: "VIII ALIO/EURO Workshop on Applied Combinatorial Optimization"
+    address: "Montevideo, Uruguay"
     year: 2014
     month: "December"
-    address: "Montevideo, Uruguay"
     url: "http://www.fing.edu.uy/en/alio-euro-2014"
-  - key: claio2014c
+  - key: gatica2014claio
     entry: inproceedings
     authors:
       - "*G. Gatica"
@@ -923,11 +923,11 @@ items:
       - "R. Linfati"
     title: "Aplicación web para gestión de inventarios"
     booktitle: "CLAIO XVII"
+    address: "Monterrey, Mexico"
     year: 2014
     month: "October"
-    address: "Monterrey, Mexico"
     url: "http://pisis.fime.uanl.mx/claio2014/"
-  - key: claio2014b
+  - key: puenayan2014claio
     entry: inproceedings
     authors:
       - "D.E. Puenayán"
@@ -936,11 +936,11 @@ items:
       - "R. Linfati"
     title: "Un algoritmo metaheuristico para la solución de un problema de ruteo de vehículos con flota heterogénea"
     booktitle: "CLAIO XVII"
+    address: "Monterrey, Mexico"
     year: 2014
     month: "October"
-    address: "Monterrey, Mexico"
     url: "http://pisis.fime.uanl.mx/claio2014/"
-  - key: claio2014a
+  - key: linfati2014claio
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -948,11 +948,11 @@ items:
       - "J.W. Escobar"
     title: "Un algoritmo basado en búsqueda tabú granular para el problema de balanceo de bicicletas públicas usando múltiples vehículos"
     booktitle: "CLAIO XVII"
+    address: "Monterrey, Mexico"
     year: 2014
     month: "October"
-    address: "Monterrey, Mexico"
     url: "http://pisis.fime.uanl.mx/claio2014/"
-  - key: ciio2014b
+  - key: gatica2014ciio
     entry: inproceedings
     authors:
       - "G. Gatica"
@@ -962,11 +962,11 @@ items:
       - "*J.W. Escobar"
     title: "Una heuristica para el periodic location routing problem"
     booktitle: "I Congreso Internacional Industria y Organizaciones - Logistica para la Competitividad"
+    address: "Bogota, Colombia"
     year: 2014
     month: "Agosto"
-    address: "Bogota, Colombia"
     url: "http://www.seprologistica.unal.edu.co/congresoInternacional/"
-  - key: ciio2014a
+  - key: linfati2014ciio
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -974,11 +974,11 @@ items:
       - "J.W. Escobar"
     title: "Un algoritmo basado en busqueda tabu granular para el problema de balanceo de bicicletas publicas usando multiples vehiculos"
     booktitle: "I Congreso Internacional Industria y Organizaciones - Logistica para la Competitividad"
+    address: "Bogota, Colombia"
     year: 2014
     month: "Agosto"
-    address: "Bogota, Colombia"
     url: "http://www.seprologistica.unal.edu.co/congresoInternacional/"
-  - key: optima2013b
+  - key: bravo2013optima
     entry: inproceedings
     authors:
       - "*G. Bravo"
@@ -986,11 +986,11 @@ items:
       - "R. Linfati"
     title: "Optimización de la remanufactura en un aserradero"
     booktitle: "X Optima"
+    address: "Concepción, Chile"
     year: 2013
     month: "October"
-    address: "Concepción, Chile"
     url: "http://www.optima2013.cl/"
-  - key: optima2013a
+  - key: linfati2013optima
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -998,11 +998,11 @@ items:
       - "G. Gatica"
     title: "Un algoritmo heurístico basado en búsqueda tabu granular para el problema de localización y ruteo con flota heterogénea"
     booktitle: "X Optima"
+    address: "Concepción, Chile"
     year: 2013
     month: "October"
-    address: "Concepción, Chile"
     url: "http://www.optima2013.cl/"
-  - key: jaiio2013
+  - key: linfati2013jaiio
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -1010,11 +1010,11 @@ items:
       - "P. Toth"
     title: "Algoritmos heurísticos para el problema de localización y ruteo de vehículos, y su aplicabilidad al problema de ruteo de vehículos con múltiples depósitos"
     booktitle: "42 JAIIO"
+    address: "Córdoba Capital, Argentina"
     year: 2013
     month: "September"
-    address: "Córdoba Capital, Argentina"
     url: "http://www.41jaiio.org.ar/sites/default/files/Programa%2041%20JAIIO.pdf"
-  - key: tristan2013
+  - key: escobar2013tristan
     entry: inproceedings
     authors:
       - "J.W. Escobar"
@@ -1023,11 +1023,11 @@ items:
       - "P. Toth"
     title: "A metaheuristic algorithm for the multi-depot vehicle routing problem"
     booktitle: "TRISTAN VIII"
+    address: "San Pedro de Atacama, Chile"
     year: 2013
     month: "June"
-    address: "San Pedro de Atacama, Chile"
     url: "http://www.sistemasdeingenieria.cl/TRISTAN/Program.pdf"
-  - key: isorap2013
+  - key: escobar2013isorap
     entry: inproceedings
     authors:
       - "J.W. Escobar"
@@ -1036,11 +1036,11 @@ items:
       - "*P. Toth"
     title: "Metaheuristics and local search procedures for the capacitated location routing problem"
     booktitle: "ISORAP 2013"
+    address: "Marrakech, Morocco"
     year: 2013
     month: "May"
-    address: "Marrakech, Morocco"
     url: "http://isorap2013.uiz.ac.ma"
-  - key: informs2012
+  - key: escobar2012informs
     entry: inproceedings
     authors:
       - "*J.W. Escobar"
@@ -1049,10 +1049,10 @@ items:
       - "P. Toth"
     title: "A granular variable neighborhood tabu search algorithm for the capacitated-location routing problem"
     booktitle: "INFORMS Annual Meeting 2012"
-    year: 2012
     address: "Phoenix, USA"
+    year: 2012
     url: "http://meetings2.informs.org/phoenix2012/index.php"
-  - key: turkia2012
+  - key: linfati2012evocop
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -1060,10 +1060,10 @@ items:
       - "P. Toth"
     title: "An integer linear programming model for the optimal assignment of referees: The Italian volleyball championships case"
     booktitle: "25th Conference of European Chapter on Combinatorial Optimization"
-    year: 2012
     address: "Antalya, Turkey"
+    year: 2012
     url: "http://www.eccoxxv.org/wp-content/uploads/ECCO-XXV-Final-Program.pdf"
-  - key: smio2012
+  - key: garcia2012smio
     entry: inproceedings
     authors:
       - "*G. García"
@@ -1073,11 +1073,11 @@ items:
       - "D. Vigo"
     title: "A metaheuristic algorithm based on a granular tabu search for the distance constrained vehicle routing problem"
     booktitle: "Primer Congreso Nacional SMIO"
+    address: "Guadalajara, Mexico"
     year: 2012
     pages: 96
-    address: "Guadalajara, Mexico"
     url: ["http://redmulticriterio.org/smio/images/pdf/programa_smio.pdf", "http://redmulticriterio.org/smio/images/pdf/smioabstracts.pdf"]
-  - key: verolog2012
+  - key: escobar2012verolog
     entry: inproceedings
     authors:
       - "*J.W. Escobar"
@@ -1086,11 +1086,11 @@ items:
       - "P. Toth"
     title: "A metaheuristic algorithm based on a Granular Tabu Search within a Variable Neigborhood Search for the capacitated location-routing problema"
     booktitle: "First meeting of the EURO Working Group on Vehicle Routing and Logistics Optimization"
+    address: "Bologna, Italy"
     year: 2012
     pages: "78-79"
-    address: "Bologna, Italy"
     url: "http://www.verolog2012.deis.unibo.it/attachments/article/49/Verolog2012programbooklet%20new%20compress.pdf"
-  - key: odyseus2012
+  - key: escobar2012odyssey
     entry: inproceedings
     authors:
       - "J.W. Escobar"
@@ -1099,33 +1099,33 @@ items:
       - "P. Toth"
     title: "A comparison of three metaheuristic algorithms for the capacitated location-routing problema"
     booktitle: "5th International Workshop on Freight Transportation and Logistics"
+    address: "Mykonos, Greece"
     year: 2012
     pages: "560-563"
-    address: "Mykonos, Greece"
     url: "http://odysseus2012.dmst.aueb.gr/docs/Extended Abstracts.pdf"
-  - key: claio2012b
+  - key: baldoquin2012claio
     entry: inproceedings
     authors:
       - "*M.G. Baldoquin"
       - "R. Linfati"
       - "A. Escalera"
     title: "Modelos y algoritmos en la solución de un problema real de agrupamiento y planificación de visitas a clientes"
-    booktitle: "XVI Congreso Latino-Iberoamericano de Investigación de Operativa"
-    year: 2012
+    booktitle: "XVI Congreso Latino-Iberoamericano de Investigación de Operaciones"
     address: "Rio de Janeiro, Brasil"
+    year: 2012
     url: ["http://www.sobrapo.org.br/claiosbpo2012/Programacao_Final.pdf", "http://www2.claiosbpo2012.iltc.br/pdf/100937.pdf"]
-  - key: claio2012a
+  - key: escobar2012claio
     entry: inproceedings
     authors:
       - "*J.W. Escobar"
       - "R. Linfati"
       - "P. Toth"
     title: "A hybrid metaheuristic algorithm for the capacitated location-routing problem"
-    booktitle: "XVI Congreso Latino-Iberoamericano de Investigación de Operativa"
-    year: 2012
+    booktitle: "XVI Congreso Latino-Iberoamericano de Investigación de Operaciones"
     address: "Rio de Janeiro, Brasil"
+    year: 2012
     url: ["http://www.sobrapo.org.br/claiosbpo2012/Programacao_Final.pdf", "http://www2.claiosbpo2012.iltc.br/pdf/99261.pdf"]
-  - key: elavio2007
+  - key: linfati2007elavio
     entry: inproceedings
     authors:
       - "*R. Linfati"
@@ -1133,6 +1133,6 @@ items:
       - "J. Ferland"
     title: "Resolución del problema de trozado de árboles usando descomposición de Benders y Búsqueda Tabú"
     booktitle: "XII Escuela Latinoamericana de Verano en Investigación Operativa"
-    year: 2007
     address: "Itaipava, Brasil"
+    year: 2007
     url: "http://www2.ic.uff.br/elavio/selecionados.htm"

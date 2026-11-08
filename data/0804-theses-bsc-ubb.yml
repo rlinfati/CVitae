@@ -1,1101 +1,1100 @@
-notes: ["x"]
 items:
-  - key: contreras2025
+  - key: contreras2025torre
     entry: mastersthesis
     authors:
       - "P. Contreras"
     title: "Diseño e implementación de un sistema de torre de control para la jerarquización de productos, mediante algoritmo de aprendizaje"
     school: "Universidad del Bío-Bío"
-    year: "2025-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2025-2"
     ubb-WERKEN-id: "72798"
     ubb-WERKEN-call: "M(E) 621.7 C7681 2026"
     ubb-WERKEN-author: "Contreras Quezada, Pablo Andrés"
     ubb-WERKEN-title: "Diseño e implementación de un sistema de torre de control para la jerarquización de productos, mediante algoritmo de aprendizaje = Design and implementation of a tower control system to rank products, using machine learning"
-  - key: sanhueza2025
+  - key: sanhueza2025lean
     entry: mastersthesis
     authors:
       - "F. Sanhueza"
     title: "Diseño de una propuesta Lean para mejorar la productividad y eficiencia operativa en el proceso de consolidación del Warehouse de Maersk Logistic and Service"
     school: "Universidad del Bío-Bío"
-    year: "2025-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2025-2"
     ubb-WERKEN-id: "72806"
     ubb-WERKEN-call: "M(E) 621.7 Sa58 2026"
     ubb-WERKEN-author: "Sanhueza López, Fernando Antonio"
     ubb-WERKEN-title: "Diseño de una propuesta Lean para mejorar la productividad y eficiencia operativa en el proceso de consolidación del Warehouse de Maersk Logistic and Service = Design of a Lean proposal to improve productivity and operational efficiency in Maersk’s wareho"
-  - key: espinosavillarreal2025co
+  - key: espinoza2025localizacion
     entry: mastersthesis
     authors:
       - "L. Espinoza"
       - "C. Villarreal"
     title: "Estudio de Localizacion de las Principales Fuentes de Residuos Organicos en Cadenas de Suministro Cortas en la Region de Nuble"
     school: "Universidad del Bío-Bío"
-    year: "2025-2"
     degree: "Ingeniería Comercial"
+    year: "2025-2"
     ubb-intranet-title: "Estudio De Localización De Los Principales Fuentes De Residuos Orgánicos En Cadenas De Suministro Cortas En La Región De Ñuble."
-  - key: silva2025
+  - key: silva2025criticidad
     entry: mastersthesis
     authors:
       - "T. Silva"
     title: "Evaluación de la metodología ABC por criticidad aplicada a la clasificación de materiales de CMPC en los negocios de Biopackaging y Maderas"
     school: "Universidad del Bío-Bío"
-    year: "2025-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2025-2"
     ubb-WERKEN-id: "73241"
     ubb-WERKEN-call: "M(E) 621.7 Si38 2026"
     ubb-WERKEN-author: "Silva Burgos Tomás Eduardo"
     ubb-WERKEN-title: "Evaluación de la metodología ABC por criticidad aplicada a la clasificación de materiales de CMPC en los negocios de Biopackaging y Maderas = Evaluation of the ABC methodology based on criticality, applied to the classification of CMPC materials in the Bi"
-  - key: jara2025
+  - key: jara2025ruta
     entry: mastersthesis
     authors:
       - "S. Jara"
     title: "Modelo de programación lineal entera para la optimización de ruta en buques de crucero: restricciones de calado y capacidad"
     school: "Universidad del Bío-Bío"
-    year: "2025-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2025-1"
     ubb-WERKEN-id: "72048"
     ubb-WERKEN-call: "M(E) 621.7 J282 2025"
     ubb-WERKEN-author: "Jara Hidalgo, Sofía Carolina"
     ubb-WERKEN-title: "Modelo de programación lineal entera para la optimización de ruta en buques de crucero: restricciones de calado y capacidad = integer linear programming model for route optimization in cruise ships: draft and capacity constraints"
-  - key: monje2025
+  - key: monje2025transporte
     entry: mastersthesis
     authors:
       - "J. Monje"
     title: "Metodología para la optimización del transporte de personal operativo mina para la División Ministro Hales de Codelco"
     school: "Universidad del Bío-Bío"
-    year: "2025-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2025-1"
     ubb-WERKEN-id: "72051"
     ubb-WERKEN-call: "M(E) 621.7 M749 2025"
     ubb-WERKEN-author: "Monje Fica, Javiera Rayen"
     ubb-WERKEN-title: "Metodología para la optimización del transporte de personal operativo mina para la División Ministro Hales de Codelco = methodology for the optimization of the transportation of mine operational personnel for the Minister Hales division of Codelco [recurs"
     ubb-intranet-title: "METODOLOGÍA PARA LA OPTIMIZACIÓN DEL TRANSPORTE DE PERSONAL OPERATIVO MINA PARA LA DIVISIÓN MINISTRO HALES DE CODELCO"
-  - key: bizama2025
+  - key: bizama2025indicadores
     entry: mastersthesis
     authors:
       - "H. Bizama"
     title: "Propuesta para mejorar los indicadores de desempeño del servicio de aseo industrial en la gerencia concentradora de Codelco División Chuquicamata"
     school: "Universidad del Bío-Bío"
-    year: "2025-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2025-1"
     ubb-WERKEN-id: "72037"
     ubb-WERKEN-call: "M(E) 621.7 B551 2025"
     ubb-WERKEN-author: "Bizama Rojas, Héctor Alexis"
     ubb-WERKEN-title: "Propuesta para mejorar los indicadores de desempeño del servicio de aseo industrial en la gerencia concentradora de Codelco División Chuquicamata = proposal for enhancing performance indicators of the industrial cleaning service in the concentrator depart"
     ubb-intranet-title: "Propuesta para mejorar los indicadores de desempeño del servicio de aseo industrial en la gerencia concentradora de Codelco División Chuquicamata = proposal for enhancing performance indicators of the industrial cleaning service in the concentrator depart"
-  - key: rebolledo2025
+  - key: rebolledo2025rutas
     entry: mastersthesis
     authors:
       - "B. Rebolledo"
     title: "Optimización de rutas turísticas en Chile para diversos perfiles de turistas, a través de un enfoque de problema de orientación en equipos para maximizar la valoración de la experiencia"
     school: "Universidad del Bío-Bío"
-    year: "2025-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2025-1"
     ubb-WERKEN-id: "72246"
     ubb-WERKEN-call: "M(E) 621.7 R2421 2025"
     ubb-WERKEN-author: "Rebolledo González, Bárbara Nicole"
     ubb-WERKEN-title: "Optimización de rutas turísticas en Chile para diversos perfiles de turistas, a través de un enfoque de problema de orientación en equipos para maximizar la valoración de la experiencia = optimization of tourist routes in Chile for different tourist profi"
-  - key: rivera2025
+  - key: rivera2025predictivo
     entry: mastersthesis
     authors:
       - "A. Rivera"
     title: "Desarrollo de un modelo predictivo para la gestión de personal en el centro de distribución Sodimac Coronel"
     school: "Universidad del Bío-Bío"
-    year: "2025-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2025-1"
     ubb-WERKEN-id: "72054"
     ubb-WERKEN-call: "M(E) 621.7 R524 2025"
     ubb-WERKEN-author: "Rivera Riquelme, Aileen del Pilar"
     ubb-WERKEN-title: "Desarrollo de un modelo predictivo para la gestión de personal en el centro de distribución Sodimac Coronel = development of a predictive model for staff management at the Sodimac Coronel distribution center"
     ubb-intranet-title: "Desarrollo de un modelo predictivo para la gestión de personal en el centro de distribución Sodimac Coronel = development of a predictive model for staﬀ management at the Sodimac Coronel distribution center"
-  - key: torres2024
+  - key: torres2024rutas
     entry: mastersthesis
     authors:
       - "J. Torres"
     title: "Modelo de Optimizacion de Rutas Vehiculares Multimodal con Dependencia del Tiempo para la Distribucion De Insumos Medicos"
     school: "Universidad del Bío-Bío"
-    year: "2024-2"
     degree: "Ingeniería Civil Industrial"
-  - key: rebolledo2024
+    year: "2024-2"
+  - key: rebolledo2024prefactibilidad
     entry: mastersthesis
     authors:
       - "C. Rebolledo"
     title: "Estudio de prefactibilidad técnico-económico y elaboración de una guía metodológica para la evaluación de cierre progresivo en faena minera La Coipa"
     school: "Universidad del Bío-Bío"
-    year: "2024-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2024-2"
     ubb-WERKEN-id: "71331"
     ubb-WERKEN-call: "M(E) 621.7 R242 2025"
     ubb-WERKEN-author: "Rebolledo Streb, Constanza Isidora"
     ubb-WERKEN-title: "Estudio de prefactibilidad técnico-económico y elaboración de una guía metodológica para la evaluación de cierre progresivo en faena minera La Coipa = Technical-economic pre-feasibility study and development of a methodological guide for the evaluation of"
     ubb-intranet-title: "Estudio de prefactibilidad técnico-económico y elaboración de una guía metodológica para la evaluación de cierre progresivo en faena minera La Coipa = Technical-economic pre-feasibility study and development of a methodological guide for the evaluation of"
-  - key: sanhueza2024
+  - key: sanhueza2024ciclo
     entry: mastersthesis
     authors:
       - "J. Sanhueza"
     title: "Propuesta de Implementacion del Ciclo PDCA en Area Maquina para disminuir los tiempos perdidos en lineas de embalaje"
     school: "Universidad del Bío-Bío"
-    year: "2024-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2024-2"
     ubb-intranet-title: "PROPUESTA DE IMPLEMENTACIÓN DEL CICLO PDCA EN ÁREA MÁQUINA PARA DISMINUIR LOS TIEMPOS PERDIDOS EN LÍNEAS DE EMBALAJE EN EMPRESA CELULOSA ARAUCO?"
-  - key: morales2024
+  - key: morales2024viabilidad
     entry: mastersthesis
     authors:
       - "J. Morales"
     title: "Evaluacion de Viabilidad y Rentabilidad de un Proyecto de Outsourcing de Servicios Empresariales en Concepcion Region del Bio-Bio"
     school: "Universidad del Bío-Bío"
-    year: "2024-2"
     degree: "Ingeniería Civil Industrial"
-  - key: javiera2023
+    year: "2024-2"
+  - key: astudillo2023rutas
     entry: mastersthesis
     authors:
       - "J. Astudillo"
     title: "Optimización de rutas vehiculares con ventanas de tiempo para la distribución de camas para mascotas en el gran Concepción"
     school: "Universidad del Bío-Bío"
-    year: "2023-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2023-2"
     ubb-WERKEN-id: "70295"
     ubb-WERKEN-call: "M(E) 621.7 As89 2024"
     ubb-WERKEN-author: "Astudillo Villegas, Javiera Alejandra"
     ubb-WERKEN-title: "Optimización de rutas vehiculares con ventanas de tiempo para la distribución de camas para mascotas en el gran Concepción = Optimization of vehicular routes with time windows for the distribution of pet beds in the gran Concepción"
-  - key: jeremias2023
+  - key: almendra2023localizacion
     entry: mastersthesis
     authors:
       - "J. Almendra"
     title: "Modelo matemático para el problema de ruteo de localización eléctrica que considere la recarga parcial con ventanas de tiempo"
     school: "Universidad del Bío-Bío"
-    year: "2023-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2023-2"
     ubb-WERKEN-id: "70147"
     ubb-WERKEN-call: "M(E) 621.7 Al65 2024"
     ubb-WERKEN-author: "Almendra Gómez, Jeremías Israel"
     ubb-WERKEN-title: "Modelo matemático para el problema de ruteo de localización eléctrica que considere la recarga parcial con ventanas de tiempo = A mathematical model for the electric location routing problem that considers partial recharging with time windows [recurso el"
-  - key: briones2023
+  - key: briones2023estrategico
     entry: mastersthesis
     authors:
       - "M. Briones"
     title: "Propuesta de un plan estratégico para la distribuidora El Racimo hasta el año 2026"
     school: "Universidad del Bío-Bío"
-    year: "2023-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2023-2"
     ubb-WERKEN-id: "70149"
     ubb-WERKEN-call: "M(E) 621.7 B772 2024"
     ubb-WERKEN-author: "Briones Jorquera, Matías"
-  - key: roberto2023
+  - key: varela2023inconsistente
     entry: mastersthesis
     authors:
       - "R. Varela"
     title: "Evaluación de un modelo matemático con ruteo inconsistente aplicado para camiones de efectivo"
     school: "Universidad del Bío-Bío"
-    year: "2023-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2023-2"
     ubb-WERKEN-id: "70177"
     ubb-WERKEN-call: "M(E) 621.7 V586 2024"
     ubb-WERKEN-author: "Varela Vergara, Roberto Andrés"
     ubb-WERKEN-title: "Evaluación de un modelo matemático con ruteo inconsistente aplicado para camiones de efectivo = Assesment of a mathematical model with inconsistent routing applied to cash trucks"
-  - key: giadala2023
+  - key: giadala2023control
     entry: mastersthesis
     authors:
       - "E. Giadala"
     title: "Diseño de un sistema de control de gestión utilizando un cuadro de mando integral para la empresa Áridos Cruz de Piedra Ltda"
     school: "Universidad del Bío-Bío"
-    year: "2023-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2023-2"
     ubb-WERKEN-id: "70161"
     ubb-WERKEN-call: "M(E) 621.7 G347 2023"
     ubb-WERKEN-author: "Giadala Placencia, Eduardo Ignacio"
     ubb-WERKEN-title: "Diseño de un sistema de control de gestión utilizando un cuadro de mando integral para la empresa Áridos Cruz de Piedra Ltda = Design of management control system using a balanced scorecard for Áridos Cruz de Piedra Ltda. Company"
     ubb-intranet-title: "Diseño de Sistema de Control de Gestión Utilizando un Cuadro de Mando Integral para la Empresa Áridos Cruz de Piedra Ltda.?"
-  - key: gisselponce2023
+  - key: ponce2023diagramas
     entry: mastersthesis
     authors:
       - "G. Ponce"
     title: "Optimización del uso de diagramas de corte en aserradero para reducir la diversidad de diagramas empleados en MASISA Cabrero"
     school: "Universidad del Bío-Bío"
-    year: "2023-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2023-1"
     ubb-WERKEN-id: "69534"
     ubb-WERKEN-call: "M(E) 621.7 P773 2023"
     ubb-WERKEN-author: "Ponce Vallejos, Gissel Makarena"
     ubb-WERKEN-title: "Optimización del uso de diagramas de corte en aserradero para reducir la diversidad de diagramas empleados en MASISA Cabrero = Optimization of the use of cutting diagrams in sawmills to reduce the diversity of diagrams used in MASISA Cabrero [recurso el"
     ubb-intranet-title: "Optimización del uso de diagramas de corte en aserradero para reducir la diversidad de diagramas empleados en MASISA ? Cabrero"
-  - key: rubengonzales2023co
+  - key: gonzalez2022carteras
     entry: mastersthesis
     authors:
       - "R. González"
     title: "Construcción de carteras eficientes a partir de los pronósticos de la rentabilidad de las criptomonedas"
     school: "Universidad del Bío-Bío"
-    year: "2022-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2022-2"
     ubb-WERKEN-id: "68872"
     ubb-WERKEN-call: "M(E) 621.7 G5891 2023"
     ubb-WERKEN-author: "González Saavedra, Rubén Matías"
     ubb-WERKEN-title: "Construcción de carteras eficientes a partir de los pronósticos de la rentabilidad de las criptomonedas = Building efficient portfolio based on cryptocurrency return forecasts"
     ubb-intranet-title: "Construcción de carteras eﬁcientes a partir de los pronósticos de la rentabilidad de las criptomonedas = Building eﬃcient portfolio based on cryptocurrency return forecasts"
-  - key: matiasdias2023
+  - key: diaz2022reglas
     entry: mastersthesis
     authors:
       - "M. Díaz-Palma"
     title: "Modelo de optimización de reglas de trozado en la cosecha forestal considerando diferentes funciones de ahusamiento"
     school: "Universidad del Bío-Bío"
-    year: "2022-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2022-2"
     ubb-WERKEN-id: "68524"
     ubb-WERKEN-call: "M(E) 621.7 D543 2023"
     ubb-WERKEN-author: "Díaz Palma, Matías Nicolás"
     ubb-WERKEN-title: "Modelo de optimización de reglas de trozado en la cosecha forestal considerando diferentes funciones de ahusamiento = A model of optimization of cutting rules in forestry harvesting considering different tapering functions"
-  - key: ortega2022coguia
+  - key: ortega2022tecnologias
     entry: mastersthesis
     authors:
       - "D. Ortega"
     title: "Análisis de tecnologías de información empleadas en modelos de optimización para mejorar la sustentabilidad en cadenas de suministro de productos agrícolas"
     school: "Universidad del Bío-Bío"
-    year: "2022-1"
     degree: "Ingeniería Comercial"
-  - key: garcia2022
+    year: "2022-1"
+  - key: garcia2022minimizacion
     entry: mastersthesis
     authors:
       - "K. García-Vásquez"
     title: "Evaluación y comparación de modelos de minimización de polución en el transporte de mercancías"
     school: "Universidad del Bío-Bío"
-    year: "2022-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2022-1"
     ubb-WERKEN-id: "67708"
     ubb-WERKEN-call: "M(E) 621.7 G165 2022"
     ubb-WERKEN-author: "García Vásquez, Karen Denisse"
     ubb-WERKEN-title: "Evaluación y comparación de modelos de minimización de polución en el transporte de mercancías = Evaluation and comparison of pollution minimization models in freight transportation"
-  - key: jofre2022
+  - key: jofre2022fotovoltaicos
     entry: mastersthesis
     authors:
       - "M. Jofre"
     title: "Análisis y evaluación de estrategias de mejoramiento operacional para paneles fotovoltaicos a través de machine learning de regresión"
     school: "Universidad del Bío-Bío"
-    year: "2022-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2022-1"
     ubb-intranet-title: "ANÁLISIS Y EVALUACIÓN DE ESTRATEGÍAS DE MEJORAMIENTO OPERACIONAL APRA PANELES FOTOVOLTAICOS A TRAVÉS DE MACHINE LEARNING DE REGRESIÓN"
-  - key: fernandez2022
+  - key: fernandez2022herramienta
     entry: mastersthesis
     authors:
       - "C. Fernández"
     title: "Desarrollo y evaluación de herramienta para mejorar control de mantenimientos en el taller de camiones en minera Collahuasi utilizando Visión Computarizada"
     school: "Universidad del Bío-Bío"
-    year: "2022-1"
     degree: "Ingeniería Civil Industrial"
-  - key: montero2022
+    year: "2022-1"
+  - key: montero2022beneficio
     entry: mastersthesis
     authors:
       - "C. Montero"
     title: "Evaluación del beneficio económico de tercerizar la producción de madera aserrada usando herramientas de programación lineal"
     school: "Universidad del Bío-Bío"
-    year: "2022-1"
     degree: "Ingeniería Civil Industrial"
-    ubb-intranet-title: "PROGRAMACIÓN DE LA ASIGNACIÓN DEL TRANSPORE DE CAMIONES MEDIANTE MODELACIÓN MATEMÁTICA PARA EL FORTALECIMIENTO DE LAS PYMES MADERERAS DE LA PROVINCIA DEL BÍO-BÍO"
+    year: "2022-1"
     note: "ERROR DE LA INTRANET UBB, YA RESUELTO, NO VOLVER A PREGUNTAR. La intranet (currículum académico, Dirección de tesis, 2022 / periodo 1, cierre 07-08-2022, Guía, Visado) registra para esta misma tesis de C. Montero (Claudio Andrés Montero Nahuelcura) el título 'PROGRAMACIÓN DE LA ASIGNACIÓN DEL TRANSPORE DE CAMIONES MEDIANTE MODELACIÓN MATEMÁTICA PARA EL FORTALECIMIENTO DE LAS PYMES MADERERAS DE LA PROVINCIA DEL BÍO-BÍO'. Ese título es el del aviso de exposición del seminario de titulación (jueves 07-08-2022, 18:15, Sala Multiuso I), pero la tesis real, según el informe ejecutivo del 29-07-2022, es la del título de esta entrada. No es otra tesis ni es de otro alumno."
-  - key: yanes2021
+    ubb-intranet-title: "PROGRAMACIÓN DE LA ASIGNACIÓN DEL TRANSPORE DE CAMIONES MEDIANTE MODELACIÓN MATEMÁTICA PARA EL FORTALECIMIENTO DE LAS PYMES MADERERAS DE LA PROVINCIA DEL BÍO-BÍO"
+  - key: yanez2021balanceadas
     entry: mastersthesis
     authors:
       - "F. Yáñez-Concha"
     title: "Modelos matemáticos aplicados a la generación de rutas vehiculares balanceadas para conductores y transportistas"
     school: "Universidad del Bío-Bío"
-    year: "2021-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-2"
     ubb-WERKEN-id: "67181"
     ubb-WERKEN-call: "M(E) 621.7 Y18 2022"
     ubb-WERKEN-author: "Yáñez Concha, Fernando Esteban"
     ubb-WERKEN-title: "Modelos matemáticos aplicados a la generación de rutas vehiculares balanceadas para conductores y transportistas = Mathematical models applied to the generation of balanced vehicle routes for drivers and carriers"
-  - key: santana2021
+  - key: santana2021heuristico
     entry: mastersthesis
     authors:
       - "E. Santana"
     title: "Método de solución heurístico para el problema de ruteo de vehículos consistentes"
     school: "Universidad del Bío-Bío"
-    year: "2021-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-2"
     ubb-WERKEN-id: "67183"
     ubb-WERKEN-call: "M(E) 621.7 Sa59 2022"
     ubb-WERKEN-author: "Santana Contreras, Esteban Andrés"
     ubb-WERKEN-title: "Método de solución heurístico para el problema de ruteo de vehículos consistentes"
     ubb-intranet-title: "Método de solución heurístico para el problema de ruteo de vehículos consistentes"
-  - key: yamil2021
+  - key: chandia2021contrastar
     entry: mastersthesis
     authors:
       - "Y. Chandía-Rodríguez"
     title: "Contrastar Políticas Activas del Mercado Laboral Valorando los Flujos del Mercado Laboral Chileno 1996-2019"
     school: "Universidad del Bío-Bío"
-    year: "2021-2"
     degree: "Ingeniería Civil Industrial"
-  - key: cramos2021
+    year: "2021-2"
+  - key: ramos2021bim
     entry: mastersthesis
     authors:
       - "C. Ramos"
     title: "Evaluación de la aplicación de la metodología BIM/AWP al proyecto Mina Chuquicamata Subterráneo y el potencial impacto en la productividad de los procesos constructivos"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-1"
     ubb-WERKEN-id: "66392"
     ubb-WERKEN-call: "M(E) 621.7 R147 2021"
     ubb-WERKEN-author: "Ramos Ambiado, Carlos Andrés"
     ubb-WERKEN-title: "Evaluación de la aplicación de la metodología BIM/AWP al proyecto Mina Chuquicamata Subterráneo y el potencial impacto en la productividad de los procesos constructivos"
-  - key: ccataldo2021
+  - key: cataldo2021evrpmilp
     entry: mastersthesis
     authors:
       - "C. Cataldo-Díaz"
     title: "Modelos de programación lineal entera mixta para resolver el problema de ruteo de vehículos considerando los estados de carga de la baterías"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Ingeniería Civil Industrial"
-  - key: dmaya2021
+    year: "2021-1"
+  - key: maya2021orienteering
     entry: mastersthesis
     authors:
       - "D. Maya-Contreras"
     title: "Formulación del Orienteering Problem With Time Windows que genera rutas personalizadas para asistentes de festivales de música a partir de sus intereses musicales"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-1"
     ubb-WERKEN-id: "66372"
     ubb-WERKEN-call: "M(E) 621.7 M451 2021"
     ubb-WERKEN-author: "Maya Contreras, Denais Michelle"
     ubb-WERKEN-title: "Formulación del Orienteering Problem With Time Windows que genera rutas personalizadas para asistentes de festivales de música a partir de sus intereses musicales = A formulation of the Orienteering Problem With Time Windows that generates personalized ro"
     ubb-intranet-title: "Formulación del Orienteering Problem With Time Windows que genera rutas personalizadas para asistentes de festivales de música a partir de sus intereses musicales = A formulation of the Orienteering Problem With Time Windows that generates personalized ro"
-  - key: fcorral2021
+  - key: corral2021laboral
     entry: mastersthesis
     authors:
       - "F. Corral"
     title: "Evaluación de la programación laboral y eficiencia de proyectos de construcción a través de un modelo de optimización multiobjetivo en el contexto de la pandemia Covid-19"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-1"
     ubb-WERKEN-id: "66355"
     ubb-WERKEN-call: "M(E) 621.7 C817 2021"
     ubb-WERKEN-author: "Corral Marchant, Federico Eduardo"
     ubb-WERKEN-title: "Evaluación de la programación laboral y eficiencia de proyectos de construcción a través de un modelo de optimización multiobjetivo en el contexto de la pandemia Covid-19 = Evaluation of work scheduling and construction projects efficiency through a multi"
     ubb-intranet-title: "Evaluación de la programación laboral y eﬁciencia de proyectos de construcción a través de un modelo de optimización multiobjetivo en el contexto de la pandemia Covid-19 = Evaluation of work scheduling and construction projects eﬃciency through a multi"
-  - key: gflores2021
+  - key: flores2021herramienta
     entry: mastersthesis
     authors:
       - "G. Flores"
     title: "Propuesta de una herramienta de gestión del aprovisionamiento para la Distribuidora Adam Cañete"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-1"
     ubb-WERKEN-id: "66360"
     ubb-WERKEN-call: "M(E) 621.7 F663 2021"
     ubb-WERKEN-author: "Flores Salazar, Guillermo Alejandro"
     ubb-WERKEN-title: "Propuesta de una herramienta de gestión del aprovisionamiento para la Distribuidora Adam Cañete"
     ubb-intranet-title: "Propuesta de una herramienta de gestión del aprovisionamiento para la Distribuidora Adam Cañete"
-  - key: mchacano2021
+  - key: chacano2021renovacion
     entry: mastersthesis
     authors:
       - "M. Chacano"
     title: "Renovación de activos físicos mediante un modelo AHP híbrido"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-1"
     ubb-WERKEN-id: "66354"
     ubb-WERKEN-call: "M(E) 621.7 Ch343 2021"
     ubb-WERKEN-author: "Chacano Troncoso, Mario Alberto"
     ubb-WERKEN-title: "Renovación de activos físicos mediante un modelo AHP híbrido = Renewal physical assets though an Hybrid Analytical Hhierarchy Process Model"
     ubb-intranet-title: "Renovación de activos físicos mediante un modelo AHP híbrido = Renewal physical assets though an Hybrid Analytical Hhierarchy Process Model"
-  - key: mnunez2021
+  - key: nunez2021entregas
     entry: mastersthesis
     authors:
       - "M. Núñez-Muñoz"
     title: "Diseño de un modelo de optimización para la programación de entregas de Centro de Distribución de la Empresa Transportes Supertrans Ltda"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-1"
     ubb-WERKEN-id: "66381"
     ubb-WERKEN-call: "M(E) 621.7 N927 2021"
     ubb-WERKEN-author: "Núñez Muñoz, Matías Felipe"
     ubb-WERKEN-title: "Diseño de un modelo de optimización para la programación de entregas de Centro de Distribución de la Empresa Transportes Supertrans Ltda. = Optimization model design for the delivery schedule of a Distribution Center of the Company Transportes Supertrans"
     ubb-intranet-title: "Diseño de un modelo de optimización para la programación de entregas de Centro de Distribución de la Empresa Transportes Supertrans Ltda. = Optimization model design for the delivery schedule of a Distribution Center of the Company Transportes Supertrans"
-  - key: mhoffmann2021
+  - key: hoffmann2021cosecha
     entry: mastersthesis
     authors:
       - "M. Hoffmann"
     title: "Propuesta de un modelo matemático que integre la planificacíon táctica entre cosecha y aserraderos usando generación de columna"
     school: "Universidad del Bío-Bío"
-    year: "2021-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2021-1"
     ubb-WERKEN-id: "66367"
     ubb-WERKEN-call: "M(E) 621.7 H675 2021"
     ubb-WERKEN-author: "Hoffmann Iturra, Maverich Harrison"
     ubb-WERKEN-title: "Propuesta de un modelo matemático que integre la planificacíon táctica entre cosecha y aserraderos usando generación de columna = Proposal of a mathematical model that integrates tactical planning between foresty harvesting and sawmills using column gener"
-  - key: neira2021
+  - key: neira2020almacenes
     entry: mastersthesis
     authors:
       - "B. Neira"
     title: "Propuesta de mejora en los procesos de almacenes de una empresa de servicios eléctricos"
     school: "Universidad del Bío-Bío"
-    year: "2020-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2020-2"
     ubb-WERKEN-id: "66380"
     ubb-WERKEN-call: "M(E) 621.7 N317 2021"
     ubb-WERKEN-author: "Neira Silva, Bastián Andrés"
     ubb-WERKEN-title: "Propuesta de mejora en los procesos de almacenes de una empresa de servicios eléctricos = Proposal for improvement in the warehouse processes of an Electrical Services Company"
-  - key: valenzuela2021
+  - key: valenzuela2020localizacion
     entry: mastersthesis
     authors:
       - "B. Valenzuela-Fonseca"
     title: "Localización de personas para disminuir la posibilidad de contagio de Covid-19"
     school: "Universidad del Bío-Bío"
-    year: "2020-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2020-2"
     ubb-WERKEN-id: "66493"
     ubb-WERKEN-call: "M(E) 621.7 V2351 2021"
     ubb-WERKEN-author: "Valenzuela Fonseca, Brenda Andrea"
     ubb-WERKEN-title: "Localización de personas para disminuir la posibilidad de contagio de Covid-19 = Location of people to reduce the possibility of contagion of covid-19"
     ubb-intranet-title: "Localización de personas para disminuir la posibilidad de contagio de Covid-19 = Location of people to reduce the possibility of contagion of covid-19"
-  - key: rosas2021
+  - key: rosas2020negocio
     entry: mastersthesis
     authors:
       - "I. Rosas"
     title: "Plan de negocio para la fabricación y comercialización de jabones hechos a partir de aceite vegetal reciclado de uso doméstico en el Gran Concepción"
     school: "Universidad del Bío-Bío"
-    year: "2020-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2020-2"
     ubb-WERKEN-id: "66395"
     ubb-WERKEN-call: "M(E) 621.7 R714 2021"
     ubb-WERKEN-author: "Rosas Molina, Ignacio Alfonso"
     ubb-WERKEN-title: "Plan de negocio para la fabricación y comercialización de jabones hechos a partir de aceite vegetal reciclado de uso doméstico en el Gran Concepción = Business plan for the manufacture and marketing of soap made from recycled vegetable oil for domestic u"
-  - key: villa2020
+  - key: villa2020manual
     entry: mastersthesis
     authors:
       - "D. Villa"
     title: "Manual de procedimientos para el proceso de aprobación de proyectos de agua potable y alcantarillado"
     school: "Universidad del Bío-Bío"
-    year: "2020-2"
     degree: "Ingeniería Civil Industrial"
-  - key: sanhueza2020
+    year: "2020-2"
+  - key: sanhueza2020factibilidad
     entry: mastersthesis
     authors:
       - "N. Sanhueza"
     title: "Estudio de factibilidad para la implementacion de un cesfam"
     school: "Universidad del Bío-Bío"
-    year: "2020-1"
     degree: "Ingeniería Civil Industrial"
-  - key: riffo2020
+    year: "2020-1"
+  - key: riffo2020crecimiento
     entry: mastersthesis
     authors:
       - "J. Riffo"
     title: "Diseño de una estrategia de crecimiento para una microempresa"
     school: "Universidad del Bío-Bío"
-    year: "2020-1"
     degree: "Ingeniería Civil Industrial"
-  - key: torres2020
+    year: "2020-1"
+  - key: torres2020cuadro
     entry: mastersthesis
     authors:
       - "F. Torres"
     title: "Diseño de un cuadro de mando integral como modelo de gestión"
     school: "Universidad del Bío-Bío"
-    year: "2020-1"
     degree: "Ingeniería Civil Industrial"
-  - key: cabrera2020
+    year: "2020-1"
+  - key: cabrera2020herramientas
     entry: mastersthesis
     authors:
       - "C. Cabrera"
     title: "Aplicación de herramientas lean y mejora continua, para la obtención de logros de productividad en el área de planta térmica"
     school: "Universidad del Bío-Bío"
-    year: "2020-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2020-1"
     ubb-WERKEN-id: "66352"
     ubb-WERKEN-call: "M(E) 621.7 C112 2020"
     ubb-WERKEN-author: "Cabrera Cifuentes, Cristian Alejandro"
     ubb-WERKEN-title: "Aplicación de herramientas lean y mejora continua, para la obtención de logros de productividad en el área de planta térmica"
-  - key: cisterna2020
+  - key: cisternas2020inventario
     entry: mastersthesis
     authors:
       - "C. Cisternas"
     title: "Propuesta de mejora para la gestión de inventario en la Empresa Sergio Escobar y Cía. Ltda"
     school: "Universidad del Bío-Bío"
-    year: "2020-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2020-1"
     ubb-WERKEN-id: "66598"
     ubb-WERKEN-call: "M(E) 621.7 C497 2020"
     ubb-WERKEN-author: "Cisternas Sáez, Claudio Esteban"
     ubb-WERKEN-title: "Propuesta de mejora para la gestión de inventario en la Empresa Sergio Escobar y Cía. Ltda."
-  - key: yevenes2020
+  - key: yevenes2020continua
     entry: mastersthesis
     authors:
       - "C. Yevenes"
     title: "Diseño e implementación de un modelo de mejora continua utilizando herramientas de lean manufacturing"
     school: "Universidad del Bío-Bío"
-    year: "2020-1"
     degree: "Ingeniería Civil Industrial"
-  - key: castillo2020
+    year: "2020-1"
+  - key: castillo2020patrones
     entry: mastersthesis
     authors:
       - "C. Castillo"
     title: "Optimización de patrones de corte para aserraderos forestales mediante el uso de modelos matemáticos"
     school: "Universidad del Bío-Bío"
-    year: "2020-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2020-1"
     ubb-WERKEN-id: "66353"
     ubb-WERKEN-call: "M(E) 621.7 C278 2020"
     ubb-WERKEN-author: "Castillo Pardo, Carlos Hernán"
     ubb-WERKEN-title: "Optimización de patrones de corte para aserraderos forestales mediante el uso de modelos matemáticos = Optimization of sawing patterns at sawmills using mathematical models"
-  - key: mbus2019roa
+  - key: roa2019multiobjetivo
     entry: mastersthesis
     authors:
       - "M. Roa"
     title: "Problema multiobjetivo en el ruteo de vehículos con múltiples depósitos aplicado a la logística de desastre"
     school: "Universidad del Bío-Bío"
-    year: "2019-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2019-2"
     ubb-WERKEN-id: "65724"
     ubb-WERKEN-call: "M(DC) 621.7 R53 2019"
     ubb-WERKEN-author: "Roa Lagos, Matías Ignacio"
     ubb-WERKEN-title: "Problema multiobjetivo en el ruteo de vehículos con múltiples depósitos aplicado a la logística de desastre = Multiobjective problem in the routing of vehicles with multiple deposits applied to disaster logistics"
-  - key: jara2020
+  - key: jara2019planificacion
     entry: mastersthesis
     authors:
       - "J. Jara"
     title: "Diseño de una propuesta de planificacion estratégica"
     school: "Universidad del Bío-Bío"
-    year: "2019-2"
     degree: "Ingeniería Civil Industrial"
-  - key: ramirez2020
+    year: "2019-2"
+  - key: ramirez2019cuadro
     entry: mastersthesis
     authors:
       - "F. Ramírez"
     title: "Diseño de cuadro de mando integral"
     school: "Universidad del Bío-Bío"
-    year: "2019-2"
     degree: "Ingeniería Civil Industrial"
-  - key: cichella2020
+    year: "2019-2"
+  - key: cichella2019seguimiento
     entry: mastersthesis
     authors:
       - "A. Cichella"
     title: "Propuesta de mejora del proceso de seguimiento de clientes con financiamiento aplicando metodologia lean seis sigma"
     school: "Universidad del Bío-Bío"
-    year: "2019-2"
     degree: "Ingeniería Civil Industrial"
-  - key: mbus2019soto
+    year: "2019-2"
+  - key: soto2019penalizacion
     entry: mastersthesis
     authors:
       - "M. Soto-Bustos"
     title: "Análisis de problema de ruteo de vehículos con tiempos de llegada obligatorios y penalización por mantenimientos aplazados"
     school: "Universidad del Bío-Bío"
-    year: "2019-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2019-1"
     ubb-WERKEN-id: "65765"
     ubb-WERKEN-call: "M(DC) 621.7 So78 2019"
     ubb-WERKEN-author: "Soto Bustos, Mauricio Andrés"
     ubb-WERKEN-title: "Análisis de problema de ruteo de vehículos con tiempos de llegada obligatorios y penalización por mantenimientos aplazados = analysis of a vehicle routine problem with arrival times and delayed maintenance penalty"
-  - key: jara2019
+  - key: jara2019inventario
     entry: mastersthesis
     authors:
       - "Y. Jara"
     title: "Propuesta para la gestión de inventario de insumos clínicos y fármacos en Clidial S.A"
     school: "Universidad del Bío-Bío"
-    year: "2019-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2019-1"
     ubb-WERKEN-id: "65778"
     ubb-WERKEN-call: "M(DC) 621.7 J281 2019"
     ubb-WERKEN-author: "Jara Fica, Yenifer Elizabeth"
     ubb-WERKEN-title: "Propuesta para la gestión de inventario de insumos clínicos y fármacos en Clidial S.A."
-  - key: yanez2019
+  - key: yanez2019regresion
     entry: mastersthesis
     authors:
       - "C. Yañez"
     title: "Aplicación del modelo de regresión múltiple y series de tiempo para la ocurrencia de licencias médicas en Jardines Junji VTF en la comuna de Penco"
     school: "Universidad del Bío-Bío"
-    year: "2019-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2019-1"
     ubb-WERKEN-id: "65841"
     ubb-WERKEN-call: "M(DC) 621.7 Y18 2019"
     ubb-WERKEN-author: "Yañez Medina, Carmen Gloria"
     ubb-WERKEN-title: "Aplicación del modelo de regresión múltiple y series de tiempo para la ocurrencia de licencias médicas en Jardines Junji VTF en la comuna de Penco"
-  - key: merino2019
+  - key: merino2019produccion
     entry: mastersthesis
     authors:
       - "C. Merino"
     title: "Propuesta de mejora para el proceso de producción de máquina bobinadora mediante la metodología SMED en FPC Tissue"
     school: "Universidad del Bío-Bío"
-    year: "2019-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2019-1"
     ubb-WERKEN-id: "65899"
     ubb-WERKEN-call: "M(DC) 621.7 M545 2019"
     ubb-WERKEN-author: "Merino Molina, Camilo Eduardo"
     ubb-WERKEN-title: "Propuesta de mejora para el proceso de producción de máquina bobinadora mediante la metodología SMED en FPC Tissue"
-  - key: meza2019
+  - key: meza2019logistica
     entry: mastersthesis
     authors:
       - "C. Meza"
     title: "Propuesta de gestión administrativa en el área de logítica y cadena de suministro en FPC Tissue S.A. utilizando la filosofía Lean Thinking"
     school: "Universidad del Bío-Bío"
-    year: "2019-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2019-1"
     ubb-WERKEN-id: "65759"
     ubb-WERKEN-call: "M(DC) 621.7 M579 2019"
     ubb-WERKEN-author: "Meza Gutiérrez, Camila Pía"
     ubb-WERKEN-title: "Propuesta de gestión administrativa en el área de logítica y cadena de suministro en FPC Tissue S.A. utilizando la filosofía Lean Thinking [disco compacto["
-  - key: ormeno2019
+  - key: ormeno2018recoleccion
     entry: mastersthesis
     authors:
       - "P. Ormeño"
     title: "Propuesta de un modelo matemático, basado en distritos sectoriales aplicado para el cálculo de camiones recolectores de residuos sólidos domiciliarios en la comuna de Santa Bárbara y localidad de Paillihue, comuna de los Angeles Región del BíoBío Chile"
     school: "Universidad del Bío-Bío"
-    year: "2018-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2018-2"
     ubb-WERKEN-id: "65058"
     ubb-WERKEN-call: "M(DC) 621.7 Or5 2019"
     ubb-WERKEN-author: "Ormeño Gallegos, Pablo César"
     ubb-WERKEN-title: "Propuesta de un modelo matemático, basado en distritos sectoriales aplicado para el cálculo de camiones recolectores de residuos sólidos domiciliarios en la comuna de Santa Bárbara y localidad de Paillihue, comuna de los Angeles Región del BíoBío Chile ["
-  - key: cvrp2018lucas
+  - key: barros2018consistente
     entry: mastersthesis
     authors:
       - "L. Barros"
     title: "Modelo y solución para el problema ruteo consistente de vehículos"
     school: "Universidad del Bío-Bío"
-    year: "2018-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2018-2"
     ubb-WERKEN-id: "64446"
     ubb-WERKEN-call: "M(DC) 621.7 B278 2019"
     ubb-WERKEN-author: "Barros Lebanek, Lucas"
     ubb-WERKEN-title: "Modelo y solución para el problema ruteo consistente de vehículos"
     ubb-intranet-title: "Método de solución heurístico para el problema de ruteo de vehículos consistentes"
-  - key: enap2018venegasdelgado
+  - key: venegas2018vapor
     entry: mastersthesis
     authors:
       - "C. Venegas"
       - "A. Delgado"
     title: "Propuestas de mejoras para la gestión de mantenimiento en las trampas de vapor de Enap Refinería Bío Bío"
     school: "Universidad del Bío-Bío"
-    year: "2018-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2018-2"
     ubb-WERKEN-id: "65137"
     ubb-WERKEN-call: "M(DC) 621.7 V554 2019"
     ubb-WERKEN-author: "Venegas Puentes, Carlos Jorge"
     ubb-WERKEN-title: "Propuestas de mejoras para la gestión de mantenimiento en las trampas de vapor de Enap Refinería Bío Bío"
-  - key: dialum2018fernandez
+  - key: fernandez2018registro
     entry: mastersthesis
     authors:
       - "A. Fernández"
     title: "Propuesta de mejora para el registro y control de inventario utilizado en la Planta Dialum Concepción"
     school: "Universidad del Bío-Bío"
-    year: "2018-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2018-2"
     ubb-WERKEN-id: "64704"
     ubb-WERKEN-call: "M(DC) 621.7 F391 2019"
     ubb-WERKEN-author: "Fernández Merino, Ariel Alexis"
     ubb-WERKEN-title: "Propuesta de mejora para el registro y control de inventario utilizado en la Planta Dialum Concepción"
-  - key: correa2018
+  - key: correa2018camiones
     entry: mastersthesis
     authors:
       - "G. Correa"
     title: "Diseño de un modelo de optimización para la programación de camiones entrantes y salientes de un centro de distribución con una zona de andenes mixtos"
     school: "Universidad del Bío-Bío"
-    year: "2018-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2018-1"
     ubb-WERKEN-id: "64668"
     ubb-WERKEN-call: "M(DC) 621.7 C817 2018"
     ubb-WERKEN-author: "Correa Issi, Gustavo Manuel"
-  - key: cortez2018
+  - key: cortez2018estandarizacion
     entry: mastersthesis
     authors:
       - "C. Cortez"
     title: "Propuesta de estandarización de la implementación del mantenimiento productivo total para una empresa de consumo masivo"
     school: "Universidad del Bío-Bío"
-    year: "2018-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2018-1"
     ubb-WERKEN-id: "64671"
     ubb-WERKEN-call: "M(DC) 621.7 C818 2018"
     ubb-WERKEN-author: "Cortez Peña, Carolina Pilar del Carmen"
-  - key: osorio2018
+  - key: osorio2018hub
     entry: mastersthesis
     authors:
       - "A. Osorio-Mora"
     title: "Aplicación del capacitated hub location problem en el transporte multimodal de carga de la meso región Maule - Los Lagos"
     school: "Universidad del Bío-Bío"
-    year: "2018-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2018-1"
     ubb-WERKEN-id: "64250"
     ubb-WERKEN-call: "M(DC) 621.7 Os5 2018"
     ubb-WERKEN-author: "Osorio Mora, Alan Rodolfo"
     ubb-WERKEN-title: "Aplicación del capacitated hub location problem en el transporte multimodal de carga de la meso región Maule - Los Lagos"
-  - key: neira2017
+  - key: neira2017timetabling
     entry: mastersthesis
     authors:
       - "S. Neira"
     title: "Modelo de programación lineal entera para abordar el problema de timetabling en la Universidad del Bío-Bío"
     school: "Universidad del Bío-Bío"
-    year: "2017-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2017-2"
     ubb-WERKEN-id: "64241"
     ubb-WERKEN-call: "M(DC) 621.7 N317 2018"
     ubb-WERKEN-author: "Neira Maldonado, Sebastián Enrique autor"
     ubb-WERKEN-title: "Modelo de programación lineal entera para abordar el problema de timetabling en la Universidad del Bío-Bío"
-  - key: contreras2017
+  - key: contreras2017multiples
     entry: mastersthesis
     authors:
       - "D. Contreras"
     title: "Modelo para el problema de múltiples vendedores viajeros con demanda compartida aplicado al mantenimiento de áreas verdes"
     school: "Universidad del Bío-Bío"
-    year: "2017-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2017-2"
     ubb-WERKEN-id: "64654"
     ubb-WERKEN-call: "M(DC) 621.7 C768 2018"
     ubb-WERKEN-author: "Contreras Sandoval, Daniela Paz"
     ubb-WERKEN-title: "Modelo para el problema de múltiples vendedores viajeros con demanda compartida aplicado al mantenimiento de áreas verdes"
-  - key: flores2017
+  - key: flores2017planificacion
     entry: mastersthesis
     authors:
       - "C. Flores-Fonseca"
     title: "Modelos de programación lineal para la planificación de la producción considerando uso de stockpiles y el secuenciamiento de palas en Minas Open Pit"
     school: "Universidad del Bío-Bío"
-    year: "2017-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2017-2"
     ubb-WERKEN-id: "64538"
     ubb-WERKEN-call: "M(DC) 621.7 F663 2018"
     ubb-WERKEN-author: "Flores Fonseca, César Matías"
     ubb-WERKEN-title: "Modelos de programación lineal para la planificación de la producción considerando uso de stockpiles y el secuenciamiento de palas en Minas Open Pit"
-  - key: jara2017
+  - key: jara2017cogeneracion
     entry: mastersthesis
     authors:
       - "C. Jara"
     title: "Estudio y diseño de un sistema de cogeneración de energía para el Hospital Clínico Guillermo Grant Benavente"
     school: "Universidad del Bío-Bío"
-    year: "2017-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2017-2"
     ubb-WERKEN-id: "63232"
     ubb-WERKEN-call: "M(DC) 621.7 J281 2017"
     ubb-WERKEN-author: "Jara Varela, Carolina Vanessa"
     ubb-WERKEN-title: "Estudio y diseño de un sistema de cogeneración de energía para el Hospital Clínico Guillermo Grant Benavente"
-  - key: carcamo2017
+  - key: carcamo2017reoptimizacion
     entry: mastersthesis
     authors:
       - "S. Cárcamo"
     title: "Heurística de reoptimización para el problema de ruteo de vehículos"
     school: "Universidad del Bío-Bío"
-    year: "2017-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2017-1"
     ubb-WERKEN-id: "62094"
     ubb-WERKEN-call: "M(DC) 621.7 C177 2017"
     ubb-WERKEN-author: "Cárcamo Jara, Sergio Israel"
     ubb-WERKEN-title: "Heurística de reoptimización para el problema de ruteo de vehículos"
-  - key: lopez2017
+  - key: lopez2017negocios
     entry: mastersthesis
     authors:
       - "P. López"
     title: "Plan de negocios para la creacion de una empresa de aseo industrial"
     school: "Universidad del Bío-Bío"
-    year: "2017-1"
     degree: "Ingeniería Civil Industrial"
-  - key: marion2016
+    year: "2017-1"
+  - key: riquelme2016asignacion
     entry: mastersthesis
     authors:
       - "M. Riquelme"
     title: "Propuesta de programación y asignación de clientes para las rutas transporte de la empresa procesos sanitarios spa"
     school: "Universidad del Bío-Bío"
-    year: "2016-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2016-2"
     ubb-WERKEN-id: "63975"
     ubb-WERKEN-call: "M(DC) 621.7 R4871 2017"
     ubb-WERKEN-author: "Riquelme Ruiz, Marion Katherine"
     ubb-WERKEN-title: "Propuesta de programación y asignación de clientes para las rutas transporte de la empresa procesos sanitarios spa"
-  - key: escalona2016
+  - key: escalona2016hibrido
     entry: mastersthesis
     authors:
       - "J. Escalona"
     title: "Algoritmo híbrido de dos fases para el problema de asignación y ruteo periódico de vehículos en la entrega de medicamentos a pacientes con alto grado de dependencia"
     school: "Universidad del Bío-Bío"
-    year: "2016-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2016-2"
     ubb-WERKEN-id: "61541"
     ubb-WERKEN-call: "M(DC) 621.7 Es14 2017"
     ubb-WERKEN-author: "Escalona Vidal, Juan Edgardo"
-  - key: nayaret2016
+  - key: cifuentes2016solvers
     entry: mastersthesis
     authors:
       - "N. Cifuentes"
     title: "Comparación de solvers comerciales para un problema de máquinas paralelas no relacionadas en área de secado, Aserraderos Arauco S.A., Planta Nueva Aldea"
     school: "Universidad del Bío-Bío"
-    year: "2016-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2016-1"
     ubb-WERKEN-id: "60323"
     ubb-WERKEN-call: "M(DC) 621.7 C487 2016"
     ubb-WERKEN-author: "Cifuentes Tapia, Nayaret Solange"
     ubb-WERKEN-title: "Comparación de solvers comerciales para un problema de máquinas paralelas no relacionadas en área de secado, Aserraderos Arauco S.A., Planta Nueva Aldea"
-  - key: valdes2016
+  - key: valdes2016estrategico
     entry: mastersthesis
     authors:
       - "D. Valdés"
     title: "Diseño estratégico de la cadena de suministro para empresa productora y comercializadora de prefabricado de hormigón"
     school: "Universidad del Bío-Bío"
-    year: "2016-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2016-1"
     ubb-WERKEN-id: "60373"
     ubb-WERKEN-call: "M(DC) 621.7 V233 2016"
     ubb-WERKEN-author: "Valdés Ponce, Darling Damaris"
     ubb-WERKEN-title: "Diseño estratégico de la cadena de suministro para empresa productora y comercializadora de prefabricado de hormigón"
-  - key: VillablancaMoncada2015
+  - key: villablanca2015eficiencia
     entry: mastersthesis
     authors:
       - "R. Villablanca"
       - "I. Moncada"
     title: "Propuesta de mejora de la eficiencia energética del proceso de molienda de cemento"
     school: "Universidad del Bío-Bío"
-    year: "2015-2"
     degree: "Ingeniería Civil Industrial"
-  - key: mmartinez2015
+    year: "2015-2"
+  - key: martinez2015modificaciones
     entry: mastersthesis
     authors:
       - "M. Martínez"
     title: "Propuesta de modificaciones para la disminución de tiempo por cambios de moldes en prensa para Planta Masonite Chile S.A"
     school: "Universidad del Bío-Bío"
-    year: "2015-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2015-2"
     ubb-WERKEN-id: "60126"
     ubb-WERKEN-call: "M(DC) 621.7 M3661 2015"
     ubb-WERKEN-author: "Martínez Morales, Mariana Soledad"
     ubb-WERKEN-title: "Propuesta de modificaciones para la disminución de tiempo por cambios de moldes en prensa para Planta Masonite Chile S.A."
-  - key: dbarria2015
+  - key: barria2015prediccion
     entry: mastersthesis
     authors:
       - "D. Barría"
     title: "Propuesta de implementación de un sistema de predicción de demanda y revisión de inventarios de medicamentos del CESFAM Paulina Averndaño Pereda de la comuna de Talcahuano"
     school: "Universidad del Bío-Bío"
-    year: "2015-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2015-2"
     ubb-WERKEN-id: "60134"
     ubb-WERKEN-call: "M(DC) 621.7 B276 2016"
     ubb-WERKEN-author: "Barría Durán, Diego Alejandro"
     ubb-WERKEN-title: "Propuesta de implementación de un sistema de predicción de demanda y revisión de inventarios de medicamentos del CESFAM Paulina Averndaño Pereda de la comuna de Talcahuano"
-  - key: ulloa2015
+  - key: ulloa2015reduccion
     entry: mastersthesis
     authors:
       - "A. Ulloa"
     title: "Propuesta para la reducción de tiempos muertos por cambio de programa en área de cepillado mediante el uso de herramienta SMED, Aserradero El Colorado, Arauco S.A"
     school: "Universidad del Bío-Bío"
-    year: "2015-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2015-2"
     ubb-WERKEN-id: "59927"
     ubb-WERKEN-call: "M(DC) 621.7 Ul4 2016"
     ubb-WERKEN-author: "Ulloa Giacomozzi, Alejandra Victoria"
     ubb-WERKEN-title: "Propuesta para la reducción de tiempos muertos por cambio de programa en área de cepillado mediante el uso de herramienta SMED, Aserradero El Colorado, Arauco S.A."
-  - key: czambrano2015
+  - key: zambrano2015integrado
     entry: mastersthesis
     authors:
       - "C. Zambrano"
     title: "Elaboración de un modelo matemático integrado para el fixture y la asignación de arbitros del campeonato nacional de fútbol y otros deportes"
     school: "Universidad del Bío-Bío"
-    year: "2015-1"
     degree: "Ingeniería Civil Industrial"
-  - key: cmandiola2015
+    year: "2015-1"
+  - key: mandiola2015vehiculos
     entry: mastersthesis
     authors:
       - "C. Mandiola"
     title: "Una heuristica para el problema de ruteo de vehiculos con capacidad y autonomia limitada de baterias"
     school: "Universidad del Bío-Bío"
-    year: "2015-1"
     degree: "Ingeniería Civil Industrial"
-  - key: cgarreton2015
+    year: "2015-1"
+  - key: garreton2015planificacion
     entry: mastersthesis
     authors:
       - "C. Garretón"
     title: "Implementación de un sistema de planificación y control de avance de proyectos, mediante software ERP, para mejorar la gestión dentro de una empresa prestadora de servicios de ingeniería"
     school: "Universidad del Bío-Bío"
-    year: "2015-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2015-1"
     ubb-WERKEN-id: "58559"
     ubb-WERKEN-call: "M(DC) 621.7 G192 2015"
     ubb-WERKEN-author: "Garretón Castillo, Carolina Alejandra"
-  - key: sfuentealba2014
+  - key: fuentealba2014apoyo
     entry: mastersthesis
     authors:
       - "S. Fuentealba"
     title: "Propuesta de modelo matemático para el apoyo de la toma de decisiones de planificación táctica entre cosecha forestal y aserraderos"
     school: "Universidad del Bío-Bío"
-    year: "2014-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2014-2"
     ubb-WERKEN-id: "58392"
     ubb-WERKEN-call: "M(DC) 621.7 F9521 2015"
     ubb-WERKEN-author: "Fuentealba Rivas, Sebastián Alejandro"
-  - key: maraneda2014
+  - key: araneda2014calidad
     entry: mastersthesis
     authors:
       - "M. Araneda"
     title: "Propuesta de un sistema de gestión de calidad y seguridad alimentaria, basado en la International Featured Standards IFS Food, en fábrica de hielo en escamas Gutimar S. A"
     school: "Universidad del Bío-Bío"
-    year: "2014-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2014-2"
     ubb-WERKEN-id: "58337"
     ubb-WERKEN-call: "M(DC) 621.7 Ar14 2014"
     ubb-WERKEN-author: "Araneda Parra, Marcelo René"
     ubb-WERKEN-title: "Propuesta de un sistema de gestión de calidad y seguridad alimentaria, basado en la International Featured Standards IFS Food, en fábrica de hielo en escamas Gutimar S. A."
-  - key: ccarrillo2014
+  - key: carrillo2014competencias
     entry: mastersthesis
     authors:
       - "C. Carrillo"
     title: "Implementación de un modelo de gestión por competencias para la industria de las bebidas. Caso: linea productiva de una empresa"
     school: "Universidad del Bío-Bío"
-    year: "2014-2"
     degree: "Ingeniería Civil Industrial"
-  - key: portiz2014
+    year: "2014-2"
+  - key: ortiz2014albergues
     entry: mastersthesis
     authors:
       - "P. Ortiz"
     title: "Localización y asignación de albergues temporales de emergencia en el Gran Concepción, Chile"
     school: "Universidad del Bío-Bío"
-    year: "2014-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2014-1"
     ubb-WERKEN-call: "M(DC) 621.7 Or8 2014"
-  - key: ceballos2014
+  - key: ceballos2014iso9001
     entry: mastersthesis
     authors:
       - "J. Ceballos"
       - "G. Sanhueza"
     title: "Bases para el diseño de un sistema de gestión de calidad según la norma ISO 9001:2008 en una PYME del sector de la construcción : caso Constructora Nicolás Martínez Zapata"
     school: "Universidad del Bío-Bío"
-    year: "2014-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2014-1"
     ubb-WERKEN-id: "58046"
     ubb-WERKEN-call: "M(DC) 621.7 C321 2014"
     ubb-WERKEN-author: "Ceballos Troncoso, Jorge Eduardo"
     ubb-WERKEN-title: "Bases para el diseño de un sistema de gestión de calidad según la norma ISO 9001:2008 en una PYME del sector de la construcción : caso Constructora Nicolás Martínez Zapata"
-  - key: gonzales2013
+  - key: gonzalez2013pronostico
     entry: mastersthesis
     authors:
       - "R. González"
     title: "Desarrollo de modelos de inventario bajo técnicas de pronóstico para la sección control de existencias Cap Acero"
     school: "Universidad del Bío-Bío"
-    year: "2013-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2013-2"
     ubb-WERKEN-id: "57161"
     ubb-WERKEN-call: "M(DC) 621.7 G589 2014"
     ubb-WERKEN-author: "González Vivanco, Raúl Alejandro"
     ubb-WERKEN-title: "Desarrollo de modelos de inventario bajo técnicas de pronóstico para la sección control de existencias Cap Acero"
-  - key: mmarin2014
+  - key: marin2013produccion
     entry: mastersthesis
     authors:
       - "M. Marín"
     title: "Estudio de técnicas de programación para la producción de madera cepillada"
     school: "Universidad del Bío-Bío"
-    year: "2013-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2013-2"
     ubb-WERKEN-id: "57433"
     ubb-WERKEN-call: "M(DC) 621.7 M338 2014"
     ubb-WERKEN-author: "Marín Licanleo, Marcelo Alejandro"
     ubb-WERKEN-title: "Estudio de técnicas de programación para la producción de madera cepillada"
-  - key: zapata201x
+  - key: zapata2013minimizacion
     entry: mastersthesis
     authors:
       - "J. Zapata"
     title: "Minimización del tiempo de completación del proceso de secado en un aserradero mediante un método híbrido en Arauco S. A. planta Cholguán"
     school: "Universidad del Bío-Bío"
-    year: "2013-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2013-2"
     ubb-WERKEN-id: "56932"
     ubb-WERKEN-call: "M(DC) 621.7 Z17 2014"
     ubb-WERKEN-author: "Zapata Monsalve, Jaime Eduardo"
     ubb-WERKEN-title: "Minimización del tiempo de completación del proceso de secado en un aserradero mediante un método híbrido en Arauco S. A. planta Cholguán"
-  - key: diazgarrido2013
+  - key: diaz2013materiaprima
     entry: mastersthesis
     authors:
       - "I. Díaz"
       - "C. Garrido"
     title: "Propuesta de mejora del proceso productivo del área de preparación de materia prima de la empresa Block & Cutstock : usando la simulación como herramienta de apoyo para la toma de decisiones"
     school: "Universidad del Bío-Bío"
-    year: "2013-2"
     degree: "Ingeniería Civil Industrial Vespertino"
+    year: "2013-2"
     ubb-WERKEN-id: "54804"
     ubb-WERKEN-call: "M(DC) 621.7 D5431 2013"
     ubb-WERKEN-author: "Díaz Navarrete, Iván Alejandro"
     ubb-WERKEN-title: "Propuesta de mejora del proceso productivo del área de preparación de materia prima de la empresa Block & Cutstock : usando la simulación como herramienta de apoyo para la toma de decisiones."
-  - key: cuevas201x
+  - key: cuevas2013balanceo
     entry: mastersthesis
     authors:
       - "B. Cuevas"
     title: "Heurística para el problema de balanceo de bicicletas públicas usando múltiples vehículos"
     school: "Universidad del Bío-Bío"
-    year: "2013-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2013-2"
     ubb-WERKEN-id: "57173"
     ubb-WERKEN-call: "M(DC) 621.7 C894 2014"
     ubb-WERKEN-author: "Cuevas Mundaca, Bernardo Javier"
     ubb-WERKEN-title: "Heurística para el problema de balanceo de bicicletas públicas usando múltiples vehículos"
-  - key: pame2013
+  - key: molina2013tesoreria
     entry: mastersthesis
     authors:
       - "P. Molina"
       - "H. Hormazábal"
     title: "Propuesta de mejora de procesos en el área de tesorería que permita el beneficio de ISAPRE Masvida a sus clientes"
     school: "Universidad del Bío-Bío"
-    year: "2013-1"
     degree: "Ingeniería Civil Industrial"
+    year: "2013-1"
     ubb-WERKEN-id: "54718"
     ubb-WERKEN-call: "M(DC) 621.7 H782 2013"
     ubb-WERKEN-author: "Hormazábal Latorre, Hellen Victoria"
     ubb-WERKEN-title: "Propuesta de mejora de procesos en el área de tesorería que permita el beneficio de ISAPRE Masvida a sus clientes."
-  - key: campos2013
+  - key: campos2013abastecimiento
     entry: mastersthesis
     authors:
       - "K. Campos"
     title: "Propuesta de mejora para el abastecimiento de medicamentos en el sector público"
     school: "Universidad del Bío-Bío"
-    year: "2013-1"
     degree: "Ingeniería Civil Industrial Vespertino"
+    year: "2013-1"
     ubb-WERKEN-id: "56756"
     ubb-WERKEN-call: "M(DC) 621.7'GO C157 2013"
     ubb-WERKEN-author: "Campos Jara, Karen Evelyn"
-  - key: ff2013
+  - key: fernandez2013secado
     entry: mastersthesis
     authors:
       - "F. Fernández"
     title: "Análisis de una alternativa de ahorro de energía en cámaras de secado de madera"
     school: "Universidad del Bío-Bío"
-    year: "2013-1"
     degree: "Ingeniería Civil Industrial Vespertino"
+    year: "2013-1"
     ubb-WERKEN-id: "54792"
     ubb-WERKEN-call: "M(DC) 621.7 F3912 2013"
     ubb-WERKEN-author: "Fernández Guzmán, Fernando Edwing"
-  - key: rossita2012
+  - key: pinto2012mercado
     entry: mastersthesis
     authors:
       - "R. Pinto"
     title: "Estudio de mercado de Biogas producido por residuos orgánicos con miras a la implementación de plantas de biomasa sustentables como alternativa energética"
     school: "Universidad del Bío-Bío"
-    year: "2012-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2012-2"
     ubb-WERKEN-id: "54206"
     ubb-WERKEN-call: "M(DC) 621.7 P658 2013"
     ubb-WERKEN-author: "Pinto González, Rossita María Fernanda"
     ubb-WERKEN-title: "Estudio de mercado de Biogas producido por residuos orgánicos con miras a la implementación de plantas de biomasa sustentables como alternativa energética"
-  - key: nancy2012
+  - key: espinoza2012conservera
     entry: mastersthesis
     authors:
       - "N. Espinoza"
     title: "Modelo de programación de la producción para empresa conservera Geomar S.A. Coronel"
     school: "Universidad del Bío-Bío"
-    year: "2012-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2012-2"
     ubb-WERKEN-id: "54127"
     ubb-WERKEN-call: "M(DC) 621.7 Es65 2013"
     ubb-WERKEN-author: "Espinoza Ramírez, Nancy Natalie"
     ubb-WERKEN-title: "Modelo de programación de la producción para empresa conservera Geomar S.A. Coronel."
-  - key: sansan2012
+  - key: sanchez2012contraloria
     entry: mastersthesis
     authors:
       - "L. Sánchez"
       - "F. Sanhueza"
     title: "Diseño de un modelo de mejoramiento continuo en contraloría médica de Isapre Masvida"
     school: "Universidad del Bío-Bío"
-    year: "2012-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2012-2"
     ubb-WERKEN-id: "54207"
     ubb-WERKEN-call: "M(DC) 621.7 Sa55 2013"
     ubb-WERKEN-author: "Sánchez López, Leonardo Alonso"
     ubb-WERKEN-title: "Diseño de un modelo de mejoramiento continuo en contraloría médica de Isapre Masvida"
-  - key: arnaldo2012
+  - key: illesca2012exploratorio
     entry: mastersthesis
     authors:
       - "A. Illesca"
     title: "Análisis exploratorio de datos y modelos de regresión lineal múltiple para pronosticar los rendimientos pulpables y la calidad de la hoja de celulosa para el eucalyptus globulus labill"
     school: "Universidad del Bío-Bío"
-    year: "2012-2"
     degree: "Ingeniería Civil Industrial"
+    year: "2012-2"
     ubb-WERKEN-id: "54436"
     ubb-WERKEN-call: "M(DC) 621.7 Il3 2012"
     ubb-WERKEN-author: "Illesca Veloso, Arnoldo Abraham"

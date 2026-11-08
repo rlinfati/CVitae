@@ -1,56 +1,56 @@
 items:
-  - start: 2025
-    end: 2025
-    title:
+  - title:
       en: "Director, Research Seminar Program (Semillero) of the Operations Management, Sustainability, and Data Science Research Group"
       es: "Director, Semillero de Investigación del Grupo de investigación en Gestión de Operaciones, Sustentabilidad, y Data Science"
-  - start: 2025
+    start: 2025
     end: 2025
-    title:
+  - title:
       en: "Director, 5th Seminar of the Operations Management, Sustainability, and Data Science Research Group"
       es: "Director, 5° Seminario del Grupo de investigación en Gestión de Operaciones, Sustentabilidad, y Data Science"
-  - start: 2025
+    start: 2025
     end: 2025
-    title:
+  - title:
       en: "Director, 4th Seminar of the Operations Management, Sustainability, and Data Science Research Group"
       es: "Director, 4° Seminario del Grupo de investigación en Gestión de Operaciones, Sustentabilidad, y Data Science"
-  - start: 2024
-    end: 2024
-    title:
+    start: 2025
+    end: 2025
+  - title:
       en: "Director, 3rd Seminar of the Operations Management, Sustainability, and Data Science Research Group"
       es: "Director, 3° Seminario del Grupo de investigación en Gestión de Operaciones, Sustentabilidad, y Data Science"
-  - start: 2024
+    start: 2024
     end: 2024
-    title:
+  - title:
       en: "Director, 2nd Seminar of the Operations Management, Sustainability, and Data Science Research Group"
       es: "Director, 2° Seminario del Grupo de investigación en Gestión de Operaciones, Sustentabilidad, y Data Science"
-  - start: 2023
-    end: 2023
-    title:
+    start: 2024
+    end: 2024
+  - title:
       en: "Director, 1st Seminar of the Operations Management, Sustainability, and Data Science Research Group"
       es: "Director, 1° Seminario del Grupo de investigación en Gestión de Operaciones, Sustentabilidad, y Data Science"
-  - start: 2022
-    end: 2022
-    title:
+    start: 2023
+    end: 2023
+  - title:
       en: "Participation in the Education, Culture, Science and Technology Commission of the Regional Council of Ñuble (CORE)"
       es: "Participación en la Comisión de Educación, Cultura, Ciencia y Tecnología del Consejo Regional de Ñuble (CORE)"
-  - start: 2017
-    end: 2017
-    title:
+    start: 2022
+    end: 2022
+  - title:
       en: "Dissemination of FONDECYT 11150370, Year 3: NEXO Logistic Submit, Talcahuano"
       es: "Difusión del FONDECYT 11150370, año 3: NEXO Logistic Submit, Talcahuano"
-  - start: 2017
+    start: 2017
     end: 2017
-    title:
+  - title:
       en: "Dissemination of FONDECYT 11150370, Year 2: Universidad Distrital, Colombia"
       es: "Difusión del FONDECYT 11150370, año 2: Universidad Distrital, Colombia"
-  - start: 2017
+    start: 2017
     end: 2017
-    title:
+  - title:
       en: "Dissemination of FONDECYT 11150370, Year 2: Universidad Andrés Bello, Santiago"
       es: "Difusión del FONDECYT 11150370, año 2: Universidad Andrés Bello, Santiago"
-  - start: 2016
-    end: 2016
-    title:
+    start: 2017
+    end: 2017
+  - title:
       en: "Dissemination of FONDECYT 11150370, Year 1: Universidad Andrés Bello, Santiago"
       es: "Difusión del FONDECYT 11150370, año 1: Universidad Andrés Bello, Santiago"
+    start: 2016
+    end: 2016

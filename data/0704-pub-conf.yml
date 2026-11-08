@@ -1,5 +1,5 @@
 items:
-  - key: gsphfc2027
+  - key: gomez2027wea
     entry: inproceedings
     authors:
       - "M. Gómez-Navarro"
@@ -15,15 +15,15 @@ items:
     volume: 3182
     number: ""
     pages: "459-469"
-    doi: "10.1007/978-3-032-41324-6_38"
-    id-google-scholar: "hMsQuOkrut0C"
-    id-scopus: "2-s2.0-105054877279"
-    isbn-print: "978-3-032-41323-9"
-    isbn-online: "978-3-032-41324-6"
-    id-orcid: "232546006"
     issn-series-print: "1865-0929"
     issn-series-online: "1865-0937"
-  - key: artiis2025
+    isbn-print: "978-3-032-41323-9"
+    isbn-online: "978-3-032-41324-6"
+    doi: "10.1007/978-3-032-41324-6_38"
+    id-scopus: "2-s2.0-105054877279"
+    id-google-scholar: "hMsQuOkrut0C"
+    id-orcid: "232546006"
+  - key: mena2025artiis
     entry: inproceedings
     authors:
       - "J.F. Mena-Reyes"
@@ -36,16 +36,16 @@ items:
     volume: 2345
     number: ""
     pages: "58-73"
-    doi: "10.1007/978-3-031-83207-9_5"
-    id-google-scholar: "vDijr-p_gm4C"
-    id-wos: "WOS:001472382700005"
-    id-scopus: "2-s2.0-105001431149"
-    isbn-print: "978-3-031-83206-2"
-    isbn-online: "978-3-031-83207-9"
-    id-orcid: "232545986"
-    id-ubb-vrip: "7471"
     issn-series-print: "1865-0929"
     issn-series-online: "1865-0937"
+    isbn-print: "978-3-031-83206-2"
+    isbn-online: "978-3-031-83207-9"
+    doi: "10.1007/978-3-031-83207-9_5"
+    id-wos: "WOS:001472382700005"
+    id-scopus: "2-s2.0-105001431149"
+    id-google-scholar: "vDijr-p_gm4C"
+    id-ubb-vrip: "7471"
+    id-orcid: "232545986"
   - key: ortiz2025sochedi
     entry: inproceedings
     authors:
@@ -55,7 +55,7 @@ items:
     booktitle: "SOCHEDI 2025"
     year: 2025
     id-google-scholar: "L7CI7m0gUJcC"
-  - key: linfati2024fuel
+  - key: linfati2024ieom
     entry: inproceedings
     authors:
       - "R. Linfati"
@@ -63,12 +63,14 @@ items:
       - "G. Latorre-Núñez"
       - "K. García-Vásquez"
     title: "A Metaheuristic for the Traveling Salesman Problem Considering Fuel Consumption"
-    booktitle: "Asia Pacific Conference on Industrial Engineering and Operations Management - IEOM"
+    booktitle: "Asia Pacific Conference on Industrial Engineering and Operations Management"
     year: 2024
+    issn-series: "2169-8767"
+    isbn: "979-8-3507-1729-7"
     doi: "10.46254/AP05.20240025"
     id-google-scholar: "ILKRHgRFtOwC"
     id-orcid: "232546931"
-  - key: icpr2023
+  - key: ortiz2023icpr
     entry: inproceedings
     authors:
       - "V. Ortiz-Araya"
@@ -81,12 +83,12 @@ items:
     volume: ""
     number: ""
     pages: "1-8"
-    doi: "10.29327/foreigners_subscription_icpr_americas22.664689"
     isbn-print: "x"
     isbn-online: "978-85-5722-913-6"
-    id-orcid: "232546940"
+    doi: "10.29327/foreigners_subscription_icpr_americas22.664689"
     id-ubb-vrip: "7250"
-  - key: novidente2022
+    id-orcid: "232546940"
+  - key: he2022cisim
     entry: inproceedings
     authors:
       - "Y. He-Astudillo"
@@ -102,17 +104,17 @@ items:
     volume: 13293
     number: ""
     pages: "123-135"
-    doi: "10.1007/978-3-031-10539-5_9"
-    id-google-scholar: "Fu2w8maKXqMC"
-    id-wos: "WOS:000893684100009"
-    id-scopus: "2-s2.0-85135070310"
-    isbn-print: "978-3-031-10538-8"
-    isbn-online: "978-3-031-10539-5"
-    id-orcid: "232545999"
-    id-ubb-vrip: "5500"
     issn-series-print: "0302-9743"
     issn-series-online: "1611-3349"
-  - key: older2022
+    isbn-print: "978-3-031-10538-8"
+    isbn-online: "978-3-031-10539-5"
+    doi: "10.1007/978-3-031-10539-5_9"
+    id-wos: "WOS:000893684100009"
+    id-scopus: "2-s2.0-85135070310"
+    id-google-scholar: "Fu2w8maKXqMC"
+    id-ubb-vrip: "5500"
+    id-orcid: "232545999"
+  - key: farias2022cisim
     entry: inproceedings
     authors:
       - "B. Farías-Barraza"
@@ -128,17 +130,17 @@ items:
     volume: 13293
     number: ""
     pages: "107-122"
-    doi: "10.1007/978-3-031-10539-5_8"
-    id-google-scholar: "W5xh706n7nkC"
-    id-wos: "WOS:000893684100008"
-    id-scopus: "2-s2.0-85135064827"
-    isbn-print: "978-3-031-10538-8"
-    isbn-online: "978-3-031-10539-5"
-    id-orcid: "232545991"
-    id-ubb-vrip: "5499"
     issn-series-print: "0302-9743"
     issn-series-online: "1611-3349"
-  - key: FLORESCARRASCO2021787
+    isbn-print: "978-3-031-10538-8"
+    isbn-online: "978-3-031-10539-5"
+    doi: "10.1007/978-3-031-10539-5_8"
+    id-wos: "WOS:000893684100008"
+    id-scopus: "2-s2.0-85135064827"
+    id-google-scholar: "W5xh706n7nkC"
+    id-ubb-vrip: "5499"
+    id-orcid: "232545991"
+  - key: flores2021incom
     entry: inproceedings
     authors:
       - "J. Flores-Carrasco"
@@ -152,15 +154,14 @@ items:
     volume: 54
     number: 1
     pages: "787-792"
+    issn-online: "2405-8963"
     doi: "10.1016/j.ifacol.2021.08.092"
-    id-google-scholar: "dQ2og3OwTAUC"
     id-wos: "WOS:000716937600130"
     id-scopus: "2-s2.0-85120673077"
-    issn-print: "-"
-    issn-online: "2405-8963"
-    id-orcid: "232546015"
+    id-google-scholar: "dQ2og3OwTAUC"
     id-ubb-vrip: "4786"
-  - key: osores2020design
+    id-orcid: "232546015"
+  - key: osores2020iop
     entry: inproceedings
     authors:
       - "F. Osores"
@@ -173,14 +174,14 @@ items:
     booktitle: "IOP Conference Series: Materials Science and Engineering - 844 - 012044"
     year: 2020
     pages: "1-9"
-    doi: "10.1088/1757-899x/844/1/012044"
-    id-google-scholar: "9vf0nzSNQJEC"
-    id-scopus: "2-s2.0-85088096188"
     issn-print: "1757-8981"
     issn-online: "1757-899X"
-    id-orcid: "232545994"
+    doi: "10.1088/1757-899x/844/1/012044"
+    id-scopus: "2-s2.0-85088096188"
+    id-google-scholar: "9vf0nzSNQJEC"
     id-ubb-vrip: "4227"
-  - key: quila2020new
+    id-orcid: "232545994"
+  - key: quila2020icits
     entry: inproceedings
     authors:
       - "D. Quila"
@@ -192,17 +193,17 @@ items:
     booktitle: "Information Technology and Systems: Proceedings of ICITS 2020 - AISC 1137"
     year: 2020
     pages: "46-53"
-    doi: "10.1007/978-3-030-40690-5_5"
-    id-google-scholar: "dTyEYWd-f8wC"
-    id-wos: "WOS:000659660600005"
-    id-scopus: "2-s2.0-85080892028"
-    isbn-print: "978-3-030-40689-9"
-    isbn-online: "978-3-030-40690-5"
-    id-orcid: "232546016"
-    id-ubb-vrip: "4251"
     issn-series-print: "2194-5357"
     issn-series-online: "2194-5365"
-  - key: toth2019
+    isbn-print: "978-3-030-40689-9"
+    isbn-online: "978-3-030-40690-5"
+    doi: "10.1007/978-3-030-40690-5_5"
+    id-wos: "WOS:000659660600005"
+    id-scopus: "2-s2.0-85080892028"
+    id-google-scholar: "dTyEYWd-f8wC"
+    id-ubb-vrip: "4251"
+    id-orcid: "232546016"
+  - key: toth2019ieom
     entry: inproceedings
     authors:
       - "P. Toth"
@@ -215,13 +216,13 @@ items:
     booktitle: "International Conference on Industrial Engineering and Operations Management"
     year: 2019
     pages: "3327-3328"
+    issn-series: "2169-8767"
+    isbn: "978-1-5323-5948-4"
     doi: "10.46254/AN09.20190760"
     id-scopus: "2-s2.0-85067239849"
-    isbn: "978-1-5323-5948-4"
-    issn-series: "2169-8767"
-    id-orcid: "232545967"
     id-ubb-vrip: "5691"
-  - key: cacchiani2018
+    id-orcid: "232545967"
+  - key: cacchiani2018ods
     entry: inproceedings
     authors:
       - "V. Cacchiani"
@@ -234,16 +235,16 @@ items:
     booktitle: "New Trends in Emerging Complex Real Life Problems"
     year: 2018
     pages: "83-91"
-    doi: "10.1007/978-3-030-00473-6_10"
-    id-google-scholar: "HE397vMXCloC"
-    id-scopus: "2-s2.0-85105492770"
-    isbn-print: "978-3-030-00472-9"
-    isbn-online: "978-3-030-00473-6"
-    id-orcid: "232545974"
-    id-ubb-vrip: "4281"
     issn-series-print: "2523-7047"
     issn-series-online: "2523-7055"
-  - key: diaz2018
+    isbn-print: "978-3-030-00472-9"
+    isbn-online: "978-3-030-00473-6"
+    doi: "10.1007/978-3-030-00473-6_10"
+    id-scopus: "2-s2.0-85105492770"
+    id-google-scholar: "HE397vMXCloC"
+    id-ubb-vrip: "4281"
+    id-orcid: "232545974"
+  - key: diaz2018jiisic
     entry: inproceedings
     authors:
       - "N. Díaz"
@@ -255,27 +256,27 @@ items:
     booktitle: "JIISIC 2018 - Jornadas Iberoamericanas de Ingenieria de Software e Ingenieria del Conocimiento"
     year: 2018
     pages: "109-124"
-    doi: ""
-    id-google-scholar: "tkaPQYYpVKoC"
-    id-scopus: "2-s2.0-85050110380"
     isbn: "978-1-5108-6325-5"
-    id-orcid: "232545968"
+    doi: ""
+    id-scopus: "2-s2.0-85050110380"
+    id-google-scholar: "tkaPQYYpVKoC"
     id-ubb-vrip: "6426"
-  - key: bernal2018conf
+    id-orcid: "232545968"
+  - key: bernal2018ieom
     entry: inproceedings
     authors:
       - "J. Bernal-Moyano"
       - "J.W. Escobar"
       - "R. Linfati"
     title: "A granular tabu search algorithm for a real case study of a vehicle routing problem with a heterogeneous fleet and time windows"
-    booktitle: "European International Conference on Industrial Engineering and Operations Management - IEOM"
+    booktitle: "European International Conference on Industrial Engineering and Operations Management"
     year: 2018
     pages: "277-278"
-    doi: ""
-    id-scopus: "2-s2.0-85066921920"
     issn-series: "2169-8767"
     isbn: "978-1-5323-5945-3"
+    id-scopus: "2-s2.0-85066921920"
     id-ubb-vrip: "5692"
+    id-orcid: "232545969"
   - key: pradenas2015ewgord
     entry: inproceedings
     authors:
@@ -289,7 +290,7 @@ items:
     booktitle: "Workshop on OR for Development (EWG-ORD)"
     year: 2015
     id-google-scholar: "g3aElNc5_aQC"
-  - key: escobar2015c
+  - key: escobar2015iesm
     entry: inproceedings
     authors:
       - "L.M. Escobar-Falcon"
@@ -301,11 +302,11 @@ items:
     booktitle: "2015 International Conference on Industrial Engineering and Systems Management, IEEE IESM 2015"
     year: 2015
     pages: "1374-1382"
-    doi: "10.1109/IESM.2015.7380331"
-    id-google-scholar: "uWQEDVKXjbEC"
-    id-wos: "WOS:000380454700169"
-    id-scopus: "2-s2.0-84971657500"
     isbn-electronic: "978-2-9600-5326-5"
     isbn-usb: "978-2-9600-5325-8"
-    id-orcid: "232546012"
+    doi: "10.1109/IESM.2015.7380331"
+    id-wos: "WOS:000380454700169"
+    id-scopus: "2-s2.0-84971657500"
+    id-google-scholar: "uWQEDVKXjbEC"
     id-ubb-vrip: "47"
+    id-orcid: "232546012"
